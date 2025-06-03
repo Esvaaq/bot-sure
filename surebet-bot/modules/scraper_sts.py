@@ -1,0 +1,467 @@
+import requests
+import random
+import time
+from datetime import datetime, timedelta
+import sys
+import os
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
+# Upewnij się, że ścieżka do modułów jest poprawna:
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from modules.config_manager import ConfigManager
+from modules.proxy_manager import ProxyManager
+
+# ————————————
+# Stałe konfiguracyjne
+# ————————————
+SCAN_LIMIT_BEFORE_PAUSE    = 12
+PAUSE_TIME_RANGE           = (600, 900)      # 10–15 minut
+SLEEP_BETWEEN_REQUESTS     = (12, 25)        # 12–25 s między meczami
+MATCH_SKIP_TIME            = 2700            # 45 minut
+BASE_URL                   = "https://www.sts.pl"
+LOG_FILE                   = "bot_log_sts.txt"
+
+# Lista dozwolonych rynków (market names). Na razie zakomentowane – odkomentuj później jeśli chcesz filtrować
+# ALLOWED_MARKETS = [
+#     "obie drużyny strzelą gola",
+#     "liczba goli",
+#     "1x2",
+#     "podwójna szansa",
+#     # Dodaj własne nazwy rynków w formacie małych liter
+# ]
+
+config = ConfigManager("config.yaml")
+proxy_manager = ProxyManager(config)
+scanned_matches = {}
+
+# Mapowanie polskich dni tygodnia na indeks (0=poniedziałek, ..., 6=niedziela)
+WEEKDAY_MAP = {
+    "poniedziałek": 0,
+    "wtorek":      1,
+    "środa":       2,
+    "czwartek":    3,
+    "piątek":      4,
+    "sobota":      5,
+    "niedziela":   6
+}
+
+def log(message: str):
+    """
+    Logowanie z rotacją pliku (maks. 1000 ostatnich linii).
+    """
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"[{timestamp}] {message}"
+    print(line)
+    try:
+        with open(LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(line + "\n")
+    except Exception:
+        pass
+
+    try:
+        with open(LOG_FILE, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+        if len(lines) > 1500:
+            with open(LOG_FILE, "w", encoding="utf-8") as f2:
+                f2.writelines(lines[-1000:])
+    except Exception:
+        pass
+
+def next_date_for_weekday(weekday_index: int) -> datetime.date:
+    """
+    Zwraca najbliższą przyszłą (lub dzisiejszą) datę odpowiadającą podanemu indeksowi dnia tygodnia.
+    """
+    today = datetime.now().date()
+    today_index = today.weekday()
+    days_ahead = (weekday_index - today_index) % 7
+    return today + timedelta(days=days_ahead)
+
+def parse_match_datetime(date_txt: str, time_txt: str):
+    """
+    Parsuje tekst daty i godziny ze strony STS i zwraca obiekt datetime.
+    - date_txt: "Dzisiaj", "Jutro", "Poniedziałek,", "DD.MM.YYYY", "DD.MM" lub None.
+    - time_txt: "HH:MM" lub None.
+    """
+    now = datetime.now()
+    date_obj = None
+
+    if not date_txt:
+        date_obj = now.date()
+    else:
+        txt = date_txt.strip().lower().rstrip(',')
+        if "dziś" in txt or "dzisiaj" in txt:
+            date_obj = now.date()
+        elif "jutro" in txt:
+            date_obj = (now + timedelta(days=1)).date()
+        elif txt in WEEKDAY_MAP:
+            date_obj = next_date_for_weekday(WEEKDAY_MAP[txt])
+        else:
+            try:
+                date_obj = datetime.strptime(date_txt.strip(), "%d.%m.%Y").date()
+            except ValueError:
+                try:
+                    temp = datetime.strptime(date_txt.strip(), "%d.%m").date()
+                    date_obj = temp.replace(year=now.year)
+                    if date_obj < now.date():
+                        date_obj = date_obj.replace(year=now.year + 1)
+                except ValueError:
+                    return None
+
+    try:
+        time_obj = datetime.strptime(time_txt, "%H:%M").time() if time_txt else datetime.min.time()
+    except (ValueError, TypeError):
+        time_obj = datetime.min.time()
+
+    return datetime.combine(date_obj, time_obj)
+
+def get_match_links(league_url: str):
+    """
+    Scrapuje linki do poszczególnych meczów z podanej strony ligi STS.
+    """
+    links = []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            kwargs = proxy_manager.get_request_kwargs()
+            ua = kwargs.get("headers", {}).get("User-Agent", "")
+            ctx_args = {}
+            proxy = kwargs.get("proxies")
+            if proxy:
+                server = proxy if isinstance(proxy, str) else next(iter(proxy.values()), None)
+                if server:
+                    ctx_args["proxy"] = {"server": server}
+                    log(f"PLAYWRIGHT używa proxy: {server}")
+
+            context = browser.new_context(user_agent=ua, **ctx_args)
+            log(f"PLAYWRIGHT używa User-Agent: {ua}")
+
+            page = context.new_page()
+            log(f"PLAYWRIGHT (liga): Ładowanie {league_url}")
+            try:
+                response = page.goto(league_url, timeout=60000)
+                if response:
+                    log(f"PLAYWRIGHT (liga): Status HTTP: {response.status}")
+                page.wait_for_timeout(3000)
+                for _ in range(5):
+                    page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                    page.wait_for_timeout(1500)
+            except PlaywrightTimeoutError as e:
+                log(f"PLAYWRIGHT WARN (liga): {e}")
+
+            anchors = page.query_selector_all("bb-prematch-match-tile a")
+            log(f"PLAYWRIGHT (liga): Znaleziono {len(anchors)} linków do meczów.")
+            for a in anchors:
+                href = a.get_attribute("href")
+                if href and href.startswith("/kursy/"):
+                    full_url = requests.compat.urljoin(BASE_URL, href)
+                    links.append(full_url)
+                    log(f"Dodano link: {full_url}")
+
+            context.close()
+            browser.close()
+    except Exception as e:
+        log(f"PLAYWRIGHT ERROR (liga): {e}")
+
+    return links
+
+def fetch_markets_with_playwright(match_url: str):
+    """
+    Otwiera stronę meczu i przewija CAŁĄ stronę stopniowo, aż placeholdery
+    <bb-loading-match> zostaną zastąpione przez rzeczywiste
+    <div.match-details-group__container>. Loguje przy każdej iteracji
+    liczbę loaderów i liczbę wyrenderowanych kontenerów. Kończy, gdy liczba
+    kontenerów w DOM-ie przestanie rosnąć.
+    """
+    markets = []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            kwargs = proxy_manager.get_request_kwargs()
+            ua = kwargs.get("headers", {}).get("User-Agent", "")
+            ctx_args = {}
+            proxy = kwargs.get("proxies")
+            if proxy:
+                server = proxy if isinstance(proxy, str) else next(iter(proxy.values()), None)
+                if server:
+                    ctx_args["proxy"] = {"server": server}
+                    log(f"PLAYWRIGHT używa proxy: {server}")
+
+            context = browser.new_context(user_agent=ua, **ctx_args)
+            log(f"PLAYWRIGHT używa User-Agent: {ua}")
+
+            page = context.new_page()
+            log(f"PLAYWRIGHT (mecz): Ładowanie {match_url}")
+            try:
+                response = page.goto(match_url, timeout=60000)
+                if response:
+                    log(f"PLAYWRIGHT (mecz): Status HTTP: {response.status}")
+                page.wait_for_selector(".shirts-container .detailed-scoreboard__container", timeout=10000)
+            except PlaywrightTimeoutError:
+                log("PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.")
+
+            # Dajemy chwilę na wstępne wczytanie (pierwsze grupy + placeholdery)
+            page.wait_for_timeout(1000)
+
+            # Wstrzykiwanie własnego pola "wyszukaj" do DOM, aby symulować Ctrl+F
+            page.evaluate("""
+              if (!document.getElementById('playwrightSearch')) {
+                const input = document.createElement('input');
+                input.id = 'playwrightSearch';
+                input.style.position = 'fixed';
+                input.style.top = '10px';
+                input.style.left = '10px';
+                input.style.zIndex = '9999';
+                input.style.padding = '4px';
+                input.style.background = 'white';
+                input.style.border = '1px solid #888';
+                input.placeholder = 'Wyszukaj bb-loading-match...';
+                document.body.appendChild(input);
+
+                let lastIndex = 0;
+                let matches = [];
+
+                input.addEventListener('keydown', async (e) => {
+                  if (e.key === 'Enter') {
+                    const term = input.value.trim();
+                    if (!term) {
+                      matches = [];
+                      lastIndex = 0;
+                      return;
+                    }
+                    matches = Array.from(document.querySelectorAll(term));
+                    lastIndex = 0;
+                    if (matches.length > 0) {
+                      matches[0].scrollIntoView({ block: 'center' });
+                      matches[0].style.outline = '2px solid orange';
+                    }
+                  } else if (e.key === 'F3' || (e.key === 'ArrowDown' && e.ctrlKey)) {
+                    if (matches.length > 0) {
+                      matches[lastIndex].style.outline = '';
+                      lastIndex = (lastIndex + 1) % matches.length;
+                      matches[lastIndex].scrollIntoView({ block: 'center' });
+                      matches[lastIndex].style.outline = '2px solid orange';
+                    }
+                  }
+                });
+              }
+            """
+            )
+
+            # Zliczenie faktycznej liczby placeholderów <bb-loading-match>
+            initial_loaders = len(page.query_selector_all("bb-loading-match"))
+            log(f"PLAYWRIGHT DEBUG: Placeholderów do przewinięcia: {initial_loaders}")
+
+            # Automatyczne użycie wstrzykniętego pola do przewinięcia każdego loadera
+            page.fill('#playwrightSearch', 'bb-loading-match')
+            page.press('#playwrightSearch', 'Enter')
+            page.wait_for_timeout(500)
+
+            for _ in range(initial_loaders):
+                page.press('#playwrightSearch', 'F3')
+                page.wait_for_timeout(300)
+
+            # Teraz przechodzimy do normalnego scrollowania w dół, by złapać ewentualne
+            # kolejne grupy, które mogą się załadować po początkowym przewinięciu
+            prev_container_count = -1
+            stable_loops = 0
+            log("PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…")
+            for step in range(100):
+                page.evaluate("window.scrollBy(0, window.innerHeight);")
+                page.wait_for_timeout(700)
+
+                loader_count = len(page.query_selector_all("bb-loading-match"))
+                container_count = len(page.query_selector_all("div.match-details-group__container"))
+                log(f"    [SCROLL] krok={step+1}, placeholderów={loader_count}, wyrenderowanych grup={container_count}")
+
+                if container_count == prev_container_count:
+                    stable_loops += 1
+                else:
+                    stable_loops = 0
+                    prev_container_count = container_count
+
+                if stable_loops >= 3 and loader_count == 0:
+                    log(f"    [SCROLL] Liczba grup ustabilizowała się na {container_count}, przerywam.")
+                    break
+
+            page.wait_for_timeout(500)
+
+            # Teraz w DOM są wszystkie grupy rynków
+            groups = page.query_selector_all("div.match-details-group__container")
+            final_count = len(groups)
+            log(f"PLAYWRIGHT (mecz): OSTATECZNIE znaleziono {final_count} grup rynków.")
+            if final_count < 30:
+                html0 = groups[0].inner_html() if groups else ""
+                log(f"PLAYWRIGHT DEBUG: Tylko {final_count} grup. HTML pierwszej: {html0[:200]}…")
+
+            # Zbieranie kursów
+            for idx, grp in enumerate(groups, start=1):
+                try:
+                    title_el = grp.query_selector(".match-details-group__title div")
+                    if not title_el:
+                        continue
+                    mkt_name = title_el.inner_text().strip().lower()
+
+                    # Jeśli chcesz filtrować tylko dozwolone rynki, odkomentuj poniższą linijkę:
+                    # if mkt_name not in ALLOWED_MARKETS:
+                    #     continue
+
+                    buttons = grp.query_selector_all("sds-odds-button")
+                    if not buttons:
+                        log(f"    WARN: Rynek '{mkt_name}' — brak <sds-odds-button>")
+                        continue
+
+                    count_in_group = 0
+                    for btn in buttons:
+                        label_el = btn.query_selector(".odds-button__label span")
+                        odd_el   = btn.query_selector(".odds-button__odd-value")
+                        sel_txt  = label_el.inner_text().strip() if label_el else None
+                        val_txt  = odd_el.inner_text().strip() if odd_el else None
+
+                        if sel_txt and val_txt and val_txt not in ("0", "0.0", "-", ""):
+                            markets.append({
+                                "market":    mkt_name,
+                                "selection": sel_txt.lower(),
+                                "odds":      val_txt
+                            })
+                            count_in_group += 1
+
+                    if count_in_group > 0 and (idx <= 5 or idx % 10 == 0):
+                        log(f"    Grupa {idx}: '{mkt_name}' — dodano {count_in_group} kursów")
+                except Exception as e:
+                    log(f"    WARN (przy grupie {idx}): {e}")
+
+            log(f"PLAYWRIGHT: Zebrano łącznie {len(markets)} kursów z {final_count} grup rynków.")
+
+            context.close()
+            browser.close()
+
+    except Exception as e:
+        log(f"PLAYWRIGHT ERROR (mecz): {e}")
+
+    return markets
+
+
+def parse_match_page(match_url: str):
+    """
+    – Scrapujemy nagłówek meczu (sport, liga, drużyny, data/godzina),
+    – Następnie wywołujemy fetch_markets_with_playwright(), aby zebrać wszystkie kursy.
+    """
+    result = {
+        "match_name": None,
+        "sport":      None,
+        "competition":None,
+        "datetime":   None,
+        "markets":    []
+    }
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            kwargs = proxy_manager.get_request_kwargs()
+            ua = kwargs.get("headers", {}).get("User-Agent", "")
+            ctx_args = {}
+            proxy = kwargs.get("proxies")
+            if proxy:
+                server = proxy if isinstance(proxy, str) else next(iter(proxy.values()), None)
+                if server:
+                    ctx_args["proxy"] = {"server": server}
+                    log(f"PLAYWRIGHT używa proxy: {server}")
+            context = browser.new_context(user_agent=ua, **ctx_args)
+            log(f"PLAYWRIGHT używa User-Agent: {ua}")
+
+            page = context.new_page()
+            log(f"PLAYWRIGHT (nagłówek meczu): Ładowanie {match_url}")
+            try:
+                response = page.goto(match_url, timeout=60000)
+                if response:
+                    log(f"PLAYWRIGHT (nagłówek): Status HTTP: {response.status}")
+                page.wait_for_selector(".shirts-container .detailed-scoreboard__container", timeout=10000)
+                page.mouse.wheel(0, 1000)
+                page.wait_for_timeout(1000)
+            except PlaywrightTimeoutError:
+                log("PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.")
+
+            labels = page.query_selector_all("div.breadcrumb-container__label")
+            if len(labels) >= 2:
+                result["sport"]       = labels[0].inner_text().strip()
+                result["competition"] = labels[1].inner_text().strip()
+
+            left_el  = page.query_selector(".team-container .detailed-scoreboard__bold-label span")
+            right_el = page.query_selector(".team-container.team-container--right .detailed-scoreboard__bold-label span")
+            if left_el and right_el:
+                left  = left_el.inner_text().strip()
+                right = right_el.inner_text().strip()
+                result["match_name"] = f"{left} - {right}"
+
+            date_el = page.query_selector(".shirts-container .detailed-scoreboard__sub-label")
+            time_el = page.query_selector(".shirts-container .detailed-scoreboard__sub-label--highlight span")
+            date_txt = date_el.inner_text().strip() if date_el else None
+            time_txt = time_el.inner_text().strip() if time_el else None
+            log(f"    [DEBUG] Surowe date_txt='{date_txt}', time_txt='{time_txt}'")
+
+            result["datetime"] = parse_match_datetime(date_txt, time_txt)
+
+            context.close()
+            browser.close()
+    except Exception as e:
+        log(f"PLAYWRIGHT ERROR (nagłówek meczu): {e}")
+        return None
+
+    result["markets"] = fetch_markets_with_playwright(match_url)
+    return result
+
+def main():
+    scan_count = 0
+    LEAGUES_TO_SCAN = [
+        "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
+        # Możesz dodać inne ligi STS
+    ]
+
+    log("START BOTA STS")
+    while True:
+        for league_url in LEAGUES_TO_SCAN:
+            log(f"INFO: Pobieram listę meczów z ligi: {league_url}")
+            match_links = get_match_links(league_url)
+            if not match_links:
+                time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+                continue
+
+            for link in match_links:
+                match_id = link.rstrip("/").split("/")[-1]
+                if match_id in scanned_matches and (datetime.now() - scanned_matches[match_id]).seconds < MATCH_SKIP_TIME:
+                    log(f"Pomiń już zeskanowany mecz: {match_id}")
+                    continue
+
+                details = parse_match_page(link)
+                if not details:
+                    continue
+
+                if details["datetime"]:
+                    log(f"INFO: {details['match_name']} | {details['sport']} | {details['competition']} | {details['datetime'].strftime('%d.%m.%Y %H:%M')}")
+                else:
+                    log(f"INFO: {details['match_name']} | {details['sport']} | {details['competition']} | data/godzina nieznana")
+
+                if details["markets"]:
+                    log(f"ZNALEZIONO {len(details['markets'])} KURSÓW:")
+                    for m in details["markets"]:
+                        log(f"    - {m['market']} / {m['selection']} @ {m['odds']}")
+                else:
+                    log("    Brak rynków / kursów na stronie meczu")
+
+                scanned_matches[match_id] = datetime.now()
+                scan_count += 1
+                if scan_count >= SCAN_LIMIT_BEFORE_PAUSE:
+                    pause = random.randint(*PAUSE_TIME_RANGE)
+                    log(f"PAUSE: Pauza na {pause}s po {SCAN_LIMIT_BEFORE_PAUSE} skanach")
+                    time.sleep(pause)
+                    scan_count = 0
+
+                time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+
+        now = datetime.now()
+        for key, ts in list(scanned_matches.items()):
+            if (now - ts).seconds > MATCH_SKIP_TIME:
+                del scanned_matches[key]
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,1314 @@
+[2025-06-02 17:47:04]     [LOADER→ZINIK] Próba 15: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:05]     [LOADER→ZINIK] Próba 16: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:06]     [LOADER→ZINIK] Próba 17: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:07]     [LOADER→ZINIK] Próba 18: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:08]     [LOADER→ZINIK] Próba 19: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:09]     [LOADER→ZINIK] Próba 20: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:10]     [LOADER→ZINIK] Próba 21: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:11]     [LOADER→ZINIK] Próba 22: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:12]     [LOADER→ZINIK] Próba 23: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:13]     [LOADER→ZINIK] Próba 24: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:14]     [LOADER→ZINIK] Próba 25: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:15]     [LOADER→ZINIK] Próba 26: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:16]     [LOADER→ZINIK] Próba 27: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:17]     [LOADER→ZINIK] Próba 28: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:18]     [LOADER→ZINIK] Próba 29: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:19]     [LOADER→ZINIK] Próba 30: loader wciąż widoczny → czekam.
+[2025-06-02 17:47:20] PLAYWRIGHT WARN: <bb-loading-match> wciąż widoczny po 30 próbach. Kontynuuję…
+[2025-06-02 17:47:21] PLAYWRIGHT: Dalsze scrollowanie 'prematch-odds', aż liczba grup się ustabilizuje…
+[2025-06-02 17:47:22]     [INNER SCROLL] krok=1, grup=4
+[2025-06-02 17:47:23]     [INNER SCROLL] krok=2, grup=4
+[2025-06-02 17:47:24] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 4 grup rynków.
+[2025-06-02 17:47:24] PLAYWRIGHT DEBUG: Tylko 4 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-02 17:47:24]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-02 17:47:24]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-02 17:47:25]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-02 17:47:25]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-02 17:47:25] PLAYWRIGHT: Zebrano łącznie 22 kursów z 4 grup rynków.
+[2025-06-02 17:47:25] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-02 17:47:25] ZNALEZIONO 22 KURSÓW:
+[2025-06-02 17:47:25]     - mecz / botafogo rj @ 1.60
+[2025-06-02 17:47:25]     - mecz / x @ 3.60
+[2025-06-02 17:47:25]     - mecz / ceara @ 5.10
+[2025-06-02 17:47:25]     - mecz / 1x @ 1.14
+[2025-06-02 17:47:25]     - mecz / x2 @ 2.15
+[2025-06-02 17:47:25]     - mecz / 12 @ 1.24
+[2025-06-02 17:47:25]     - zakład bez remisu / botafogo rj @ 1.22
+[2025-06-02 17:47:25]     - zakład bez remisu / ceara @ 3.80
+[2025-06-02 17:47:25]     - liczba goli / - 0.5 @ 8.25
+[2025-06-02 17:47:25]     - liczba goli / + 0.5 @ 1.07
+[2025-06-02 17:47:25]     - liczba goli / - 1.5 @ 2.75
+[2025-06-02 17:47:25]     - liczba goli / + 1.5 @ 1.38
+[2025-06-02 17:47:25]     - liczba goli / - 2.5 @ 1.62
+[2025-06-02 17:47:25]     - liczba goli / + 2.5 @ 2.15
+[2025-06-02 17:47:25]     - liczba goli / - 3.5 @ 1.22
+[2025-06-02 17:47:25]     - liczba goli / + 3.5 @ 3.90
+[2025-06-02 17:47:25]     - liczba goli / - 4.5 @ 1.06
+[2025-06-02 17:47:25]     - liczba goli / + 4.5 @ 8.10
+[2025-06-02 17:47:25]     - liczba goli / - 5.5 @ 1.01
+[2025-06-02 17:47:25]     - liczba goli / + 5.5 @ 18.00
+[2025-06-02 17:47:25]     - 1. drużyna strzeli gola / tak @ 1.19
+[2025-06-02 17:47:25]     - 1. drużyna strzeli gola / nie @ 4.25
+[2025-06-03 15:16:12] START BOTA STS
+[2025-06-03 15:16:12] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:16:13] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:16:14] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:16:26] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 15:16:36] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 15:16:36] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 15:16:38] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:16:38] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:16:38] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 15:16:48] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 15:16:48]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 15:16:49] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:16:49] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:16:50] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 15:17:00] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 15:17:01] PLAYWRIGHT: Stopniowo przewijam stronę, aż pojawi się loader <bb-loading-match>…
+[2025-06-03 15:17:02]     [SCROLL→LOADER] Próba 1: <bb-loading-match> widoczny.
+[2025-06-03 15:17:02] PLAYWRIGHT: Czekam na zniknięcie <bb-loading-match>…
+[2025-06-03 15:17:02]     [LOADER] Próba 1: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:03]     [LOADER] Próba 2: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:04]     [LOADER] Próba 3: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:05]     [LOADER] Próba 4: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:06]     [LOADER] Próba 5: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:07]     [LOADER] Próba 6: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:08]     [LOADER] Próba 7: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:09]     [LOADER] Próba 8: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:10]     [LOADER] Próba 9: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:11]     [LOADER] Próba 10: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:12]     [LOADER] Próba 11: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:13]     [LOADER] Próba 12: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:14]     [LOADER] Próba 13: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:15]     [LOADER] Próba 14: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:16]     [LOADER] Próba 15: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:17]     [LOADER] Próba 16: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:18]     [LOADER] Próba 17: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:19]     [LOADER] Próba 18: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:20]     [LOADER] Próba 19: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:21]     [LOADER] Próba 20: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:22]     [LOADER] Próba 21: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:23]     [LOADER] Próba 22: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:24]     [LOADER] Próba 23: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:25]     [LOADER] Próba 24: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:26]     [LOADER] Próba 25: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:27]     [LOADER] Próba 26: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:28]     [LOADER] Próba 27: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:29]     [LOADER] Próba 28: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:30]     [LOADER] Próba 29: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:31]     [LOADER] Próba 30: spinner wciąż widoczny → czekam.
+[2025-06-03 15:17:32] PLAYWRIGHT WARN: <bb-loading-match> wciąż widoczny po 30 próbach.
+[2025-06-03 15:17:33] PLAYWRIGHT: Dalsze przewijanie, aż wszystkie `<bb-loading-match>` zostaną wymienione na `.match-details-group__container`…
+[2025-06-03 15:17:34]     [FINAL SCROLL] krok=1, znalezionych grup=4
+[2025-06-03 15:17:34]     [FINAL SCROLL] krok=2, znalezionych grup=4
+[2025-06-03 15:17:35] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 4 grup rynków.
+[2025-06-03 15:17:35] PLAYWRIGHT DEBUG: Tylko 4 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-03 15:17:36]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 15:17:36]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 15:17:36]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 15:17:36]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 15:17:36] PLAYWRIGHT: Zebrano łącznie 22 kursów z 4 grup rynków.
+[2025-06-03 15:17:36] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 15:17:36] ZNALEZIONO 22 KURSÓW:
+[2025-06-03 15:17:36]     - mecz / botafogo rj @ 1.56
+[2025-06-03 15:17:36]     - mecz / x @ 3.60
+[2025-06-03 15:17:36]     - mecz / ceara @ 5.60
+[2025-06-03 15:17:36]     - mecz / 1x @ 1.13
+[2025-06-03 15:17:36]     - mecz / x2 @ 2.25
+[2025-06-03 15:17:36]     - mecz / 12 @ 1.25
+[2025-06-03 15:17:36]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 15:17:36]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 15:17:36]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 15:17:36]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 15:17:36]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 15:17:36]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 15:17:36]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 15:17:36]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 15:17:36]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 15:17:36]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 15:17:36]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 15:17:36]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 15:17:36]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 15:17:36]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 15:17:36]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 15:17:36]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 15:27:31] START BOTA STS
+[2025-06-03 15:27:31] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:27:31] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 15:27:32] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:27:39] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 15:27:50] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 15:27:50] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 15:27:51] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:27:51] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:27:52] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 15:28:02] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 15:28:02]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 15:28:03] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:28:03] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:28:04] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 15:28:14] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 15:28:15] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 15:28:15]     [SCROLL] krok=1, wyrenderowanych grup=4
+[2025-06-03 15:28:16]     [SCROLL] krok=2, wyrenderowanych grup=4
+[2025-06-03 15:28:17]     [SCROLL] krok=3, wyrenderowanych grup=4
+[2025-06-03 15:28:18]     [SCROLL] krok=4, wyrenderowanych grup=4
+[2025-06-03 15:28:18]     [SCROLL] Liczba grup ustabilizowała się na 4, przerywam.
+[2025-06-03 15:28:18] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 4 grup rynków.
+[2025-06-03 15:28:18] PLAYWRIGHT DEBUG: Tylko 4 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-03 15:28:18]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 15:28:18]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 15:28:19]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 15:28:19]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 15:28:19] PLAYWRIGHT: Zebrano łącznie 22 kursów z 4 grup rynków.
+[2025-06-03 15:28:19] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 15:28:19] ZNALEZIONO 22 KURSÓW:
+[2025-06-03 15:28:19]     - mecz / botafogo rj @ 1.56
+[2025-06-03 15:28:19]     - mecz / x @ 3.60
+[2025-06-03 15:28:19]     - mecz / ceara @ 5.60
+[2025-06-03 15:28:19]     - mecz / 1x @ 1.13
+[2025-06-03 15:28:19]     - mecz / x2 @ 2.25
+[2025-06-03 15:28:19]     - mecz / 12 @ 1.25
+[2025-06-03 15:28:19]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 15:28:19]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 15:28:19]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 15:28:19]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 15:28:19]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 15:28:19]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 15:28:19]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 15:28:19]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 15:28:19]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 15:28:19]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 15:28:19]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 15:28:19]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 15:28:19]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 15:28:19]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 15:28:19]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 15:28:19]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 15:38:37] START BOTA STS
+[2025-06-03 15:38:37] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:38:39] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 15:38:39] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 15:38:46] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 15:38:57] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 15:38:57] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 15:38:59] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 15:38:59] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:39:00] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 15:39:10] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 15:39:10]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 15:39:11] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 15:39:11] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 15:39:12] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 15:39:22] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 15:39:23] PLAYWRIGHT DEBUG: Na starcie placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 15:39:23] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 15:39:23]     [SCROLL] krok=1, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 15:39:24]     [SCROLL] krok=2, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 15:39:25]     [SCROLL] krok=3, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 15:39:26]     [SCROLL] krok=4, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 15:39:26]     [SCROLL] Liczba grup ustabilizowała się na 4, przerywam.
+[2025-06-03 15:39:26] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 4 grup rynków.
+[2025-06-03 15:39:26] PLAYWRIGHT DEBUG: Tylko 4 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-03 15:39:26]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 15:39:26]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 15:39:27]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 15:39:27]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 15:39:27] PLAYWRIGHT: Zebrano łącznie 22 kursów z 4 grup rynków.
+[2025-06-03 15:39:27] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 15:39:27] ZNALEZIONO 22 KURSÓW:
+[2025-06-03 15:39:27]     - mecz / botafogo rj @ 1.56
+[2025-06-03 15:39:27]     - mecz / x @ 3.60
+[2025-06-03 15:39:27]     - mecz / ceara @ 5.60
+[2025-06-03 15:39:27]     - mecz / 1x @ 1.13
+[2025-06-03 15:39:27]     - mecz / x2 @ 2.25
+[2025-06-03 15:39:27]     - mecz / 12 @ 1.25
+[2025-06-03 15:39:27]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 15:39:27]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 15:39:27]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 15:39:27]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 15:39:27]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 15:39:27]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 15:39:27]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 15:39:27]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 15:39:27]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 15:39:27]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 15:39:27]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 15:39:27]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 15:39:27]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 15:39:27]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 15:39:27]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 15:39:27]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 16:22:35] START BOTA STS
+[2025-06-03 16:22:35] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:22:36] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 16:22:36] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:22:44] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:22:54] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:22:54] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:22:55] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 16:22:55] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:22:56] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 16:23:06] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 16:23:06]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 16:23:07] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 16:23:07] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:23:08] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 16:23:18] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 16:23:35] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 16:23:36]     [SCROLL] krok=1, placeholderów=29, wyrenderowanych grup=56
+[2025-06-03 16:23:37]     [SCROLL] krok=2, placeholderów=29, wyrenderowanych grup=56
+[2025-06-03 16:23:38]     [SCROLL] krok=3, placeholderów=29, wyrenderowanych grup=56
+[2025-06-03 16:23:38]     [SCROLL] krok=4, placeholderów=29, wyrenderowanych grup=56
+[2025-06-03 16:23:38]     [SCROLL] Liczba grup ustabilizowała się na 56, przerywam.
+[2025-06-03 16:23:39] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 56 grup rynków.
+[2025-06-03 16:23:39]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 16:23:39]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 16:23:39]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 16:23:39]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:23:39]     Grupa 5: '2. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:23:40]     Grupa 10: 'handicap' – dodano 8 kursów
+[2025-06-03 16:23:41]     Grupa 20: 'dokładny wynik (3)' – dodano 9 kursów
+[2025-06-03 16:23:42]     Grupa 30: '1. drużyna - liczba goli nieparzysta / parzysta' – dodano 2 kursów
+[2025-06-03 16:23:43]     Grupa 40: '1. drużyna - strzeli gola w obu połowach' – dodano 2 kursów
+[2025-06-03 16:23:44]     Grupa 50: '1. połowa' – dodano 6 kursów
+[2025-06-03 16:23:45] PLAYWRIGHT: Zebrano łącznie 254 kursów z 56 grup rynków.
+[2025-06-03 16:23:45] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 16:23:45] ZNALEZIONO 254 KURSÓW:
+[2025-06-03 16:23:45]     - mecz / botafogo rj @ 1.56
+[2025-06-03 16:23:45]     - mecz / x @ 3.60
+[2025-06-03 16:23:45]     - mecz / ceara @ 5.60
+[2025-06-03 16:23:45]     - mecz / 1x @ 1.13
+[2025-06-03 16:23:45]     - mecz / x2 @ 2.25
+[2025-06-03 16:23:45]     - mecz / 12 @ 1.25
+[2025-06-03 16:23:45]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 16:23:45]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 16:23:45]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 16:23:45]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 16:23:45]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 16:23:45]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 16:23:45]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 16:23:45]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 16:23:45]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 16:23:45]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 16:23:45]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 16:23:45]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 16:23:45]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 16:23:45]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 16:23:45]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 16:23:45]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 16:23:45]     - 2. drużyna strzeli gola / tak @ 1.85
+[2025-06-03 16:23:45]     - 2. drużyna strzeli gola / nie @ 1.85
+[2025-06-03 16:23:45]     - obie drużyny strzelą gola / tak @ 2.25
+[2025-06-03 16:23:45]     - obie drużyny strzelą gola / nie @ 1.58
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / - 0.5 @ 4.40
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / + 0.5 @ 1.18
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / - 1.5 @ 1.85
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / + 1.5 @ 1.85
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / - 2.5 @ 1.25
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli / + 2.5 @ 3.70
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / - 0.5 @ 1.85
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / + 0.5 @ 1.85
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / - 1.5 @ 1.13
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / + 1.5 @ 5.10
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / - 2.5 @ 1.01
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli / + 2.5 @ 18.00
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / - 7.5 @ 3.20
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / + 7.5 @ 1.30
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / - 8.5 @ 2.35
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / + 8.5 @ 1.53
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / - 9.5 @ 1.85
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / + 9.5 @ 1.85
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / - 10.5 @ 1.53
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / + 10.5 @ 2.35
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / - 11.5 @ 1.33
+[2025-06-03 16:23:45]     - liczba rzutów rożnych / + 11.5 @ 3.00
+[2025-06-03 16:23:45]     - handicap / 1 (+0.5) @ 1.13
+[2025-06-03 16:23:45]     - handicap / 2 (-0.5) @ 5.60
+[2025-06-03 16:23:45]     - handicap / 1 (-0.5) @ 1.56
+[2025-06-03 16:23:45]     - handicap / 2 (+0.5) @ 2.25
+[2025-06-03 16:23:45]     - handicap / 1 (-1.5) @ 2.65
+[2025-06-03 16:23:45]     - handicap / 2 (+1.5) @ 1.43
+[2025-06-03 16:23:45]     - handicap / 1 (-2.5) @ 5.40
+[2025-06-03 16:23:45]     - handicap / 2 (+2.5) @ 1.13
+[2025-06-03 16:23:45]     - handicap 0:5 / 1 (-5.0) @ 36.00
+[2025-06-03 16:23:45]     - handicap 0:5 / x @ 13.50
+[2025-06-03 16:23:45]     - handicap 0:5 / 2 (+5.0) @ 1.01
+[2025-06-03 16:23:45]     - handicap 0:4 / 1 (-4.0) @ 26.00
+[2025-06-03 16:23:45]     - handicap 0:4 / x @ 11.50
+[2025-06-03 16:23:45]     - handicap 0:4 / 2 (+4.0) @ 1.02
+[2025-06-03 16:23:45]     - handicap 0:3 / 1 (-3.0) @ 13.00
+[2025-06-03 16:23:45]     - handicap 0:3 / x @ 7.50
+[2025-06-03 16:23:45]     - handicap 0:3 / 2 (+3.0) @ 1.13
+[2025-06-03 16:23:45]     - handicap 0:2 / 1 (-2.0) @ 5.40
+[2025-06-03 16:23:45]     - handicap 0:2 / x @ 4.60
+[2025-06-03 16:23:45]     - handicap 0:2 / 2 (+2.0) @ 1.43
+[2025-06-03 16:23:45]     - handicap 0:1 / 1 (-1.0) @ 2.65
+[2025-06-03 16:23:45]     - handicap 0:1 / x @ 3.40
+[2025-06-03 16:23:45]     - handicap 0:1 / 2 (+1.0) @ 2.25
+[2025-06-03 16:23:45]     - handicap 1:0 / 1 (+1.0) @ 1.13
+[2025-06-03 16:23:45]     - handicap 1:0 / x @ 7.25
+[2025-06-03 16:23:45]     - handicap 1:0 / 2 (-1.0) @ 18.00
+[2025-06-03 16:23:45]     - handicap 2:0 / 1 (+2.0) @ 1.01
+[2025-06-03 16:23:45]     - handicap 2:0 / x @ 19.00
+[2025-06-03 16:23:45]     - handicap 2:0 / 2 (-2.0) @ 75.00
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 1:0 @ 5.25
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 2:0 @ 6.10
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 2:1 @ 8.75
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 3:0 @ 10.50
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 3:1 @ 15.00
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 3:2 @ 44.00
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 4:0 @ 25.00
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 4:1 @ 36.00
+[2025-06-03 16:23:45]     - dokładny wynik (1) / 4:2 @ 100.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 0:0 @ 8.40
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 1:1 @ 7.10
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 2:2 @ 24.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 3:3 @ 190.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 4:4 @ 250.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 5:0 @ 75.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 5:1 @ 110.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 4:3 @ 250.00
+[2025-06-03 16:23:45]     - dokładny wynik (2) / 3:4 @ 250.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 0:1 @ 12.50
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 0:2 @ 35.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 1:2 @ 21.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 0:3 @ 150.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 1:3 @ 90.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 2:3 @ 110.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 0:4 @ 250.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 1:4 @ 250.00
+[2025-06-03 16:23:45]     - dokładny wynik (3) / 2:4 @ 250.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/- 1.5 @ 5.50
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/+ 1.5 @ 2.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/- 1.5 @ 8.40
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/+ 1.5 @ 5.75
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/- 1.5 @ 13.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/+ 1.5 @ 9.90
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/- 2.5 @ 3.10
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/+ 2.5 @ 2.75
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/- 2.5 @ 4.10
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/+ 2.5 @ 23.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/- 2.5 @ 9.90
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/+ 2.5 @ 13.50
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/- 3.5 @ 2.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/+ 3.5 @ 5.40
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/- 3.5 @ 4.10
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/+ 3.5 @ 23.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/- 3.5 @ 6.60
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/+ 3.5 @ 40.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/- 4.5 @ 1.70
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 1/+ 4.5 @ 10.50
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/- 4.5 @ 3.50
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / x/+ 4.5 @ 175.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/- 4.5 @ 6.00
+[2025-06-03 16:23:45]     - wynik końcowy + liczba goli / 2/+ 4.5 @ 70.00
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / 1/tak @ 4.25
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / 1/nie @ 2.25
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / x/tak @ 5.75
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / x/nie @ 8.40
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / 2/tak @ 15.00
+[2025-06-03 16:23:45]     - wynik końcowy + obie drużyny strzelą gola / 2/nie @ 8.25
+[2025-06-03 16:23:45]     - liczba goli + obie drużyny strzelą gola / +/tak 2.5 @ 3.00
+[2025-06-03 16:23:45]     - liczba goli + obie drużyny strzelą gola / -/tak 2.5 @ 7.75
+[2025-06-03 16:23:45]     - liczba goli + obie drużyny strzelą gola / +/nie 2.5 @ 6.90
+[2025-06-03 16:23:45]     - liczba goli + obie drużyny strzelą gola / -/nie 2.5 @ 1.95
+[2025-06-03 16:23:45]     - liczba goli - przedziały / 0-1 @ 2.80
+[2025-06-03 16:23:45]     - liczba goli - przedziały / 2-3 @ 1.95
+[2025-06-03 16:23:45]     - liczba goli - przedziały / 4-5 @ 4.80
+[2025-06-03 16:23:45]     - liczba goli - przedziały / 6+ @ 18.00
+[2025-06-03 16:23:45]     - dokładna liczba goli / 0 @ 8.40
+[2025-06-03 16:23:45]     - dokładna liczba goli / 1 @ 4.00
+[2025-06-03 16:23:45]     - dokładna liczba goli / 2 @ 3.30
+[2025-06-03 16:23:45]     - dokładna liczba goli / 3 @ 4.25
+[2025-06-03 16:23:45]     - dokładna liczba goli / 4 @ 7.00
+[2025-06-03 16:23:45]     - dokładna liczba goli / 5+ @ 8.25
+[2025-06-03 16:23:45]     - 1. drużyna - dokładna liczba goli / 0 @ 4.40
+[2025-06-03 16:23:45]     - 1. drużyna - dokładna liczba goli / 1 @ 2.85
+[2025-06-03 16:23:45]     - 1. drużyna - dokładna liczba goli / 2 @ 3.40
+[2025-06-03 16:23:45]     - 1. drużyna - dokładna liczba goli / 3+ @ 3.70
+[2025-06-03 16:23:45]     - 2. drużyna - dokładna liczba goli / 0 @ 1.85
+[2025-06-03 16:23:45]     - 2. drużyna - dokładna liczba goli / 1 @ 2.55
+[2025-06-03 16:23:45]     - 2. drużyna - dokładna liczba goli / 2 @ 7.10
+[2025-06-03 16:23:45]     - 2. drużyna - dokładna liczba goli / 3+ @ 18.00
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 1. drużyna - 1 golem @ 3.40
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 1. drużyna - 2 golami @ 4.60
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 1. drużyna - 3+ golami @ 5.40
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 2. drużyna - 1 golem @ 7.25
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 2. drużyna - 2 golami @ 19.00
+[2025-06-03 16:23:45]     - różnica zwycięstwa / 2. drużyna - 3+ golami @ 75.00
+[2025-06-03 16:23:45]     - różnica zwycięstwa / x @ 3.60
+[2025-06-03 16:23:45]     - liczba goli - nieparzysta / parzysta / nieparzysta @ 1.92
+[2025-06-03 16:23:45]     - liczba goli - nieparzysta / parzysta / parzysta @ 1.85
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli nieparzysta / parzysta / nieparzysta @ 1.95
+[2025-06-03 16:23:45]     - 1. drużyna - liczba goli nieparzysta / parzysta / parzysta @ 1.82
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli nieparzysta / parzysta / nieparzysta @ 2.45
+[2025-06-03 16:23:45]     - 2. drużyna - liczba goli nieparzysta / parzysta / parzysta @ 1.53
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli nieparzysta / parzysta / nieparzysta @ 2.12
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli nieparzysta / parzysta / parzysta @ 1.70
+[2025-06-03 16:23:45]     - 2. połowa - liczba goli nieparzysta / parzysta / nieparzysta @ 2.02
+[2025-06-03 16:23:45]     - 2. połowa - liczba goli nieparzysta / parzysta / parzysta @ 1.77
+[2025-06-03 16:23:45]     - 1. drużyna wygra do zera / tak @ 2.25
+[2025-06-03 16:23:45]     - 1. drużyna wygra do zera / nie @ 1.57
+[2025-06-03 16:23:45]     - 2. drużyna wygra do zera / tak @ 8.25
+[2025-06-03 16:23:45]     - 2. drużyna wygra do zera / nie @ 1.06
+[2025-06-03 16:23:45]     - 1. drużyna - wygra obie połowy / tak @ 4.10
+[2025-06-03 16:23:45]     - 1. drużyna - wygra obie połowy / nie @ 1.20
+[2025-06-03 16:23:45]     - 2. drużyna - wygra obie połowy / tak @ 12.00
+[2025-06-03 16:23:45]     - 2. drużyna - wygra obie połowy / nie @ 1.01
+[2025-06-03 16:23:45]     - 1. drużyna - wygra co najmniej jedną połowę / tak @ 1.35
+[2025-06-03 16:23:45]     - 1. drużyna - wygra co najmniej jedną połowę / nie @ 2.95
+[2025-06-03 16:23:45]     - 2. drużyna - wygra co najmniej jedną połowę / tak @ 3.10
+[2025-06-03 16:23:45]     - 2. drużyna - wygra co najmniej jedną połowę / nie @ 1.32
+[2025-06-03 16:23:45]     - 1. drużyna - strzeli gola w obu połowach / tak @ 2.80
+[2025-06-03 16:23:45]     - 1. drużyna - strzeli gola w obu połowach / nie @ 1.38
+[2025-06-03 16:23:45]     - 2. drużyna - strzeli gola w obu połowach / tak @ 7.75
+[2025-06-03 16:23:45]     - 2. drużyna - strzeli gola w obu połowach / nie @ 1.05
+[2025-06-03 16:23:45]     - 1. drużyna - połowa z większą liczbą goli / 1. połowa @ 3.10
+[2025-06-03 16:23:45]     - 1. drużyna - połowa z większą liczbą goli / 2. połowa @ 2.45
+[2025-06-03 16:23:45]     - 1. drużyna - połowa z większą liczbą goli / równo @ 2.65
+[2025-06-03 16:23:45]     - 2. drużyna - połowa z większą liczbą goli / 1. połowa @ 4.50
+[2025-06-03 16:23:45]     - 2. drużyna - połowa z większą liczbą goli / 2. połowa @ 3.50
+[2025-06-03 16:23:45]     - 2. drużyna - połowa z większą liczbą goli / równo @ 1.65
+[2025-06-03 16:23:45]     - połowa z większą liczbą goli / 1. połowa @ 3.00
+[2025-06-03 16:23:45]     - połowa z większą liczbą goli / 2. połowa @ 2.20
+[2025-06-03 16:23:45]     - połowa z większą liczbą goli / równo @ 3.10
+[2025-06-03 16:23:45]     - pierwszy gol / 1 @ 1.47
+[2025-06-03 16:23:45]     - pierwszy gol / nikt @ 8.40
+[2025-06-03 16:23:45]     - pierwszy gol / 2 @ 3.30
+[2025-06-03 16:23:45]     - ostatni gol / 1 @ 1.47
+[2025-06-03 16:23:45]     - ostatni gol / nikt @ 8.40
+[2025-06-03 16:23:45]     - ostatni gol / 2 @ 3.30
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 1-10 @ 5.00
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 11-20 @ 5.40
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 21-30 @ 6.50
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 31-40 @ 7.90
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 41-50 @ 8.40
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 51-60 @ 12.00
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 61-70 @ 16.00
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 71-80 @ 20.00
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / 81-90+ @ 18.00
+[2025-06-03 16:23:45]     - 1. gol - przedziały 10-minutowe / brak goli @ 8.40
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 1 + 1 @ 1.67
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 1 + x @ 11.00
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 1 + 2 @ 44.00
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 2 + 1 @ 13.50
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 2 + x @ 11.00
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / 2 + 2 @ 6.40
+[2025-06-03 16:23:45]     - 1. gol + wynik końcowy / brak goli @ 8.40
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 1/1 @ 2.30
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 1/x @ 19.00
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 1/2 @ 80.00
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / x/1 @ 4.25
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / x/x @ 5.10
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / x/2 @ 12.50
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 2/1 @ 31.00
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 2/x @ 21.00
+[2025-06-03 16:23:45]     - 1. połowa / wynik końcowy / 2/2 @ 11.50
+[2025-06-03 16:23:45]     - 1. połowa / botafogo rj @ 2.12
+[2025-06-03 16:23:45]     - 1. połowa / x @ 2.15
+[2025-06-03 16:23:45]     - 1. połowa / ceara @ 6.00
+[2025-06-03 16:23:45]     - 1. połowa / 1x @ 1.11
+[2025-06-03 16:23:45]     - 1. połowa / x2 @ 1.62
+[2025-06-03 16:23:45]     - 1. połowa / 12 @ 1.57
+[2025-06-03 16:23:45]     - 1. połowa - zakład bez remisu / botafogo rj @ 1.26
+[2025-06-03 16:23:45]     - 1. połowa - zakład bez remisu / ceara @ 3.60
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / - 0.5 @ 2.60
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / + 0.5 @ 1.45
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / - 1.5 @ 1.34
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / + 1.5 @ 3.10
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / - 2.5 @ 1.07
+[2025-06-03 16:23:45]     - 1. połowa - liczba goli / + 2.5 @ 8.50
+[2025-06-03 16:23:45]     - 1. połowa - dokładna liczba goli / 0 @ 2.60
+[2025-06-03 16:23:45]     - 1. połowa - dokładna liczba goli / 1 @ 2.50
+[2025-06-03 16:23:45]     - 1. połowa - dokładna liczba goli / 2 @ 4.60
+[2025-06-03 16:23:45]     - 1. połowa - dokładna liczba goli / 3+ @ 8.50
+[2025-06-03 16:23:45]     - 1. połowa - 1. drużyna liczba goli / - 0.5 @ 2.00
+[2025-06-03 16:23:45]     - 1. połowa - 1. drużyna liczba goli / + 0.5 @ 1.77
+[2025-06-03 16:23:45]     - 1. połowa - 2. drużyna liczba goli / - 0.5 @ 1.30
+[2025-06-03 16:23:45]     - 1. połowa - 2. drużyna liczba goli / + 0.5 @ 3.25
+[2025-06-03 16:23:45]     - 1. połowa - 1. drużyna zachowa czyste konto / tak @ 1.30
+[2025-06-03 16:23:45]     - 1. połowa - 1. drużyna zachowa czyste konto / nie @ 3.30
+[2025-06-03 16:39:31] START BOTA STS
+[2025-06-03 16:39:31] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:39:33] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-06-03 16:39:33] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:39:41] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:39:51] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:39:51] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:39:55] START BOTA STS
+[2025-06-03 16:39:55] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:39:56] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-06-03 16:39:56] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:39:57] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:40:08] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:40:08] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:40:09] START BOTA STS
+[2025-06-03 16:40:09] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:40:10] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-06-03 16:40:10] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:40:10] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:40:21] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:40:21] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:40:22] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 16:40:22] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:40:23] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 16:40:33] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 16:40:33]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 16:40:34] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 16:40:34] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:40:35] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 16:40:45] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, przerywam.
+[2025-06-03 16:41:02] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 16:41:03]     [SCROLL] krok=1, placeholderów=77, wyrenderowanych grup=8
+[2025-06-03 16:41:03]     [SCROLL] krok=2, placeholderów=77, wyrenderowanych grup=8
+[2025-06-03 16:41:04]     [SCROLL] krok=3, placeholderów=77, wyrenderowanych grup=8
+[2025-06-03 16:41:05]     [SCROLL] krok=4, placeholderów=77, wyrenderowanych grup=8
+[2025-06-03 16:41:05]     [SCROLL] Liczba grup ustabilizowała się na 8, przerywam.
+[2025-06-03 16:41:05] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 8 grup rynków.
+[2025-06-03 16:41:05] PLAYWRIGHT DEBUG: Tylko 8 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-03 16:41:06]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 16:41:06]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 16:41:06]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 16:41:06]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:41:06]     Grupa 5: '2. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:41:06] PLAYWRIGHT: Zebrano łącznie 38 kursów z 8 grup rynków.
+[2025-06-03 16:41:06] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 16:41:06] ZNALEZIONO 38 KURSÓW:
+[2025-06-03 16:41:06]     - mecz / botafogo rj @ 1.56
+[2025-06-03 16:41:06]     - mecz / x @ 3.60
+[2025-06-03 16:41:06]     - mecz / ceara @ 5.60
+[2025-06-03 16:41:06]     - mecz / 1x @ 1.13
+[2025-06-03 16:41:06]     - mecz / x2 @ 2.25
+[2025-06-03 16:41:06]     - mecz / 12 @ 1.25
+[2025-06-03 16:41:06]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 16:41:06]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 16:41:06]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 16:41:06]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 16:41:06]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 16:41:06]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 16:41:06]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 16:41:06]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 16:41:06]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 16:41:06]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 16:41:06]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 16:41:06]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 16:41:06]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 16:41:06]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 16:41:06]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 16:41:06]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 16:41:06]     - 2. drużyna strzeli gola / tak @ 1.85
+[2025-06-03 16:41:06]     - 2. drużyna strzeli gola / nie @ 1.85
+[2025-06-03 16:41:06]     - obie drużyny strzelą gola / tak @ 2.25
+[2025-06-03 16:41:06]     - obie drużyny strzelą gola / nie @ 1.58
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / - 0.5 @ 4.40
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / + 0.5 @ 1.18
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / - 1.5 @ 1.85
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / + 1.5 @ 1.85
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / - 2.5 @ 1.25
+[2025-06-03 16:41:06]     - 1. drużyna - liczba goli / + 2.5 @ 3.70
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / - 0.5 @ 1.85
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / + 0.5 @ 1.85
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / - 1.5 @ 1.13
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / + 1.5 @ 5.10
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / - 2.5 @ 1.01
+[2025-06-03 16:41:06]     - 2. drużyna - liczba goli / + 2.5 @ 18.00
+[2025-06-03 16:42:16] START BOTA STS
+[2025-06-03 16:42:16] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:42:18] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
+[2025-06-03 16:42:18] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:42:19] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:42:29] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:42:29] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:42:30] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-06-03 16:42:30] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:42:31] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 16:42:43] START BOTA STS
+[2025-06-03 16:42:43] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:42:44] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-03 16:42:44] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:42:45] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:42:56] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:42:56] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:42:57] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 16:42:57] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:42:58] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 16:43:08] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 16:43:08]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 16:43:09] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 16:43:09] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:43:10] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 16:43:20] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 16:44:24] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 16:44:25]     [SCROLL] krok=1, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 16:44:26]     [SCROLL] krok=2, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 16:44:26]     [SCROLL] krok=3, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 16:44:27]     [SCROLL] krok=4, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 16:44:27]     [SCROLL] Liczba grup ustabilizowała się na 85, przerywam.
+[2025-06-03 16:44:28] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 85 grup rynków.
+[2025-06-03 16:44:28]     Grupa 1: 'mecz' – dodano 6 kursów
+[2025-06-03 16:44:28]     Grupa 2: 'zakład bez remisu' – dodano 2 kursów
+[2025-06-03 16:44:28]     Grupa 3: 'liczba goli' – dodano 12 kursów
+[2025-06-03 16:44:28]     Grupa 4: '1. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:44:28]     Grupa 5: '2. drużyna strzeli gola' – dodano 2 kursów
+[2025-06-03 16:44:29]     Grupa 10: 'handicap' – dodano 8 kursów
+[2025-06-03 16:44:30]     Grupa 20: 'dokładny wynik (3)' – dodano 9 kursów
+[2025-06-03 16:44:41]     WARN (przy grupie 23): ElementHandle.inner_text: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(":scope")
+
+[2025-06-03 16:44:42]     WARN (przy grupie 24): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 25): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 26): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 27): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 28): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 29): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 30): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 31): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 32): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 33): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 34): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 35): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 36): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 37): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 38): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 39): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 40): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 41): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 42): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 43): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 44): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 45): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 46): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 47): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 48): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 49): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 50): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 51): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 52): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 53): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 54): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 55): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 56): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 57): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 58): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 59): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 60): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 61): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 62): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 63): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 64): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 65): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 66): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 67): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 68): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 69): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 70): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 71): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 72): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 73): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 74): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 75): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 76): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 77): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 78): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 79): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 80): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 81): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 82): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 83): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 84): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42]     WARN (przy grupie 85): ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-06-03 16:44:42] PLAYWRIGHT: Zebrano łącznie 136 kursów z 85 grup rynków.
+[2025-06-03 16:51:34] START BOTA STS
+[2025-06-03 16:51:34] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:51:36] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 16:51:36] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 16:51:44] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 16:51:54] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 16:51:54] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 16:51:55] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-03 16:51:55] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:51:56] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 16:52:06] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 16:52:06]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 16:52:07] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
+[2025-06-03 16:52:07] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 16:52:08] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 16:52:18] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, przerywam.
+[2025-06-03 16:52:19] PLAYWRIGHT DEBUG: Placeholderów do przewinięcia: 81
+[2025-06-03 16:52:45] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 16:52:46]     [SCROLL] krok=1, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 16:52:47]     [SCROLL] krok=2, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 16:52:47]     [SCROLL] krok=3, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 16:52:48]     [SCROLL] krok=4, placeholderów=81, wyrenderowanych grup=4
+[2025-06-03 16:52:48]     [SCROLL] Liczba grup ustabilizowała się na 4, przerywam.
+[2025-06-03 16:52:49] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 4 grup rynków.
+[2025-06-03 16:52:49] PLAYWRIGHT DEBUG: Tylko 4 grup. HTML pierwszej: <div _ngcontent-mweb2019-c463418240="" class="match-details-group__title"><div _ngcontent-mweb2019-c463418240=""> mecz </div><!----><div _ngcontent-mweb2019-c463418240="" class="match-details-group__i…
+[2025-06-03 16:52:49]     Grupa 1: 'mecz' — dodano 6 kursów
+[2025-06-03 16:52:49]     Grupa 2: 'zakład bez remisu' — dodano 2 kursów
+[2025-06-03 16:52:49]     Grupa 3: 'liczba goli' — dodano 12 kursów
+[2025-06-03 16:52:49]     Grupa 4: '1. drużyna strzeli gola' — dodano 2 kursów
+[2025-06-03 16:52:49] PLAYWRIGHT: Zebrano łącznie 22 kursów z 4 grup rynków.
+[2025-06-03 16:52:49] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 16:52:49] ZNALEZIONO 22 KURSÓW:
+[2025-06-03 16:52:49]     - mecz / botafogo rj @ 1.56
+[2025-06-03 16:52:49]     - mecz / x @ 3.60
+[2025-06-03 16:52:49]     - mecz / ceara @ 5.60
+[2025-06-03 16:52:49]     - mecz / 1x @ 1.13
+[2025-06-03 16:52:49]     - mecz / x2 @ 2.25
+[2025-06-03 16:52:49]     - mecz / 12 @ 1.25
+[2025-06-03 16:52:49]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 16:52:49]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 16:52:49]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 16:52:49]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 16:52:49]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 16:52:49]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 16:52:49]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 16:52:49]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 16:52:49]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 16:52:49]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 16:52:49]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 16:52:49]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 16:52:49]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 16:52:49]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 16:52:49]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 16:52:49]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 17:00:17] START BOTA STS
+[2025-06-03 17:00:17] INFO: Pobieram listę meczów z ligi: https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 17:00:18] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
+[2025-06-03 17:00:18] PLAYWRIGHT (liga): Ładowanie https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452
+[2025-06-03 17:00:18] PLAYWRIGHT (liga): Status HTTP: 200
+[2025-06-03 17:00:29] PLAYWRIGHT (liga): Znaleziono 7 linków do meczów.
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/bragantino-bahia/806788858
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/vitoria-ba-cruzeiro/806789209
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/fortaleza-santos/806789377
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/gremio-corinthians/806789969
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/atletico-mineiro-internacional/806790755
+[2025-06-03 17:00:29] Dodano link: https://www.sts.pl/kursy/sao-paulo-vasco-da-gama/806790758
+[2025-06-03 17:00:30] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 17:00:30] PLAYWRIGHT (nagłówek meczu): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 17:00:31] PLAYWRIGHT (nagłówek): Status HTTP: 200
+[2025-06-03 17:00:41] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.
+[2025-06-03 17:00:41]     [DEBUG] Surowe date_txt='Czwartek,', time_txt='1:00'
+[2025-06-03 17:00:42] PLAYWRIGHT używa User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-03 17:00:42] PLAYWRIGHT (mecz): Ładowanie https://www.sts.pl/kursy/botafogo-rj-ceara/806787478
+[2025-06-03 17:00:43] PLAYWRIGHT (mecz): Status HTTP: 200
+[2025-06-03 17:00:53] PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.
+[2025-06-03 17:00:54] PLAYWRIGHT DEBUG: Placeholderów do przewinięcia: 81
+[2025-06-03 17:01:20] PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…
+[2025-06-03 17:01:21]     [SCROLL] krok=1, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 17:01:21]     [SCROLL] krok=2, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 17:01:22]     [SCROLL] krok=3, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 17:01:23]     [SCROLL] krok=4, placeholderów=0, wyrenderowanych grup=85
+[2025-06-03 17:01:23]     [SCROLL] Liczba grup ustabilizowała się na 85, przerywam.
+[2025-06-03 17:01:24] PLAYWRIGHT (mecz): OSTATECZNIE znaleziono 85 grup rynków.
+[2025-06-03 17:01:24]     Grupa 1: 'mecz' — dodano 6 kursów
+[2025-06-03 17:01:24]     Grupa 2: 'zakład bez remisu' — dodano 2 kursów
+[2025-06-03 17:01:24]     Grupa 3: 'liczba goli' — dodano 12 kursów
+[2025-06-03 17:01:24]     Grupa 4: '1. drużyna strzeli gola' — dodano 2 kursów
+[2025-06-03 17:01:24]     Grupa 5: '2. drużyna strzeli gola' — dodano 2 kursów
+[2025-06-03 17:01:25]     Grupa 10: 'handicap' — dodano 8 kursów
+[2025-06-03 17:01:26]     Grupa 20: 'dokładny wynik (3)' — dodano 9 kursów
+[2025-06-03 17:01:27]     Grupa 30: '1. drużyna - liczba goli nieparzysta / parzysta' — dodano 2 kursów
+[2025-06-03 17:01:27]     Grupa 40: '1. drużyna - strzeli gola w obu połowach' — dodano 2 kursów
+[2025-06-03 17:01:29]     Grupa 50: '1. połowa' — dodano 6 kursów
+[2025-06-03 17:01:29]     Grupa 60: '1. połowa - handicap 0:2' — dodano 3 kursów
+[2025-06-03 17:01:30]     Grupa 70: '2. połowa - dokładna liczba goli' — dodano 3 kursów
+[2025-06-03 17:01:31]     Grupa 80: '2. połowa - dokładny wynik' — dodano 10 kursów
+[2025-06-03 17:01:33] PLAYWRIGHT: Zebrano łącznie 431 kursów z 85 grup rynków.
+[2025-06-03 17:01:33] INFO: Botafogo RJ - Ceara | Piłka Nożna | Brazylia | 05.06.2025 01:00
+[2025-06-03 17:01:33] ZNALEZIONO 431 KURSÓW:
+[2025-06-03 17:01:33]     - mecz / botafogo rj @ 1.56
+[2025-06-03 17:01:33]     - mecz / x @ 3.60
+[2025-06-03 17:01:33]     - mecz / ceara @ 5.60
+[2025-06-03 17:01:33]     - mecz / 1x @ 1.13
+[2025-06-03 17:01:33]     - mecz / x2 @ 2.25
+[2025-06-03 17:01:33]     - mecz / 12 @ 1.25
+[2025-06-03 17:01:33]     - zakład bez remisu / botafogo rj @ 1.19
+[2025-06-03 17:01:33]     - zakład bez remisu / ceara @ 4.20
+[2025-06-03 17:01:33]     - liczba goli / - 0.5 @ 8.40
+[2025-06-03 17:01:33]     - liczba goli / + 0.5 @ 1.07
+[2025-06-03 17:01:33]     - liczba goli / - 1.5 @ 2.80
+[2025-06-03 17:01:33]     - liczba goli / + 1.5 @ 1.38
+[2025-06-03 17:01:33]     - liczba goli / - 2.5 @ 1.62
+[2025-06-03 17:01:33]     - liczba goli / + 2.5 @ 2.15
+[2025-06-03 17:01:33]     - liczba goli / - 3.5 @ 1.22
+[2025-06-03 17:01:33]     - liczba goli / + 3.5 @ 3.90
+[2025-06-03 17:01:33]     - liczba goli / - 4.5 @ 1.06
+[2025-06-03 17:01:33]     - liczba goli / + 4.5 @ 8.25
+[2025-06-03 17:01:33]     - liczba goli / - 5.5 @ 1.01
+[2025-06-03 17:01:33]     - liczba goli / + 5.5 @ 18.00
+[2025-06-03 17:01:33]     - 1. drużyna strzeli gola / tak @ 1.18
+[2025-06-03 17:01:33]     - 1. drużyna strzeli gola / nie @ 4.40
+[2025-06-03 17:01:33]     - 2. drużyna strzeli gola / tak @ 1.85
+[2025-06-03 17:01:33]     - 2. drużyna strzeli gola / nie @ 1.85
+[2025-06-03 17:01:33]     - obie drużyny strzelą gola / tak @ 2.25
+[2025-06-03 17:01:33]     - obie drużyny strzelą gola / nie @ 1.58
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / - 0.5 @ 4.40
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / + 0.5 @ 1.18
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / - 1.5 @ 1.85
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / + 1.5 @ 1.85
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / - 2.5 @ 1.25
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli / + 2.5 @ 3.70
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / - 0.5 @ 1.85
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / + 0.5 @ 1.85
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / - 1.5 @ 1.13
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / + 1.5 @ 5.10
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / - 2.5 @ 1.01
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli / + 2.5 @ 18.00
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / - 7.5 @ 3.20
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / + 7.5 @ 1.30
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / - 8.5 @ 2.35
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / + 8.5 @ 1.53
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / - 9.5 @ 1.85
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / + 9.5 @ 1.85
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / - 10.5 @ 1.53
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / + 10.5 @ 2.35
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / - 11.5 @ 1.33
+[2025-06-03 17:01:33]     - liczba rzutów rożnych / + 11.5 @ 3.00
+[2025-06-03 17:01:33]     - handicap / 1 (+0.5) @ 1.13
+[2025-06-03 17:01:33]     - handicap / 2 (-0.5) @ 5.60
+[2025-06-03 17:01:33]     - handicap / 1 (-0.5) @ 1.56
+[2025-06-03 17:01:33]     - handicap / 2 (+0.5) @ 2.25
+[2025-06-03 17:01:33]     - handicap / 1 (-1.5) @ 2.65
+[2025-06-03 17:01:33]     - handicap / 2 (+1.5) @ 1.43
+[2025-06-03 17:01:33]     - handicap / 1 (-2.5) @ 5.40
+[2025-06-03 17:01:33]     - handicap / 2 (+2.5) @ 1.13
+[2025-06-03 17:01:33]     - handicap 0:5 / 1 (-5.0) @ 36.00
+[2025-06-03 17:01:33]     - handicap 0:5 / x @ 13.50
+[2025-06-03 17:01:33]     - handicap 0:5 / 2 (+5.0) @ 1.01
+[2025-06-03 17:01:33]     - handicap 0:4 / 1 (-4.0) @ 26.00
+[2025-06-03 17:01:33]     - handicap 0:4 / x @ 11.50
+[2025-06-03 17:01:33]     - handicap 0:4 / 2 (+4.0) @ 1.02
+[2025-06-03 17:01:33]     - handicap 0:3 / 1 (-3.0) @ 13.00
+[2025-06-03 17:01:33]     - handicap 0:3 / x @ 7.50
+[2025-06-03 17:01:33]     - handicap 0:3 / 2 (+3.0) @ 1.13
+[2025-06-03 17:01:33]     - handicap 0:2 / 1 (-2.0) @ 5.40
+[2025-06-03 17:01:33]     - handicap 0:2 / x @ 4.60
+[2025-06-03 17:01:33]     - handicap 0:2 / 2 (+2.0) @ 1.43
+[2025-06-03 17:01:33]     - handicap 0:1 / 1 (-1.0) @ 2.65
+[2025-06-03 17:01:33]     - handicap 0:1 / x @ 3.40
+[2025-06-03 17:01:33]     - handicap 0:1 / 2 (+1.0) @ 2.25
+[2025-06-03 17:01:33]     - handicap 1:0 / 1 (+1.0) @ 1.13
+[2025-06-03 17:01:33]     - handicap 1:0 / x @ 7.25
+[2025-06-03 17:01:33]     - handicap 1:0 / 2 (-1.0) @ 18.00
+[2025-06-03 17:01:33]     - handicap 2:0 / 1 (+2.0) @ 1.01
+[2025-06-03 17:01:33]     - handicap 2:0 / x @ 19.00
+[2025-06-03 17:01:33]     - handicap 2:0 / 2 (-2.0) @ 75.00
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 1:0 @ 5.25
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 2:0 @ 6.10
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 2:1 @ 8.75
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 3:0 @ 10.50
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 3:1 @ 15.00
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 3:2 @ 44.00
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 4:0 @ 25.00
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 4:1 @ 36.00
+[2025-06-03 17:01:33]     - dokładny wynik (1) / 4:2 @ 100.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 0:0 @ 8.40
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 1:1 @ 7.10
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 2:2 @ 24.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 3:3 @ 190.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 4:4 @ 250.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 5:0 @ 75.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 5:1 @ 110.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 4:3 @ 250.00
+[2025-06-03 17:01:33]     - dokładny wynik (2) / 3:4 @ 250.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 0:1 @ 12.50
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 0:2 @ 35.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 1:2 @ 21.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 0:3 @ 150.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 1:3 @ 90.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 2:3 @ 110.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 0:4 @ 250.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 1:4 @ 250.00
+[2025-06-03 17:01:33]     - dokładny wynik (3) / 2:4 @ 250.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/- 1.5 @ 5.50
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/+ 1.5 @ 2.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/- 1.5 @ 8.40
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/+ 1.5 @ 5.75
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/- 1.5 @ 13.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/+ 1.5 @ 9.90
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/- 2.5 @ 3.10
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/+ 2.5 @ 2.75
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/- 2.5 @ 4.10
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/+ 2.5 @ 23.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/- 2.5 @ 9.90
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/+ 2.5 @ 13.50
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/- 3.5 @ 2.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/+ 3.5 @ 5.40
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/- 3.5 @ 4.10
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/+ 3.5 @ 23.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/- 3.5 @ 6.60
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/+ 3.5 @ 40.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/- 4.5 @ 1.70
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 1/+ 4.5 @ 10.50
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/- 4.5 @ 3.50
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / x/+ 4.5 @ 175.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/- 4.5 @ 6.00
+[2025-06-03 17:01:33]     - wynik końcowy + liczba goli / 2/+ 4.5 @ 70.00
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / 1/tak @ 4.25
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / 1/nie @ 2.25
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / x/tak @ 5.75
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / x/nie @ 8.40
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / 2/tak @ 15.00
+[2025-06-03 17:01:33]     - wynik końcowy + obie drużyny strzelą gola / 2/nie @ 8.25
+[2025-06-03 17:01:33]     - liczba goli + obie drużyny strzelą gola / +/tak 2.5 @ 3.00
+[2025-06-03 17:01:33]     - liczba goli + obie drużyny strzelą gola / -/tak 2.5 @ 7.75
+[2025-06-03 17:01:33]     - liczba goli + obie drużyny strzelą gola / +/nie 2.5 @ 6.90
+[2025-06-03 17:01:33]     - liczba goli + obie drużyny strzelą gola / -/nie 2.5 @ 1.95
+[2025-06-03 17:01:33]     - liczba goli - przedziały / 0-1 @ 2.80
+[2025-06-03 17:01:33]     - liczba goli - przedziały / 2-3 @ 1.95
+[2025-06-03 17:01:33]     - liczba goli - przedziały / 4-5 @ 4.80
+[2025-06-03 17:01:33]     - liczba goli - przedziały / 6+ @ 18.00
+[2025-06-03 17:01:33]     - dokładna liczba goli / 0 @ 8.40
+[2025-06-03 17:01:33]     - dokładna liczba goli / 1 @ 4.00
+[2025-06-03 17:01:33]     - dokładna liczba goli / 2 @ 3.30
+[2025-06-03 17:01:33]     - dokładna liczba goli / 3 @ 4.25
+[2025-06-03 17:01:33]     - dokładna liczba goli / 4 @ 7.00
+[2025-06-03 17:01:33]     - dokładna liczba goli / 5+ @ 8.25
+[2025-06-03 17:01:33]     - 1. drużyna - dokładna liczba goli / 0 @ 4.40
+[2025-06-03 17:01:33]     - 1. drużyna - dokładna liczba goli / 1 @ 2.85
+[2025-06-03 17:01:33]     - 1. drużyna - dokładna liczba goli / 2 @ 3.40
+[2025-06-03 17:01:33]     - 1. drużyna - dokładna liczba goli / 3+ @ 3.70
+[2025-06-03 17:01:33]     - 2. drużyna - dokładna liczba goli / 0 @ 1.85
+[2025-06-03 17:01:33]     - 2. drużyna - dokładna liczba goli / 1 @ 2.55
+[2025-06-03 17:01:33]     - 2. drużyna - dokładna liczba goli / 2 @ 7.10
+[2025-06-03 17:01:33]     - 2. drużyna - dokładna liczba goli / 3+ @ 18.00
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 1. drużyna - 1 golem @ 3.40
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 1. drużyna - 2 golami @ 4.60
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 1. drużyna - 3+ golami @ 5.40
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 2. drużyna - 1 golem @ 7.25
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 2. drużyna - 2 golami @ 19.00
+[2025-06-03 17:01:33]     - różnica zwycięstwa / 2. drużyna - 3+ golami @ 75.00
+[2025-06-03 17:01:33]     - różnica zwycięstwa / x @ 3.60
+[2025-06-03 17:01:33]     - liczba goli - nieparzysta / parzysta / nieparzysta @ 1.92
+[2025-06-03 17:01:33]     - liczba goli - nieparzysta / parzysta / parzysta @ 1.85
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli nieparzysta / parzysta / nieparzysta @ 1.95
+[2025-06-03 17:01:33]     - 1. drużyna - liczba goli nieparzysta / parzysta / parzysta @ 1.82
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli nieparzysta / parzysta / nieparzysta @ 2.45
+[2025-06-03 17:01:33]     - 2. drużyna - liczba goli nieparzysta / parzysta / parzysta @ 1.53
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli nieparzysta / parzysta / nieparzysta @ 2.12
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli nieparzysta / parzysta / parzysta @ 1.70
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli nieparzysta / parzysta / nieparzysta @ 2.02
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli nieparzysta / parzysta / parzysta @ 1.77
+[2025-06-03 17:01:33]     - 1. drużyna wygra do zera / tak @ 2.25
+[2025-06-03 17:01:33]     - 1. drużyna wygra do zera / nie @ 1.57
+[2025-06-03 17:01:33]     - 2. drużyna wygra do zera / tak @ 8.25
+[2025-06-03 17:01:33]     - 2. drużyna wygra do zera / nie @ 1.06
+[2025-06-03 17:01:33]     - 1. drużyna - wygra obie połowy / tak @ 4.10
+[2025-06-03 17:01:33]     - 1. drużyna - wygra obie połowy / nie @ 1.20
+[2025-06-03 17:01:33]     - 2. drużyna - wygra obie połowy / tak @ 12.00
+[2025-06-03 17:01:33]     - 2. drużyna - wygra obie połowy / nie @ 1.01
+[2025-06-03 17:01:33]     - 1. drużyna - wygra co najmniej jedną połowę / tak @ 1.35
+[2025-06-03 17:01:33]     - 1. drużyna - wygra co najmniej jedną połowę / nie @ 2.95
+[2025-06-03 17:01:33]     - 2. drużyna - wygra co najmniej jedną połowę / tak @ 3.10
+[2025-06-03 17:01:33]     - 2. drużyna - wygra co najmniej jedną połowę / nie @ 1.32
+[2025-06-03 17:01:33]     - 1. drużyna - strzeli gola w obu połowach / tak @ 2.80
+[2025-06-03 17:01:33]     - 1. drużyna - strzeli gola w obu połowach / nie @ 1.38
+[2025-06-03 17:01:33]     - 2. drużyna - strzeli gola w obu połowach / tak @ 7.75
+[2025-06-03 17:01:33]     - 2. drużyna - strzeli gola w obu połowach / nie @ 1.05
+[2025-06-03 17:01:33]     - 1. drużyna - połowa z większą liczbą goli / 1. połowa @ 3.10
+[2025-06-03 17:01:33]     - 1. drużyna - połowa z większą liczbą goli / 2. połowa @ 2.45
+[2025-06-03 17:01:33]     - 1. drużyna - połowa z większą liczbą goli / równo @ 2.65
+[2025-06-03 17:01:33]     - 2. drużyna - połowa z większą liczbą goli / 1. połowa @ 4.50
+[2025-06-03 17:01:33]     - 2. drużyna - połowa z większą liczbą goli / 2. połowa @ 3.50
+[2025-06-03 17:01:33]     - 2. drużyna - połowa z większą liczbą goli / równo @ 1.65
+[2025-06-03 17:01:33]     - połowa z większą liczbą goli / 1. połowa @ 3.00
+[2025-06-03 17:01:33]     - połowa z większą liczbą goli / 2. połowa @ 2.20
+[2025-06-03 17:01:33]     - połowa z większą liczbą goli / równo @ 3.10
+[2025-06-03 17:01:33]     - pierwszy gol / 1 @ 1.47
+[2025-06-03 17:01:33]     - pierwszy gol / nikt @ 8.40
+[2025-06-03 17:01:33]     - pierwszy gol / 2 @ 3.30
+[2025-06-03 17:01:33]     - ostatni gol / 1 @ 1.47
+[2025-06-03 17:01:33]     - ostatni gol / nikt @ 8.40
+[2025-06-03 17:01:33]     - ostatni gol / 2 @ 3.30
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 1-10 @ 5.00
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 11-20 @ 5.40
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 21-30 @ 6.50
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 31-40 @ 7.90
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 41-50 @ 8.40
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 51-60 @ 12.00
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 61-70 @ 16.00
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 71-80 @ 20.00
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / 81-90+ @ 18.00
+[2025-06-03 17:01:33]     - 1. gol - przedziały 10-minutowe / brak goli @ 8.40
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 1 + 1 @ 1.67
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 1 + x @ 11.00
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 1 + 2 @ 44.00
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 2 + 1 @ 13.50
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 2 + x @ 11.00
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / 2 + 2 @ 6.40
+[2025-06-03 17:01:33]     - 1. gol + wynik końcowy / brak goli @ 8.40
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 1/1 @ 2.30
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 1/x @ 19.00
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 1/2 @ 80.00
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / x/1 @ 4.25
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / x/x @ 5.10
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / x/2 @ 12.50
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 2/1 @ 31.00
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 2/x @ 21.00
+[2025-06-03 17:01:33]     - 1. połowa / wynik końcowy / 2/2 @ 11.50
+[2025-06-03 17:01:33]     - 1. połowa / botafogo rj @ 2.12
+[2025-06-03 17:01:33]     - 1. połowa / x @ 2.15
+[2025-06-03 17:01:33]     - 1. połowa / ceara @ 6.00
+[2025-06-03 17:01:33]     - 1. połowa / 1x @ 1.11
+[2025-06-03 17:01:33]     - 1. połowa / x2 @ 1.62
+[2025-06-03 17:01:33]     - 1. połowa / 12 @ 1.57
+[2025-06-03 17:01:33]     - 1. połowa - zakład bez remisu / botafogo rj @ 1.26
+[2025-06-03 17:01:33]     - 1. połowa - zakład bez remisu / ceara @ 3.60
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / - 0.5 @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / + 0.5 @ 1.45
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / - 1.5 @ 1.34
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / + 1.5 @ 3.10
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / - 2.5 @ 1.07
+[2025-06-03 17:01:33]     - 1. połowa - liczba goli / + 2.5 @ 8.50
+[2025-06-03 17:01:33]     - 1. połowa - dokładna liczba goli / 0 @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa - dokładna liczba goli / 1 @ 2.50
+[2025-06-03 17:01:33]     - 1. połowa - dokładna liczba goli / 2 @ 4.60
+[2025-06-03 17:01:33]     - 1. połowa - dokładna liczba goli / 3+ @ 8.50
+[2025-06-03 17:01:33]     - 1. połowa - 1. drużyna liczba goli / - 0.5 @ 2.00
+[2025-06-03 17:01:33]     - 1. połowa - 1. drużyna liczba goli / + 0.5 @ 1.77
+[2025-06-03 17:01:33]     - 1. połowa - 2. drużyna liczba goli / - 0.5 @ 1.30
+[2025-06-03 17:01:33]     - 1. połowa - 2. drużyna liczba goli / + 0.5 @ 3.25
+[2025-06-03 17:01:33]     - 1. połowa - 1. drużyna zachowa czyste konto / tak @ 1.30
+[2025-06-03 17:01:33]     - 1. połowa - 1. drużyna zachowa czyste konto / nie @ 3.30
+[2025-06-03 17:01:33]     - 1. połowa - 2. drużyna zachowa czyste konto / tak @ 2.00
+[2025-06-03 17:01:33]     - 1. połowa - 2. drużyna zachowa czyste konto / nie @ 1.77
+[2025-06-03 17:01:33]     - 1. połowa - obie drużyny strzelą gola / tak @ 5.60
+[2025-06-03 17:01:33]     - 1. połowa - obie drużyny strzelą gola / nie @ 1.12
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 1 (+0.5) @ 1.11
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 2 (-0.5) @ 6.00
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 1 (-0.5) @ 2.12
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 2 (+0.5) @ 1.62
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 1 (-1.5) @ 5.90
+[2025-06-03 17:01:33]     - 1. połowa - handicap / 2 (+1.5) @ 1.12
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:2 / 1 (-2.0) @ 22.00
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:2 / x @ 6.75
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:2 / 2 (+2.0) @ 1.12
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:1 / 1 (-1.0) @ 5.90
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:1 / x @ 3.10
+[2025-06-03 17:01:33]     - 1. połowa - handicap 0:1 / 2 (+1.0) @ 1.62
+[2025-06-03 17:01:33]     - 1. połowa - handicap 1:0 / 1 (+1.0) @ 1.11
+[2025-06-03 17:01:33]     - 1. połowa - handicap 1:0 / x @ 6.25
+[2025-06-03 17:01:33]     - 1. połowa - handicap 1:0 / 2 (-1.0) @ 37.00
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 0:0 @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 1:1 @ 9.60
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 2:2 @ 160.00
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 1:0 @ 3.20
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 2:0 @ 7.75
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 2:1 @ 25.00
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 0:1 @ 7.75
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 0:2 @ 47.00
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / 1:2 @ 60.00
+[2025-06-03 17:01:33]     - 1. połowa - dokładny wynik / inny @ 17.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / 1. drużyna + poniżej 1.5 @ 3.20
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / 1. drużyna + powyżej 1.5 @ 5.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / remis + poniżej 1.5 @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / remis + powyżej 1.5 @ 10.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / 2. drużyna + poniżej 1.5 @ 7.75
+[2025-06-03 17:01:33]     - 1. połowa - wynik + liczba goli 1.5 / 2. drużyna + powyżej 1.5 @ 26.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / 1 + tak @ 20.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / 1 + nie @ 2.25
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / remis + tak @ 9.90
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / remis + nie @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / 2 + tak @ 60.00
+[2025-06-03 17:01:33]     - 1. połowa - wynik + obie drużyny strzelą gola / 2 + nie @ 6.90
+[2025-06-03 17:01:33]     - 1. połowa – pierwszy gol / 1 @ 1.98
+[2025-06-03 17:01:33]     - 1. połowa – pierwszy gol / nikt @ 2.60
+[2025-06-03 17:01:33]     - 1. połowa – pierwszy gol / 2 @ 4.70
+[2025-06-03 17:01:33]     - 2. połowa / botafogo rj @ 1.98
+[2025-06-03 17:01:33]     - 2. połowa / x @ 2.50
+[2025-06-03 17:01:33]     - 2. połowa / ceara @ 5.40
+[2025-06-03 17:01:33]     - 2. połowa / 1x @ 1.14
+[2025-06-03 17:01:33]     - 2. połowa / x2 @ 1.75
+[2025-06-03 17:01:33]     - 2. połowa / 12 @ 1.47
+[2025-06-03 17:01:33]     - 2. połowa - zakład bez remisu / botafogo rj @ 1.28
+[2025-06-03 17:01:33]     - 2. połowa - zakład bez remisu / ceara @ 3.50
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / - 0.5 @ 3.20
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / + 0.5 @ 1.32
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / - 1.5 @ 1.50
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / + 1.5 @ 2.45
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / - 2.5 @ 1.12
+[2025-06-03 17:01:33]     - 2. połowa - liczba goli / + 2.5 @ 5.60
+[2025-06-03 17:01:33]     - 2. połowa - dokładna liczba goli / 0 @ 3.20
+[2025-06-03 17:01:33]     - 2. połowa - dokładna liczba goli / 1 @ 2.60
+[2025-06-03 17:01:33]     - 2. połowa - dokładna liczba goli / 2+ @ 2.45
+[2025-06-03 17:01:33]     - 2. połowa - 1. drużyna liczba goli / - 0.5 @ 2.25
+[2025-06-03 17:01:33]     - 2. połowa - 1. drużyna liczba goli / + 0.5 @ 1.60
+[2025-06-03 17:01:33]     - 2. połowa - 2. drużyna liczba goli / - 0.5 @ 1.40
+[2025-06-03 17:01:33]     - 2. połowa - 2. drużyna liczba goli / + 0.5 @ 2.80
+[2025-06-03 17:01:33]     - 2. połowa - 1. drużyna zachowa czyste konto / tak @ 1.40
+[2025-06-03 17:01:33]     - 2. połowa - 1. drużyna zachowa czyste konto / nie @ 2.80
+[2025-06-03 17:01:33]     - 2. połowa - 2. drużyna zachowa czyste konto / tak @ 2.25
+[2025-06-03 17:01:33]     - 2. połowa - 2. drużyna zachowa czyste konto / nie @ 1.60
+[2025-06-03 17:01:33]     - 2. połowa - obie drużyny strzelą gola / tak @ 4.60
+[2025-06-03 17:01:33]     - 2. połowa - obie drużyny strzelą gola / nie @ 1.18
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 1 (+0.5) @ 1.14
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 2 (-0.5) @ 5.40
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 1 (-0.5) @ 1.98
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 2 (+0.5) @ 1.75
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 1 (-1.5) @ 4.70
+[2025-06-03 17:01:33]     - 2. połowa - handicap / 2 (+1.5) @ 1.17
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:2 / 1 (-2.0) @ 15.00
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:2 / x @ 6.10
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:2 / 2 (+2.0) @ 1.17
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:1 / 1 (-1.0) @ 4.70
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:1 / x @ 3.10
+[2025-06-03 17:01:33]     - 2. połowa - handicap 0:1 / 2 (+1.0) @ 1.75
+[2025-06-03 17:01:33]     - 2. połowa - handicap 1:0 / 1 (+1.0) @ 1.14
+[2025-06-03 17:01:33]     - 2. połowa - handicap 1:0 / x @ 5.90
+[2025-06-03 17:01:33]     - 2. połowa - handicap 1:0 / 2 (-1.0) @ 25.00
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 0:0 @ 3.20
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 1:1 @ 8.50
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 2:2 @ 100.00
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 1:0 @ 3.30
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 2:0 @ 6.75
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 2:1 @ 19.00
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 0:1 @ 7.10
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 0:2 @ 33.00
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / 1:2 @ 42.00
+[2025-06-03 17:01:33]     - 2. połowa - dokładny wynik / inny @ 10.50
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / 1. drużyna + poniżej 1.5 @ 3.60
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / 1. drużyna + powyżej 1.5 @ 3.90
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / remis + poniżej 1.5 @ 3.25
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / remis + powyżej 1.5 @ 8.50
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / 2. drużyna + poniżej 1.5 @ 7.75
+[2025-06-03 17:01:33]     - 2. połowa - wynik + liczba goli 1.5 / 2. drużyna + powyżej 1.5 @ 17.00
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / 1 + tak @ 14.00
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / 1 + nie @ 2.20
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / remis + tak @ 8.40
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / remis + nie @ 3.20
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / 2 + tak @ 38.00
+[2025-06-03 17:01:33]     - 2. połowa - wynik + obie drużyny strzelą gola / 2 + nie @ 6.25
+[2025-06-03 17:01:33]     - 2. połowa – pierwszy gol / 1 @ 1.82
+[2025-06-03 17:01:33]     - 2. połowa – pierwszy gol / nikt @ 3.20
+[2025-06-03 17:01:33]     - 2. połowa – pierwszy gol / 2 @ 4.10
+[2025-06-03 17:01:33]     - 1. połowa / 2. połowa - obie drużyny strzelą gola / nie/nie @ 1.33
+[2025-06-03 17:01:33]     - 1. połowa / 2. połowa - obie drużyny strzelą gola / nie/tak @ 5.25
+[2025-06-03 17:01:33]     - 1. połowa / 2. połowa - obie drużyny strzelą gola / tak/nie @ 7.00
+[2025-06-03 17:01:33]     - 1. połowa / 2. połowa - obie drużyny strzelą gola / tak/tak @ 32.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / igor jesus (bot) @ 2.60
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / cruz r. (bot) @ 2.90
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / augusto y. f. (bot) @ 3.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / kayke (bot) @ 3.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / mastriani g. (bot) @ 3.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / savarino j. (bot) @ 3.25
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / lobato r. (bot) @ 3.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / manoel e. (bot) @ 3.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / martins m. (bot) @ 3.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / artur (bot) @ 3.75
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / rodriguez s. (bot) @ 3.75
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / raul p. (cea) @ 4.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / cuiabano (bot) @ 5.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / jeffinho (bot) @ 5.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / de paula p. (bot) @ 6.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / fernandes n. (bot) @ 6.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / kaue (bot) @ 6.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / lele (cea) @ 6.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / aylon (cea) @ 7.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / danilo (bot) @ 7.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / henrique p. (cea) @ 7.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / kauan (bot) @ 7.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / telles a. (bot) @ 7.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / fernandinho (cea) @ 8.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / martinez a. (cea) @ 8.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / newton (bot) @ 8.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / oliveira da silva g. l. (cea) @ 8.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / galeano a. (cea) @ 9.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / ponte m. (bot) @ 9.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / recalde j. (cea) @ 9.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / romulo (cea) @ 10.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / araujo m. (cea) @ 11.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / lourenco (cea) @ 11.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / mugni l. (cea) @ 11.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / sampaio p. (bot) @ 11.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / vitinho (bot) @ 11.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / allan (bot) @ 12.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / joao victor (cea) @ 12.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / barboza a. (bot) @ 15.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / freitas m. (bot) @ 15.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / gregore (bot) @ 15.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / lima l. (cea) @ 15.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / sobral f. (cea) @ 15.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / rafael l. (cea) @ 17.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / richardson (cea) @ 17.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / cunha j. (bot) @ 20.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / serafim (bot) @ 20.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / marcal f. (bot) @ 22.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / ricardo d. (bot) @ 22.50
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / machado w. (cea) @ 25.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / tubarao b. (cea) @ 25.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / lacerda g. s. (cea) @ 30.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / marcos victor (cea) @ 30.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / otavio l. (cea) @ 30.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / ramon (cea) @ 30.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / bahia m. (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / diego (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / eder (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / fabiano (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / marllon (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / ramos r. (cea) @ 35.00
+[2025-06-03 17:01:33]     - zawodnik - strzeli gola / regulaminowy czas / vichiatto n. (cea) @ 35.00

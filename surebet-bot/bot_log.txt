@@ -1,0 +1,1228 @@
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/- 2.5 @ 2.19
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/+ 2.5 @ 2.95
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/- 2.5 @ 2.60
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/+ 2.5 @ 4.40
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/- 2.5 @ 2.75
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/+ 2.5 @ 2.35
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/- 3.5 @ 1.70
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/+ 3.5 @ 4.90
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/- 3.5 @ 2.09
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/+ 3.5 @ 7.20
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/- 3.5 @ 1.72
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/+ 3.5 @ 4.80
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/- 4.5 @ 1.43
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 10/+ 4.5 @ 11.00
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/- 4.5 @ 1.76
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 02/+ 4.5 @ 19.00
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/- 4.5 @ 1.48
+[2025-05-30 13:31:16]     - Dwójtyp/liczba goli / 12/+ 4.5 @ 8.60
+[2025-05-30 13:31:26] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria
+[2025-05-30 13:31:26] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria
+[2025-05-30 13:31:26] Proxy: brak
+[2025-05-30 13:31:26] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-05-30 13:31:26] HTTP Status: 200 (OK)
+[2025-05-30 13:31:26] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 13:31:26] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 13:31:26] Proxy: brak
+[2025-05-30 13:31:26] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-05-30 13:31:27] HTTP Status: 200 (OK)
+[2025-05-30 13:31:28] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 13:31:31] PLAYWRIGHT: Znaleziono 19 kontenerów rynków.
+[2025-05-30 14:13:51] START BOTA
+[2025-05-30 14:13:51] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia
+[2025-05-30 14:13:51] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia
+[2025-05-30 14:13:51] Proxy: brak
+[2025-05-30 14:13:51] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-05-30 14:13:51] HTTP Status: 200 (OK)
+[2025-05-30 14:13:51] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 14:13:51] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 14:13:51] Proxy: brak
+[2025-05-30 14:13:51] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-05-30 14:13:51] HTTP Status: 200 (OK)
+[2025-05-30 14:13:53] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 14:14:03] PLAYWRIGHT: Znaleziono 50 kontenerów rynków.
+[2025-05-30 14:14:09] INFO: Piłka nożna1.PortugaliaFC Vizela - AVS Futebol (ID: fc-vizela-avs-futebol-MPL185569888)
+[2025-05-30 14:14:09]     - Wynik meczu - dwójtyp / 10 @ 1.28
+[2025-05-30 14:14:09]     - Wynik meczu - dwójtyp / 12 @ 1.28
+[2025-05-30 14:14:09]     - Wynik meczu - dwójtyp / 02 @ 1.59
+[2025-05-30 14:14:09]     - Podwójna szansa (1.poł. lub mecz) / FC Vizela @ 1.82
+[2025-05-30 14:14:09]     - Podwójna szansa (1.poł. lub mecz) / 0-0 @ 1.71
+[2025-05-30 14:14:09]     - Podwójna szansa (1.poł. lub mecz) / AVS Futebol @ 2.60
+[2025-05-30 14:14:09]     - Spotkanie bez remisu / FC Vizela @ 1.55
+[2025-05-30 14:14:09]     - Spotkanie bez remisu / AVS Futebol @ 2.42
+[2025-05-30 14:14:09]     - Liczba goli / mniej 0.5 @ 7.70
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 0.5 @ 1.06
+[2025-05-30 14:14:09]     - Liczba goli / mniej 1 @ 6.60
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 1 @ 1.08
+[2025-05-30 14:14:09]     - Liczba goli / mniej 1.5 @ 3.05
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 1.5 @ 1.35
+[2025-05-30 14:14:09]     - Liczba goli / mniej 2 @ 2.32
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 2 @ 1.55
+[2025-05-30 14:14:09]     - Liczba goli / mniej 2.5 @ 1.70
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 2.5 @ 2.06
+[2025-05-30 14:14:09]     - Liczba goli / mniej 3 @ 1.37
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 3 @ 2.94
+[2025-05-30 14:14:09]     - Liczba goli / mniej 3.5 @ 1.26
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 3.5 @ 3.60
+[2025-05-30 14:14:09]     - Liczba goli / mniej 4 @ 1.10
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 4 @ 6.20
+[2025-05-30 14:14:09]     - Liczba goli / mniej 4.5 @ 1.08
+[2025-05-30 14:14:09]     - Liczba goli / wiecej 4.5 @ 6.90
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Mniej 0.5 @ 3.35
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Wiecej 0.5 @ 1.25
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Mniej 1.5 @ 1.57
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Wiecej 1.5 @ 2.16
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Mniej 2.5 @ 1.14
+[2025-05-30 14:14:09]     - FC Vizela liczba goli / Wiecej 2.5 @ 4.40
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Mniej 0.5 @ 2.50
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Wiecej 0.5 @ 1.42
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Mniej 1.5 @ 1.31
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Wiecej 1.5 @ 2.95
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Mniej 2.5 @ 1.06
+[2025-05-30 14:14:09]     - AVS Futebol liczba goli / Wiecej 2.5 @ 6.60
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola / Tak @ 1.87
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola / Nie @ 1.87
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola/liczba goli / Tak/- 2.5 @ 6.40
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola/liczba goli / Nie/- 2.5 @ 2.11
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola/liczba goli / Tak/+ 2.5 @ 2.38
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola/liczba goli / Nie/+ 2.5 @ 10.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/- 1.5 @ 7.40
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/- 1.5 @ 9.60
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/- 1.5 @ 9.80
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/+ 1.5 @ 2.70
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/+ 1.5 @ 4.60
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/+ 1.5 @ 4.60
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/- 2.5 @ 4.40
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/- 2.5 @ 3.95
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/- 2.5 @ 6.40
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/+ 2.5 @ 3.60
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/+ 2.5 @ 14.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/+ 2.5 @ 6.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/- 3.5 @ 2.70
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/- 3.5 @ 3.95
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/- 3.5 @ 4.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/+ 3.5 @ 7.20
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/+ 3.5 @ 14.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/+ 3.5 @ 14.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/- 4.5 @ 2.33
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/- 4.5 @ 3.20
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/- 4.5 @ 3.55
+[2025-05-30 14:14:09]     - Mecz/liczba goli / FC Vizela/+ 4.5 @ 13.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / 0/+ 4.5 @ 90.00
+[2025-05-30 14:14:09]     - Mecz/liczba goli / AVS Futebol/+ 4.5 @ 24.00
+[2025-05-30 14:14:09]     - Handicap / FC Vizela -1.5 @ 3.90
+[2025-05-30 14:14:09]     - Handicap / AVS Futebol +1.5 @ 1.22
+[2025-05-30 14:14:09]     - Handicap / FC Vizela -1 @ 3.10
+[2025-05-30 14:14:09]     - Handicap / AVS Futebol +1 @ 1.32
+[2025-05-30 14:14:09]     - Handicap / FC Vizela -0.5 @ 2.06
+[2025-05-30 14:14:09]     - Handicap / AVS Futebol +0.5 @ 1.68
+[2025-05-30 14:14:09]     - Handicap / FC Vizela +0.5 @ 1.31
+[2025-05-30 14:14:09]     - Handicap / AVS Futebol -0.5 @ 3.15
+[2025-05-30 14:14:09]     - 1.połowa / FC Vizela @ 2.80
+[2025-05-30 14:14:09]     - 1.połowa / Remis @ 2.09
+[2025-05-30 14:14:09]     - 1.połowa / AVS Futebol @ 4.10
+[2025-05-30 14:14:09]     - 1.połowa - dwójtyp / 10 @ 1.23
+[2025-05-30 14:14:09]     - 1.połowa - dwójtyp / 12 @ 1.63
+[2025-05-30 14:14:09]     - 1.połowa - dwójtyp / 02 @ 1.39
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Mniej 0.5 @ 2.60
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Wiecej 0.5 @ 1.44
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Mniej 1 @ 1.74
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Wiecej 1 @ 1.97
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Mniej 1.5 @ 1.35
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Wiecej 1.5 @ 2.95
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Mniej 2 @ 1.10
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Wiecej 2 @ 5.80
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Mniej 2.5 @ 1.07
+[2025-05-30 14:14:09]     - 1.połowa liczba goli / Wiecej 2.5 @ 6.80
+[2025-05-30 14:14:09]     - FC Vizela 1.połowa liczba goli / Mniej 0.5 @ 1.73
+[2025-05-30 14:14:09]     - FC Vizela 1.połowa liczba goli / Wiecej 0.5 @ 1.99
+[2025-05-30 14:14:09]     - FC Vizela 1.połowa liczba goli / Mniej 1.5 @ 1.11
+[2025-05-30 14:14:09]     - FC Vizela 1.połowa liczba goli / Wiecej 1.5 @ 5.60
+[2025-05-30 14:14:09]     - AVS Futebol 1.połowa liczba goli / Mniej 0.5 @ 1.49
+[2025-05-30 14:14:09]     - AVS Futebol 1.połowa liczba goli / Wiecej 0.5 @ 2.44
+[2025-05-30 14:14:09]     - AVS Futebol 1.połowa liczba goli / Mniej 1.5 @ 1.05
+[2025-05-30 14:14:09]     - AVS Futebol 1.połowa liczba goli / Wiecej 1.5 @ 7.80
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola w 1.połowie / Tak @ 4.60
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola w 1.połowie / Nie @ 1.16
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:0 @ 6.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:0 @ 8.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:1 @ 8.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:0 @ 8.60
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:1 @ 5.60
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:2 @ 15.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:0 @ 18.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:3 @ 45.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:0 @ 50.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:3 @ 80.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 5:0 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 6:0 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:1 @ 8.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:2 @ 11.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:1 @ 17.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:3 @ 30.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:1 @ 45.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 5:1 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:2 @ 30.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:3 @ 40.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:2 @ 90.00
+[2025-05-30 14:14:09]     - Dokładny wynik / inny @ 50.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:0 @ 6.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:0 @ 8.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:1 @ 8.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:0 @ 8.60
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:1 @ 5.60
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:2 @ 15.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:0 @ 18.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:3 @ 45.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:0 @ 50.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:3 @ 80.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 5:0 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 6:0 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:1 @ 8.20
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:1 @ 17.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:1 @ 45.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 5:1 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 3:2 @ 30.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 4:2 @ 90.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:2 @ 11.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:3 @ 30.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:3 @ 40.00
+[2025-05-30 14:14:09]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 14:14:09]     - Dokładny wynik / inny @ 50.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 1:0 2:0 3:0 @ 3.55
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 2:1 3:1 4:1 @ 5.80
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 3:2 4:2 4:3 5:1 @ 22.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 4:0 5:0 6:0 @ 40.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / Remis @ 3.05
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 0:1 0:2 0:3 @ 5.60
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 1:2 1:3 1:4 @ 8.60
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 2:3 2:4 3:4 1:5 @ 35.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / 0:4 0:5 0:6 @ 101.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / FC Vizela wygra dowolnym innym wynikiem @ 101.00
+[2025-05-30 14:14:09]     - Mecz: Multiwynik / AVS Futebol wygra dowolnym innym wynikiem @ 101.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 1/1 @ 3.20
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 0/0 @ 4.60
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 2/2 @ 5.40
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 1/0 @ 14.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 1/2 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 2/0 @ 15.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 0/1 @ 5.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 2/1 @ 28.00
+[2025-05-30 14:14:09]     - 1.połowa/spotkanie / 0/2 @ 7.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/1 i - 1.5 @ 17.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/0 i - 1.5 @ 9.40
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/2 i - 1.5 @ 24.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/1 i + 1.5 @ 4.10
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/0 i + 1.5 @ 9.80
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/2 i + 1.5 @ 7.60
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/1 i - 1.5 @ 12.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/0 i + 1.5 @ 15.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/1 i + 1.5 @ 8.80
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/0 i + 1.5 @ 16.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/2 i - 1.5 @ 16.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/2 i + 1.5 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/2 i + 1.5 @ 14.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/1 i + 1.5 @ 30.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/1 i - 2.5 @ 8.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/0 i - 2.5 @ 5.40
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/2 i - 2.5 @ 13.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/1 i + 2.5 @ 5.60
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/0 i + 2.5 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/2 i + 2.5 @ 10.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/0 i - 2.5 @ 24.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/1 i - 2.5 @ 8.80
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/0 i - 2.5 @ 26.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/0 i + 2.5 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/1 i + 2.5 @ 13.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/0 i + 2.5 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/2 i - 2.5 @ 12.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 1/2 i + 2.5 @ 40.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 0/2 i + 2.5 @ 19.00
+[2025-05-30 14:14:09]     - 1.połowa/mecz i liczba goli / 2/1 i + 2.5 @ 30.00
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 1/1 @ 2.35
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 1/0 @ 9.00
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 1/2 @ 22.00
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 2/1 @ 15.00
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 2/0 @ 9.00
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / 2/2 @ 3.75
+[2025-05-30 14:14:09]     - 1.gol/spotkanie / Brak goli @ 9.60
+[2025-05-30 14:14:09]     - FC Vizela wygra do zera / Tak @ 3.25
+[2025-05-30 14:14:09]     - FC Vizela wygra do zera / Nie @ 1.27
+[2025-05-30 14:14:09]     - FC Vizela wygra przynajmniej jedna połowę / tak @ 1.61
+[2025-05-30 14:14:09]     - FC Vizela wygra przynajmniej jedna połowę / nie @ 2.18
+[2025-05-30 14:14:09]     - AVS Futebol wygra do zera / Tak @ 4.70
+[2025-05-30 14:14:09]     - AVS Futebol wygra do zera / Nie @ 1.13
+[2025-05-30 14:14:09]     - AVS Futebol wygra przynajmniej jedna połowę / tak @ 2.14
+[2025-05-30 14:14:09]     - AVS Futebol wygra przynajmniej jedna połowę / nie @ 1.63
+[2025-05-30 14:14:09]     - FC Vizela wygra obie połowy / Tak @ 6.20
+[2025-05-30 14:14:09]     - FC Vizela wygra obie połowy / Nie @ 1.09
+[2025-05-30 14:14:09]     - AVS Futebol wygra obie połowy / tak @ 9.40
+[2025-05-30 14:14:09]     - AVS Futebol wygra obie połowy / nie @ 1.03
+[2025-05-30 14:14:09]     - FC Vizela strzeli gola w obu połowach / Tak @ 3.45
+[2025-05-30 14:14:09]     - FC Vizela strzeli gola w obu połowach / Nie @ 1.27
+[2025-05-30 14:14:09]     - AVS Futebol strzeli gola w obu połowach / Tak @ 4.90
+[2025-05-30 14:14:09]     - AVS Futebol strzeli gola w obu połowach / Nie @ 1.14
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / FC Vizela/Tak @ 4.50
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / 0/Tak @ 4.40
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / AVS Futebol/Tak @ 6.80
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / FC Vizela/Nie @ 3.30
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / 0/Nie @ 9.20
+[2025-05-30 14:14:09]     - Mecz/obie drużyny strzelą gola / AVS Futebol/Nie @ 5.40
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / FC Vizela o 1 @ 3.65
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / FC Vizela o 2 @ 6.20
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / FC Vizela o 3+ @ 10.00
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / Remis @ 3.05
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / AVS Futebol o 1 @ 4.80
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / AVS Futebol o 2 @ 11.00
+[2025-05-30 14:14:09]     - Różnica zwycięstwa / AVS Futebol o 3+ @ 26.00
+[2025-05-30 14:14:09]     - Mecz: która drużyna strzeli gola / Żadna @ 9.20
+[2025-05-30 14:14:09]     - Mecz: która drużyna strzeli gola / Tylko FC Vizela @ 3.30
+[2025-05-30 14:14:09]     - Mecz: która drużyna strzeli gola / Tylko AVS Futebol @ 5.40
+[2025-05-30 14:14:09]     - Mecz: która drużyna strzeli gola / Obie @ 1.81
+[2025-05-30 14:14:09]     - 1.gol / FC Vizela @ 1.76
+[2025-05-30 14:14:09]     - 1.gol / Nikt @ 9.40
+[2025-05-30 14:14:09]     - 1.gol / AVS Futebol @ 2.29
+[2025-05-30 14:14:09]     - 2.połowa / FC Vizela @ 2.47
+[2025-05-30 14:14:09]     - 2.połowa / Remis @ 2.44
+[2025-05-30 14:14:09]     - 2.połowa / AVS Futebol @ 3.50
+[2025-05-30 14:14:09]     - 2.połowa / 10 @ 1.23
+[2025-05-30 14:14:09]     - 2.połowa / 12 @ 1.45
+[2025-05-30 14:14:09]     - 2.połowa / 02 @ 1.44
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Mniej 0.5 @ 3.35
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Wiecej 0.5 @ 1.25
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Mniej 1 @ 2.32
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Wiecej 1 @ 1.49
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Mniej 1.5 @ 1.55
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Wiecej 1.5 @ 2.20
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Mniej 2 @ 1.20
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Wiecej 2 @ 3.75
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Mniej 2.5 @ 1.13
+[2025-05-30 14:14:09]     - 2.połowa liczba goli / Wiecej 2.5 @ 4.60
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Mniej 0.5 @ 2.02
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Wiecej 0.5 @ 1.74
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Mniej 1.5 @ 1.18
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Wiecej 1.5 @ 4.40
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Mniej 2.5 @ 1.02
+[2025-05-30 14:14:09]     - FC Vizela 2.połowa liczba goli / Wiecej 2.5 @ 11.00
+[2025-05-30 14:14:09]     - AVS Futebol 2.połowa liczba goli / Mniej 0.5 @ 1.70
+[2025-05-30 14:14:09]     - AVS Futebol 2.połowa liczba goli / Wiecej 0.5 @ 2.08
+[2025-05-30 14:14:09]     - AVS Futebol 2.połowa liczba goli / Mniej 1.5 @ 1.10
+[2025-05-30 14:14:09]     - AVS Futebol 2.połowa liczba goli / Wiecej 1.5 @ 6.20
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola w 2.połowie / Tak @ 3.60
+[2025-05-30 14:14:09]     - Obie drużyny strzelą gola w 2.połowie / Nie @ 1.24
+[2025-05-30 14:14:09]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Nie @ 6.20
+[2025-05-30 14:14:09]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Tak @ 4.40
+[2025-05-30 14:14:09]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Tak @ 21.00
+[2025-05-30 14:14:09]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Nie @ 1.48
+[2025-05-30 14:14:09]     - Połowa z wiekszą liczbą goli / Pierwszy @ 3.15
+[2025-05-30 14:14:09]     - Połowa z wiekszą liczbą goli / Równo @ 3.30
+[2025-05-30 14:14:09]     - Połowa z wiekszą liczbą goli / Drugi @ 2.11
+[2025-05-30 14:14:09]     - 1.połowa: dokładna liczba goli / 0 @ 2.70
+[2025-05-30 14:14:09]     - 1.połowa: dokładna liczba goli / 1 @ 2.55
+[2025-05-30 14:14:09]     - 1.połowa: dokładna liczba goli / 2 @ 4.50
+[2025-05-30 14:14:09]     - 1.połowa: dokładna liczba goli / 3+ @ 8.80
+[2025-05-30 14:14:09]     - Multigole / 1-2 @ 1.96
+[2025-05-30 14:14:09]     - Multigole / 1-3 @ 1.40
+[2025-05-30 14:14:09]     - Multigole / 1-4 @ 1.20
+[2025-05-30 14:14:09]     - Multigole / 1-5 @ 1.12
+[2025-05-30 14:14:09]     - Multigole / 1-6 @ 1.09
+[2025-05-30 14:14:09]     - Multigole / 2-3 @ 1.94
+[2025-05-30 14:14:09]     - Multigole / 2-4 @ 1.55
+[2025-05-30 14:14:09]     - Multigole / 2-5 @ 1.41
+[2025-05-30 14:14:09]     - Multigole / 2-6 @ 1.36
+[2025-05-30 14:14:09]     - Multigole / 3-4 @ 2.60
+[2025-05-30 14:14:09]     - Multigole / 3-5 @ 2.21
+[2025-05-30 14:14:09]     - Multigole / 3-6 @ 2.08
+[2025-05-30 14:14:09]     - Multigole / 4-5 @ 4.40
+[2025-05-30 14:14:09]     - Multigole / 4-6 @ 3.85
+[2025-05-30 14:14:09]     - Multigole / 5-6 @ 9.20
+[2025-05-30 14:14:09]     - Multigole / 7+ @ 25.00
+[2025-05-30 14:14:09]     - Multigole / Brak goli @ 9.40
+[2025-05-30 14:14:09]     - FC Vizela Multigole / 1-2 @ 1.54
+[2025-05-30 14:14:09]     - FC Vizela Multigole / 1-3 @ 1.33
+[2025-05-30 14:14:09]     - FC Vizela Multigole / 2-3 @ 2.37
+[2025-05-30 14:14:09]     - FC Vizela Multigole / 4+ @ 14.00
+[2025-05-30 14:14:09]     - FC Vizela Multigole / Brak goli @ 3.35
+[2025-05-30 14:14:09]     - AVS Futebol Multigole / 1-2 @ 1.60
+[2025-05-30 14:14:09]     - AVS Futebol Multigole / 1-3 @ 1.45
+[2025-05-30 14:14:09]     - AVS Futebol Multigole / 2-3 @ 3.15
+[2025-05-30 14:14:09]     - AVS Futebol Multigole / 4+ @ 35.00
+[2025-05-30 14:14:09]     - AVS Futebol Multigole / Brak goli @ 2.46
+[2025-05-30 14:14:09]     - 1.połowa: Multigole / 1-2 @ 1.59
+[2025-05-30 14:14:09]     - 1.połowa: Multigole / 1-3 @ 1.43
+[2025-05-30 14:14:09]     - 1.połowa: Multigole / 2-3 @ 3.00
+[2025-05-30 14:14:09]     - 1.połowa: Multigole / 4+ @ 29.00
+[2025-05-30 14:14:09]     - 1.połowa: Multigole / Brak goli @ 2.43
+[2025-05-30 14:14:09]     - 2.połowa: Multigole / 1-2 @ 1.50
+[2025-05-30 14:14:09]     - 2.połowa: Multigole / 1-3 @ 1.31
+[2025-05-30 14:14:09]     - 2.połowa: Multigole / 2-3 @ 2.33
+[2025-05-30 14:14:09]     - 2.połowa: Multigole / 4+ @ 15.00
+[2025-05-30 14:14:09]     - 2.połowa: Multigole / Brak goli @ 3.20
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 1:0 @ 4.20
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 2:0 @ 13.00
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 2:1 @ 27.00
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 0:0 @ 2.60
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 1:1 @ 8.80
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 2:2 @ 101.00
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 1:2 @ 35.00
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 0:2 @ 23.00
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / 0:1 @ 5.60
+[2025-05-30 14:14:09]     - 1.połowa: dokładny wynik / inny @ 22.00
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / FC Vizela/Tak @ 21.00
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Tak @ 8.40
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / AVS Futebol/Tak @ 30.00
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / FC Vizela/Nie @ 3.10
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Nie @ 2.65
+[2025-05-30 14:14:09]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / AVS Futebol/Nie @ 4.50
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / FC Vizela/Tak @ 14.00
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / 0/Tak @ 7.00
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / AVS Futebol/Tak @ 19.00
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / FC Vizela/Nie @ 2.95
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / 0/Nie @ 3.65
+[2025-05-30 14:14:09]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / AVS Futebol/Nie @ 4.20
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/- 1.5 @ 4.30
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/+ 1.5 @ 1.79
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/- 1.5 @ 5.00
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/+ 1.5 @ 2.39
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/- 1.5 @ 4.30
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/+ 1.5 @ 1.79
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/- 2.5 @ 2.19
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/+ 2.5 @ 2.95
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/- 2.5 @ 2.60
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/+ 2.5 @ 4.40
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/- 2.5 @ 2.75
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/+ 2.5 @ 2.35
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/- 3.5 @ 1.70
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/+ 3.5 @ 4.90
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/- 3.5 @ 2.09
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/+ 3.5 @ 7.20
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/- 3.5 @ 1.72
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/+ 3.5 @ 4.80
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/- 4.5 @ 1.43
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 10/+ 4.5 @ 11.00
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/- 4.5 @ 1.76
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 02/+ 4.5 @ 19.00
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/- 4.5 @ 1.48
+[2025-05-30 14:14:09]     - Dwójtyp/liczba goli / 12/+ 4.5 @ 8.60
+[2025-05-30 14:14:19] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria
+[2025-05-30 14:14:19] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria
+[2025-05-30 14:14:19] Proxy: brak
+[2025-05-30 14:14:19] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
+[2025-05-30 14:14:20] HTTP Status: 200 (OK)
+[2025-05-30 14:14:20] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 14:14:20] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 14:14:20] Proxy: brak
+[2025-05-30 14:14:20] User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-05-30 14:14:20] HTTP Status: 200 (OK)
+[2025-05-30 14:14:21] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-algieria/olympique-akbou-cs-constantine-MPL185807910
+[2025-05-30 14:14:24] PLAYWRIGHT: Znaleziono 19 kontenerów rynków.
+[2025-05-30 20:51:06] START BOTA
+[2025-05-30 20:51:06] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia
+[2025-05-30 20:51:06] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia
+[2025-05-30 20:51:06] Proxy: brak
+[2025-05-30 20:51:06] User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-05-30 20:51:06] HTTP Status: 200 (OK)
+[2025-05-30 20:51:06] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 20:51:06] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 20:51:06] Proxy: brak
+[2025-05-30 20:51:06] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-05-30 20:51:07] HTTP Status: 200 (OK)
+[2025-05-30 20:51:09] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia/fc-vizela-avs-futebol-MPL185569888
+[2025-05-30 20:51:19] PLAYWRIGHT: Znaleziono 50 kontenerów rynków.
+[2025-05-30 20:51:25] INFO: FC Vizela - AVS Futebol | Piłka nożna | 1.Portugalia | 1900-06-01 20:45
+[2025-05-30 20:51:25]     - Wynik meczu - dwójtyp / 10 @ 1.26
+[2025-05-30 20:51:25]     - Wynik meczu - dwójtyp / 12 @ 1.28
+[2025-05-30 20:51:25]     - Wynik meczu - dwójtyp / 02 @ 1.62
+[2025-05-30 20:51:25]     - Podwójna szansa (1.poł. lub mecz) / FC Vizela @ 1.77
+[2025-05-30 20:51:25]     - Podwójna szansa (1.poł. lub mecz) / 0-0 @ 1.71
+[2025-05-30 20:51:25]     - Podwójna szansa (1.poł. lub mecz) / AVS Futebol @ 2.70
+[2025-05-30 20:51:25]     - Spotkanie bez remisu / FC Vizela @ 1.51
+[2025-05-30 20:51:25]     - Spotkanie bez remisu / AVS Futebol @ 2.50
+[2025-05-30 20:51:25]     - Liczba goli / mniej 0.5 @ 7.70
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 0.5 @ 1.06
+[2025-05-30 20:51:25]     - Liczba goli / mniej 1 @ 6.60
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 1 @ 1.08
+[2025-05-30 20:51:25]     - Liczba goli / mniej 1.5 @ 3.05
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 1.5 @ 1.35
+[2025-05-30 20:51:25]     - Liczba goli / mniej 2 @ 2.32
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 2 @ 1.55
+[2025-05-30 20:51:25]     - Liczba goli / mniej 2.5 @ 1.70
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 2.5 @ 2.06
+[2025-05-30 20:51:25]     - Liczba goli / mniej 3 @ 1.37
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 3 @ 2.94
+[2025-05-30 20:51:25]     - Liczba goli / mniej 3.5 @ 1.26
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 3.5 @ 3.60
+[2025-05-30 20:51:25]     - Liczba goli / mniej 4 @ 1.10
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 4 @ 6.20
+[2025-05-30 20:51:25]     - Liczba goli / mniej 4.5 @ 1.08
+[2025-05-30 20:51:25]     - Liczba goli / wiecej 4.5 @ 6.90
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Mniej 0.5 @ 3.45
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Wiecej 0.5 @ 1.24
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Mniej 1.5 @ 1.59
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Wiecej 1.5 @ 2.12
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Mniej 2.5 @ 1.15
+[2025-05-30 20:51:25]     - FC Vizela liczba goli / Wiecej 2.5 @ 4.30
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Mniej 0.5 @ 2.46
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Wiecej 0.5 @ 1.44
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Mniej 1.5 @ 1.30
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Wiecej 1.5 @ 3.05
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Mniej 2.5 @ 1.05
+[2025-05-30 20:51:25]     - AVS Futebol liczba goli / Wiecej 2.5 @ 6.80
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola / Tak @ 1.88
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola / Nie @ 1.86
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola/liczba goli / Tak/- 2.5 @ 6.40
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola/liczba goli / Nie/- 2.5 @ 2.10
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola/liczba goli / Tak/+ 2.5 @ 2.40
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola/liczba goli / Nie/+ 2.5 @ 10.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/- 1.5 @ 7.20
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/- 1.5 @ 9.40
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/- 1.5 @ 10.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/+ 1.5 @ 2.60
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/+ 1.5 @ 4.60
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/+ 1.5 @ 4.80
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/- 2.5 @ 4.30
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/- 2.5 @ 3.95
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/- 2.5 @ 6.80
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/+ 2.5 @ 3.45
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/+ 2.5 @ 15.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/+ 2.5 @ 6.40
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/- 3.5 @ 2.65
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/- 3.5 @ 3.95
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/- 3.5 @ 4.20
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/+ 3.5 @ 7.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/+ 3.5 @ 14.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/+ 3.5 @ 15.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/- 4.5 @ 2.26
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/- 4.5 @ 3.20
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/- 4.5 @ 3.70
+[2025-05-30 20:51:25]     - Mecz/liczba goli / FC Vizela/+ 4.5 @ 13.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / 0/+ 4.5 @ 90.00
+[2025-05-30 20:51:25]     - Mecz/liczba goli / AVS Futebol/+ 4.5 @ 26.00
+[2025-05-30 20:51:25]     - Handicap / FC Vizela -1.5 @ 3.75
+[2025-05-30 20:51:25]     - Handicap / AVS Futebol +1.5 @ 1.23
+[2025-05-30 20:51:25]     - Handicap / FC Vizela -1 @ 3.00
+[2025-05-30 20:51:25]     - Handicap / AVS Futebol +1 @ 1.34
+[2025-05-30 20:51:25]     - Handicap / FC Vizela -0.5 @ 2.01
+[2025-05-30 20:51:25]     - Handicap / AVS Futebol +0.5 @ 1.72
+[2025-05-30 20:51:25]     - Handicap / FC Vizela +0.5 @ 1.29
+[2025-05-30 20:51:25]     - Handicap / AVS Futebol -0.5 @ 3.25
+[2025-05-30 20:51:25]     - 1.połowa / FC Vizela @ 2.75
+[2025-05-30 20:51:25]     - 1.połowa / Remis @ 2.10
+[2025-05-30 20:51:25]     - 1.połowa / AVS Futebol @ 4.20
+[2025-05-30 20:51:25]     - 1.połowa - dwójtyp / 10 @ 1.22
+[2025-05-30 20:51:25]     - 1.połowa - dwójtyp / 12 @ 1.63
+[2025-05-30 20:51:25]     - 1.połowa - dwójtyp / 02 @ 1.40
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Mniej 0.5 @ 2.60
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Wiecej 0.5 @ 1.43
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Mniej 1 @ 1.75
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Wiecej 1 @ 1.97
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Mniej 1.5 @ 1.35
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Wiecej 1.5 @ 2.95
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Mniej 2 @ 1.10
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Wiecej 2 @ 5.80
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Mniej 2.5 @ 1.07
+[2025-05-30 20:51:25]     - 1.połowa liczba goli / Wiecej 2.5 @ 6.80
+[2025-05-30 20:51:25]     - FC Vizela 1.połowa liczba goli / Mniej 0.5 @ 1.76
+[2025-05-30 20:51:25]     - FC Vizela 1.połowa liczba goli / Wiecej 0.5 @ 1.96
+[2025-05-30 20:51:25]     - FC Vizela 1.połowa liczba goli / Mniej 1.5 @ 1.11
+[2025-05-30 20:51:25]     - FC Vizela 1.połowa liczba goli / Wiecej 1.5 @ 5.60
+[2025-05-30 20:51:25]     - AVS Futebol 1.połowa liczba goli / Mniej 0.5 @ 1.48
+[2025-05-30 20:51:25]     - AVS Futebol 1.połowa liczba goli / Wiecej 0.5 @ 2.48
+[2025-05-30 20:51:25]     - AVS Futebol 1.połowa liczba goli / Mniej 1.5 @ 1.05
+[2025-05-30 20:51:25]     - AVS Futebol 1.połowa liczba goli / Wiecej 1.5 @ 8.00
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola w 1.połowie / Tak @ 4.60
+[2025-05-30 20:51:25]     - Obie drużyny strzelą gola w 1.połowie / Nie @ 1.16
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:0 @ 6.20
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:0 @ 8.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:1 @ 8.60
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:0 @ 8.40
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:1 @ 5.60
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:2 @ 16.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:0 @ 17.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:3 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:0 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:3 @ 80.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 5:0 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 6:0 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:1 @ 8.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:2 @ 11.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:1 @ 16.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:3 @ 30.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:1 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 5:1 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:2 @ 30.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:3 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:2 @ 90.00
+[2025-05-30 20:51:25]     - Dokładny wynik / inny @ 50.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:0 @ 6.20
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:0 @ 8.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:1 @ 8.60
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:0 @ 8.40
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:1 @ 5.60
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:2 @ 16.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:0 @ 17.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:3 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:0 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:3 @ 80.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 5:0 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 6:0 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:1 @ 8.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:1 @ 16.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:1 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 5:1 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 3:2 @ 30.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 4:2 @ 90.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:2 @ 11.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:3 @ 30.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:3 @ 45.00
+[2025-05-30 20:51:25]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 20:51:25]     - Dokładny wynik / inny @ 50.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 1:0 2:0 3:0 @ 3.45
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 2:1 3:1 4:1 @ 5.60
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 3:2 4:2 4:3 5:1 @ 21.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 4:0 5:0 6:0 @ 40.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / Remis @ 3.05
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 0:1 0:2 0:3 @ 5.80
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 1:2 1:3 1:4 @ 9.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 2:3 2:4 3:4 1:5 @ 35.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / 0:4 0:5 0:6 @ 101.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / FC Vizela wygra dowolnym innym wynikiem @ 101.00
+[2025-05-30 20:51:25]     - Mecz: Multiwynik / AVS Futebol wygra dowolnym innym wynikiem @ 101.00
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 1/1 @ 3.10
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 0/0 @ 4.60
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 2/2 @ 5.80
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 1/0 @ 14.00
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 1/2 @ 40.00
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 2/0 @ 15.00
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 0/1 @ 4.90
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 2/1 @ 28.00
+[2025-05-30 20:51:25]     - 1.połowa/spotkanie / 0/2 @ 7.40
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/1 i - 1.5 @ 17.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/0 i - 1.5 @ 9.20
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/2 i - 1.5 @ 24.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/1 i + 1.5 @ 3.95
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/0 i + 1.5 @ 9.80
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/2 i + 1.5 @ 8.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/1 i - 1.5 @ 12.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/0 i + 1.5 @ 15.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/1 i + 1.5 @ 8.60
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/0 i + 1.5 @ 16.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/2 i - 1.5 @ 16.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/2 i + 1.5 @ 45.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/2 i + 1.5 @ 14.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/1 i + 1.5 @ 30.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/1 i - 2.5 @ 7.80
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/0 i - 2.5 @ 5.40
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/2 i - 2.5 @ 13.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/1 i + 2.5 @ 5.40
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/0 i + 2.5 @ 45.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/2 i + 2.5 @ 11.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/0 i - 2.5 @ 24.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/1 i - 2.5 @ 8.60
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/0 i - 2.5 @ 26.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/0 i + 2.5 @ 40.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/1 i + 2.5 @ 12.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/0 i + 2.5 @ 45.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/2 i - 2.5 @ 13.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 1/2 i + 2.5 @ 45.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 0/2 i + 2.5 @ 20.00
+[2025-05-30 20:51:25]     - 1.połowa/mecz i liczba goli / 2/1 i + 2.5 @ 30.00
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 1/1 @ 2.28
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 1/0 @ 9.20
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 1/2 @ 23.00
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 2/1 @ 15.00
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 2/0 @ 9.20
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / 2/2 @ 3.90
+[2025-05-30 20:51:25]     - 1.gol/spotkanie / Brak goli @ 9.60
+[2025-05-30 20:51:25]     - FC Vizela wygra do zera / Tak @ 3.15
+[2025-05-30 20:51:25]     - FC Vizela wygra do zera / Nie @ 1.28
+[2025-05-30 20:51:25]     - FC Vizela wygra przynajmniej jedna połowę / tak @ 1.58
+[2025-05-30 20:51:25]     - FC Vizela wygra przynajmniej jedna połowę / nie @ 2.23
+[2025-05-30 20:51:25]     - AVS Futebol wygra do zera / Tak @ 4.90
+[2025-05-30 20:51:25]     - AVS Futebol wygra do zera / Nie @ 1.12
+[2025-05-30 20:51:25]     - AVS Futebol wygra przynajmniej jedna połowę / tak @ 2.20
+[2025-05-30 20:51:25]     - AVS Futebol wygra przynajmniej jedna połowę / nie @ 1.60
+[2025-05-30 20:51:25]     - FC Vizela wygra obie połowy / Tak @ 6.00
+[2025-05-30 20:51:25]     - FC Vizela wygra obie połowy / Nie @ 1.10
+[2025-05-30 20:51:25]     - AVS Futebol wygra obie połowy / tak @ 9.80
+[2025-05-30 20:51:25]     - AVS Futebol wygra obie połowy / nie @ 1.02
+[2025-05-30 20:51:25]     - FC Vizela strzeli gola w obu połowach / Tak @ 3.35
+[2025-05-30 20:51:25]     - FC Vizela strzeli gola w obu połowach / Nie @ 1.28
+[2025-05-30 20:51:25]     - AVS Futebol strzeli gola w obu połowach / Tak @ 5.00
+[2025-05-30 20:51:25]     - AVS Futebol strzeli gola w obu połowach / Nie @ 1.14
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / FC Vizela/Tak @ 4.40
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / 0/Tak @ 4.40
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / AVS Futebol/Tak @ 7.00
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / FC Vizela/Nie @ 3.20
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / 0/Nie @ 9.00
+[2025-05-30 20:51:25]     - Mecz/obie drużyny strzelą gola / AVS Futebol/Nie @ 5.60
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / FC Vizela o 1 @ 3.60
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / FC Vizela o 2 @ 6.00
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / FC Vizela o 3+ @ 9.40
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / Remis @ 3.05
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / AVS Futebol o 1 @ 5.00
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / AVS Futebol o 2 @ 12.00
+[2025-05-30 20:51:25]     - Różnica zwycięstwa / AVS Futebol o 3+ @ 28.00
+[2025-05-30 20:51:25]     - Mecz: która drużyna strzeli gola / Żadna @ 9.20
+[2025-05-30 20:51:25]     - Mecz: która drużyna strzeli gola / Tylko FC Vizela @ 3.20
+[2025-05-30 20:51:25]     - Mecz: która drużyna strzeli gola / Tylko AVS Futebol @ 5.60
+[2025-05-30 20:51:25]     - Mecz: która drużyna strzeli gola / Obie @ 1.81
+[2025-05-30 20:51:25]     - 1.gol / FC Vizela @ 1.73
+[2025-05-30 20:51:25]     - 1.gol / Nikt @ 9.40
+[2025-05-30 20:51:25]     - 1.gol / AVS Futebol @ 2.35
+[2025-05-30 20:51:25]     - 2.połowa / FC Vizela @ 2.42
+[2025-05-30 20:51:25]     - 2.połowa / Remis @ 2.44
+[2025-05-30 20:51:25]     - 2.połowa / AVS Futebol @ 3.60
+[2025-05-30 20:51:25]     - 2.połowa / 10 @ 1.21
+[2025-05-30 20:51:25]     - 2.połowa / 12 @ 1.45
+[2025-05-30 20:51:25]     - 2.połowa / 02 @ 1.45
+[2025-05-30 20:51:25]     - 2.połowa liczba goli / Mniej 0.5 @ 3.30
+[2025-05-30 20:51:25]     - 2.połowa liczba goli / Wiecej 0.5 @ 1.25
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Mniej 1 @ 2.32
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Wiecej 1 @ 1.50
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Mniej 1.5 @ 1.55
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Wiecej 1.5 @ 2.20
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Mniej 2 @ 1.20
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Wiecej 2 @ 3.75
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Mniej 2.5 @ 1.13
+[2025-05-30 20:51:26]     - 2.połowa liczba goli / Wiecej 2.5 @ 4.60
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Mniej 0.5 @ 2.05
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Wiecej 0.5 @ 1.72
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Mniej 1.5 @ 1.19
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Wiecej 1.5 @ 4.30
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Mniej 2.5 @ 1.03
+[2025-05-30 20:51:26]     - FC Vizela 2.połowa liczba goli / Wiecej 2.5 @ 11.00
+[2025-05-30 20:51:26]     - AVS Futebol 2.połowa liczba goli / Mniej 0.5 @ 1.68
+[2025-05-30 20:51:26]     - AVS Futebol 2.połowa liczba goli / Wiecej 0.5 @ 2.11
+[2025-05-30 20:51:26]     - AVS Futebol 2.połowa liczba goli / Mniej 1.5 @ 1.09
+[2025-05-30 20:51:26]     - AVS Futebol 2.połowa liczba goli / Wiecej 1.5 @ 6.40
+[2025-05-30 20:51:26]     - Obie drużyny strzelą gola w 2.połowie / Tak @ 3.65
+[2025-05-30 20:51:26]     - Obie drużyny strzelą gola w 2.połowie / Nie @ 1.24
+[2025-05-30 20:51:26]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Nie @ 6.40
+[2025-05-30 20:51:26]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Tak @ 4.40
+[2025-05-30 20:51:26]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Tak @ 21.00
+[2025-05-30 20:51:26]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Nie @ 1.47
+[2025-05-30 20:51:26]     - Połowa z wiekszą liczbą goli / Pierwszy @ 3.10
+[2025-05-30 20:51:26]     - Połowa z wiekszą liczbą goli / Równo @ 3.25
+[2025-05-30 20:51:26]     - Połowa z wiekszą liczbą goli / Drugi @ 2.11
+[2025-05-30 20:51:26]     - 1.połowa: dokładna liczba goli / 0 @ 2.70
+[2025-05-30 20:51:26]     - 1.połowa: dokładna liczba goli / 1 @ 2.55
+[2025-05-30 20:51:26]     - 1.połowa: dokładna liczba goli / 2 @ 4.50
+[2025-05-30 20:51:26]     - 1.połowa: dokładna liczba goli / 3+ @ 8.80
+[2025-05-30 20:51:26]     - Multigole / 1-2 @ 1.96
+[2025-05-30 20:51:26]     - Multigole / 1-3 @ 1.41
+[2025-05-30 20:51:26]     - Multigole / 1-4 @ 1.20
+[2025-05-30 20:51:26]     - Multigole / 1-5 @ 1.12
+[2025-05-30 20:51:26]     - Multigole / 1-6 @ 1.09
+[2025-05-30 20:51:26]     - Multigole / 2-3 @ 1.94
+[2025-05-30 20:51:26]     - Multigole / 2-4 @ 1.55
+[2025-05-30 20:51:26]     - Multigole / 2-5 @ 1.41
+[2025-05-30 20:51:26]     - Multigole / 2-6 @ 1.36
+[2025-05-30 20:51:26]     - Multigole / 3-4 @ 2.60
+[2025-05-30 20:51:26]     - Multigole / 3-5 @ 2.21
+[2025-05-30 20:51:26]     - Multigole / 3-6 @ 2.08
+[2025-05-30 20:51:26]     - Multigole / 4-5 @ 4.40
+[2025-05-30 20:51:26]     - Multigole / 4-6 @ 3.85
+[2025-05-30 20:51:26]     - Multigole / 5-6 @ 9.20
+[2025-05-30 20:51:26]     - Multigole / 7+ @ 25.00
+[2025-05-30 20:51:26]     - Multigole / Brak goli @ 9.40
+[2025-05-30 20:51:26]     - FC Vizela Multigole / 1-2 @ 1.54
+[2025-05-30 20:51:26]     - FC Vizela Multigole / 1-3 @ 1.32
+[2025-05-30 20:51:26]     - FC Vizela Multigole / 2-3 @ 2.34
+[2025-05-30 20:51:26]     - FC Vizela Multigole / 4+ @ 13.00
+[2025-05-30 20:51:26]     - FC Vizela Multigole / Brak goli @ 3.45
+[2025-05-30 20:51:26]     - AVS Futebol Multigole / 1-2 @ 1.61
+[2025-05-30 20:51:26]     - AVS Futebol Multigole / 1-3 @ 1.47
+[2025-05-30 20:51:26]     - AVS Futebol Multigole / 2-3 @ 3.25
+[2025-05-30 20:51:26]     - AVS Futebol Multigole / 4+ @ 35.00
+[2025-05-30 20:51:26]     - AVS Futebol Multigole / Brak goli @ 2.40
+[2025-05-30 20:51:26]     - 1.połowa: Multigole / 1-2 @ 1.59
+[2025-05-30 20:51:26]     - 1.połowa: Multigole / 1-3 @ 1.43
+[2025-05-30 20:51:26]     - 1.połowa: Multigole / 2-3 @ 3.00
+[2025-05-30 20:51:26]     - 1.połowa: Multigole / 4+ @ 29.00
+[2025-05-30 20:51:26]     - 1.połowa: Multigole / Brak goli @ 2.44
+[2025-05-30 20:51:26]     - 2.połowa: Multigole / 1-2 @ 1.50
+[2025-05-30 20:51:26]     - 2.połowa: Multigole / 1-3 @ 1.31
+[2025-05-30 20:51:26]     - 2.połowa: Multigole / 2-3 @ 2.33
+[2025-05-30 20:51:26]     - 2.połowa: Multigole / 4+ @ 15.00
+[2025-05-30 20:51:26]     - 2.połowa: Multigole / Brak goli @ 3.20
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 1:0 @ 4.10
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 2:0 @ 12.00
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 2:1 @ 27.00
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 0:0 @ 2.60
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 1:1 @ 8.80
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 2:2 @ 101.00
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 1:2 @ 40.00
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 0:2 @ 25.00
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / 0:1 @ 5.80
+[2025-05-30 20:51:26]     - 1.połowa: dokładny wynik / inny @ 22.00
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / FC Vizela/Tak @ 21.00
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Tak @ 8.40
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / AVS Futebol/Tak @ 30.00
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / FC Vizela/Nie @ 3.05
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Nie @ 2.65
+[2025-05-30 20:51:26]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / AVS Futebol/Nie @ 4.70
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / FC Vizela/Tak @ 14.00
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / 0/Tak @ 7.00
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / AVS Futebol/Tak @ 20.00
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / FC Vizela/Nie @ 2.90
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / 0/Nie @ 3.60
+[2025-05-30 20:51:26]     - 2.połowa/obie drużyny strzelą gola w 2.połowie / AVS Futebol/Nie @ 4.30
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/- 1.5 @ 4.20
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/+ 1.5 @ 1.76
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/- 1.5 @ 5.00
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/+ 1.5 @ 2.45
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/- 1.5 @ 4.30
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/+ 1.5 @ 1.79
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/- 2.5 @ 2.17
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/+ 2.5 @ 2.90
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/- 2.5 @ 2.60
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/+ 2.5 @ 4.60
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/- 2.5 @ 2.75
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/+ 2.5 @ 2.35
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/- 3.5 @ 1.68
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/+ 3.5 @ 4.80
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/- 3.5 @ 2.13
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/+ 3.5 @ 7.40
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/- 3.5 @ 1.71
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/+ 3.5 @ 4.80
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/- 4.5 @ 1.41
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 10/+ 4.5 @ 11.00
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/- 4.5 @ 1.80
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 02/+ 4.5 @ 20.00
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/- 4.5 @ 1.48
+[2025-05-30 20:51:26]     - Dwójtyp/liczba goli / 12/+ 4.5 @ 8.40
+[2025-05-30 20:55:22] START BOTA
+[2025-05-30 20:55:22] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja
+[2025-05-30 20:55:22] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja
+[2025-05-30 20:55:22] Proxy: brak
+[2025-05-30 20:55:22] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-05-30 20:55:22] HTTP Status: 200 (OK)
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/fenerbahce-konyaspor-MPL175234422
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/alanyaspor-sivasspor-MPL175234420
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/adana-demirspor-gaziantep-fk-MPL175234430
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/samsunspor-kayserispor-MPL175234424
+[2025-05-30 20:55:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/bb-bodrumspor-besiktas-MPL175234432
+[2025-05-30 20:55:22] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 20:55:22] Proxy: brak
+[2025-05-30 20:55:22] User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.126 Safari/537.36 (pl-PL)
+[2025-05-30 20:55:23] HTTP Status: 200 (OK)
+[2025-05-30 20:55:24] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 20:55:28] PLAYWRIGHT: Znaleziono 47 kontenerów rynków.
+[2025-05-30 20:55:34] INFO: Caykur Rizespor - Hatayspor | Piłka nożna | 1.Turcja | 31.05. 15:00
+[2025-05-30 20:55:34]     - Wynik meczu - dwójtyp / 10 @ 1.13
+[2025-05-30 20:55:34]     - Wynik meczu - dwójtyp / 12 @ 1.15
+[2025-05-30 20:55:34]     - Wynik meczu - dwójtyp / 02 @ 2.48
+[2025-05-30 20:55:34]     - Podwójna szansa (1.poł. lub mecz) / Caykur Rizespor @ 1.27
+[2025-05-30 20:55:34]     - Podwójna szansa (1.poł. lub mecz) / 0-0 @ 2.16
+[2025-05-30 20:55:34]     - Podwójna szansa (1.poł. lub mecz) / Hatayspor @ 3.45
+[2025-05-30 20:55:34]     - Spotkanie bez remisu / Caykur Rizespor @ 1.18
+[2025-05-30 20:55:34]     - Spotkanie bez remisu / Hatayspor @ 4.50
+[2025-05-30 20:55:34]     - Liczba goli / mniej 1.5 @ 6.90
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 1.5 @ 1.07
+[2025-05-30 20:55:34]     - Liczba goli / mniej 2 @ 6.20
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 2 @ 1.10
+[2025-05-30 20:55:34]     - Liczba goli / mniej 2.5 @ 3.40
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 2.5 @ 1.29
+[2025-05-30 20:55:34]     - Liczba goli / mniej 3 @ 2.75
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 3 @ 1.41
+[2025-05-30 20:55:34]     - Liczba goli / mniej 3.5 @ 2.01
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 3.5 @ 1.73
+[2025-05-30 20:55:34]     - Liczba goli / mniej 4 @ 1.64
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 4 @ 2.15
+[2025-05-30 20:55:34]     - Liczba goli / mniej 4.5 @ 1.45
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 4.5 @ 2.61
+[2025-05-30 20:55:34]     - Liczba goli / mniej 5 @ 1.24
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 5 @ 3.75
+[2025-05-30 20:55:34]     - Liczba goli / mniej 5.5 @ 1.19
+[2025-05-30 20:55:34]     - Liczba goli / wiecej 5.5 @ 4.30
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Mniej 1.5 @ 3.30
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Wiecej 1.5 @ 1.29
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Mniej 2.5 @ 1.83
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Wiecej 2.5 @ 1.88
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Mniej 3.5 @ 1.31
+[2025-05-30 20:55:34]     - Caykur Rizespor liczba goli / Wiecej 3.5 @ 3.15
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Mniej 0.5 @ 2.95
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Wiecej 0.5 @ 1.35
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Mniej 1.5 @ 1.44
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Wiecej 1.5 @ 2.60
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Mniej 2.5 @ 1.10
+[2025-05-30 20:55:34]     - Hatayspor liczba goli / Wiecej 2.5 @ 5.80
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola / Tak @ 1.44
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola / Nie @ 2.60
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola/liczba goli / Tak/- 2.5 @ 11.00
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola/liczba goli / Nie/- 2.5 @ 4.10
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola/liczba goli / Tak/+ 2.5 @ 1.51
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola/liczba goli / Nie/+ 2.5 @ 5.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/- 1.5 @ 13.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/- 1.5 @ 30.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/- 1.5 @ 29.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/+ 1.5 @ 1.44
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/+ 1.5 @ 5.20
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/+ 1.5 @ 6.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/- 2.5 @ 6.20
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/- 2.5 @ 8.40
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/- 2.5 @ 19.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/+ 2.5 @ 1.62
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/+ 2.5 @ 9.60
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/+ 2.5 @ 7.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/- 3.5 @ 3.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/- 3.5 @ 8.60
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/- 3.5 @ 9.20
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/+ 3.5 @ 2.19
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/+ 3.5 @ 10.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/+ 3.5 @ 12.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/- 4.5 @ 2.15
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/- 4.5 @ 5.40
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/- 4.5 @ 7.60
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Caykur Rizespor/+ 4.5 @ 3.05
+[2025-05-30 20:55:34]     - Mecz/liczba goli / 0/+ 4.5 @ 30.00
+[2025-05-30 20:55:34]     - Mecz/liczba goli / Hatayspor/+ 4.5 @ 17.00
+[2025-05-30 20:55:34]     - Handicap / Caykur Rizespor -2.5 @ 3.15
+[2025-05-30 20:55:34]     - Handicap / Hatayspor +2.5 @ 1.31
+[2025-05-30 20:55:34]     - Handicap / Caykur Rizespor -2 @ 2.60
+[2025-05-30 20:55:34]     - Handicap / Hatayspor +2 @ 1.44
+[2025-05-30 20:55:34]     - Handicap / Caykur Rizespor -1.5 @ 1.97
+[2025-05-30 20:55:34]     - Handicap / Hatayspor +1.5 @ 1.75
+[2025-05-30 20:55:34]     - Handicap / Caykur Rizespor -1 @ 1.59
+[2025-05-30 20:55:34]     - Handicap / Hatayspor +1 @ 2.22
+[2025-05-30 20:55:34]     - Handicap / Caykur Rizespor -0.5 @ 1.40
+[2025-05-30 20:55:34]     - Handicap / Hatayspor +0.5 @ 2.75
+[2025-05-30 20:55:34]     - 1.połowa / Caykur Rizespor @ 1.78
+[2025-05-30 20:55:34]     - 1.połowa / Remis @ 2.95
+[2025-05-30 20:55:34]     - 1.połowa / Hatayspor @ 5.40
+[2025-05-30 20:55:34]     - 1.połowa - dwójtyp / 10 @ 1.15
+[2025-05-30 20:55:34]     - 1.połowa - dwójtyp / 12 @ 1.33
+[2025-05-30 20:55:34]     - 1.połowa - dwójtyp / 02 @ 1.81
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Mniej 0.5 @ 4.80
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Wiecej 0.5 @ 1.17
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Mniej 1 @ 3.55
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Wiecej 1 @ 1.29
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Mniej 1.5 @ 1.96
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Wiecej 1.5 @ 1.82
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Mniej 2 @ 1.46
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Wiecej 2 @ 2.65
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Mniej 2.5 @ 1.29
+[2025-05-30 20:55:34]     - 1.połowa liczba goli / Wiecej 2.5 @ 3.50
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Mniej 0.5 @ 2.90
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Wiecej 0.5 @ 1.36
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Mniej 1.5 @ 1.43
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Wiecej 1.5 @ 2.65
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Mniej 2.5 @ 1.09
+[2025-05-30 20:55:34]     - Caykur Rizespor 1.połowa liczba goli / Wiecej 2.5 @ 6.00
+[2025-05-30 20:55:34]     - Hatayspor 1.połowa liczba goli / Mniej 0.5 @ 1.60
+[2025-05-30 20:55:34]     - Hatayspor 1.połowa liczba goli / Wiecej 0.5 @ 2.19
+[2025-05-30 20:55:34]     - Hatayspor 1.połowa liczba goli / Mniej 1.5 @ 1.07
+[2025-05-30 20:55:34]     - Hatayspor 1.połowa liczba goli / Wiecej 1.5 @ 6.80
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola w 1.połowie / Tak @ 2.95
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola w 1.połowie / Nie @ 1.33
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:0 @ 14.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:0 @ 30.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:1 @ 30.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:0 @ 11.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:1 @ 11.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:2 @ 50.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:0 @ 12.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:3 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:0 @ 18.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:3 @ 40.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 5:0 @ 35.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 6:0 @ 80.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:1 @ 8.80
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:2 @ 19.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:1 @ 9.80
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:3 @ 45.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:1 @ 15.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 5:1 @ 28.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:2 @ 16.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:3 @ 35.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:2 @ 24.00
+[2025-05-30 20:55:34]     - Dokładny wynik / inny @ 8.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:0 @ 14.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:0 @ 30.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:1 @ 30.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:0 @ 11.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:1 @ 11.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:2 @ 50.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:0 @ 12.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:2 @ 14.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:3 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:0 @ 18.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:3 @ 40.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 5:0 @ 35.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 6:0 @ 80.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:1 @ 8.80
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:1 @ 9.80
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:1 @ 15.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 5:1 @ 28.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 3:2 @ 16.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 4:2 @ 24.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:5 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 0:6 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:2 @ 19.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:3 @ 45.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 1:5 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:3 @ 35.00
+[2025-05-30 20:55:34]     - Dokładny wynik / 2:4 @ 101.00
+[2025-05-30 20:55:34]     - Dokładny wynik / inny @ 8.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 1:0 2:0 3:0 @ 4.30
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 2:1 3:1 4:1 @ 3.80
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 3:2 4:2 4:3 5:1 @ 6.80
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 4:0 5:0 6:0 @ 11.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / Remis @ 4.70
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 0:1 0:2 0:3 @ 17.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 1:2 1:3 1:4 @ 13.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 2:3 2:4 3:4 1:5 @ 22.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / 0:4 0:5 0:6 @ 101.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / Caykur Rizespor wygra dowolnym innym wynikiem @ 12.00
+[2025-05-30 20:55:34]     - Mecz: Multiwynik / Hatayspor wygra dowolnym innym wynikiem @ 101.00
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 1/1 @ 1.90
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 0/0 @ 9.40
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 2/2 @ 9.80
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 1/0 @ 17.00
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 1/2 @ 45.00
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 2/0 @ 19.00
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 0/1 @ 4.80
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 2/1 @ 18.00
+[2025-05-30 20:55:34]     - 1.połowa/spotkanie / 0/2 @ 14.00
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra do zera / Tak @ 3.15
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra do zera / Nie @ 1.30
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra przynajmniej jedna połowę / tak @ 1.20
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra przynajmniej jedna połowę / nie @ 3.85
+[2025-05-30 20:55:34]     - Hatayspor wygra do zera / Tak @ 9.00
+[2025-05-30 20:55:34]     - Hatayspor wygra do zera / Nie @ 1.02
+[2025-05-30 20:55:34]     - Hatayspor wygra przynajmniej jedna połowę / tak @ 2.75
+[2025-05-30 20:55:34]     - Hatayspor wygra przynajmniej jedna połowę / nie @ 1.38
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra obie połowy / Tak @ 3.00
+[2025-05-30 20:55:34]     - Caykur Rizespor wygra obie połowy / Nie @ 1.33
+[2025-05-30 20:55:34]     - Hatayspor wygra obie połowy / tak @ 10.00
+[2025-05-30 20:55:34]     - Hatayspor wygra obie połowy / nie @ 1.01
+[2025-05-30 20:55:34]     - Caykur Rizespor strzeli gola w obu połowach / Tak @ 1.73
+[2025-05-30 20:55:34]     - Caykur Rizespor strzeli gola w obu połowach / Nie @ 1.95
+[2025-05-30 20:55:34]     - Hatayspor strzeli gola w obu połowach / Tak @ 3.95
+[2025-05-30 20:55:34]     - Hatayspor strzeli gola w obu połowach / Nie @ 1.20
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / Caykur Rizespor/Tak @ 2.15
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / 0/Tak @ 5.40
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / Hatayspor/Tak @ 7.60
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / Caykur Rizespor/Nie @ 3.05
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / 0/Nie @ 30.00
+[2025-05-30 20:55:34]     - Mecz/obie drużyny strzelą gola / Hatayspor/Nie @ 16.00
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Caykur Rizespor o 1 @ 3.90
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Caykur Rizespor o 2 @ 4.20
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Caykur Rizespor o 3+ @ 2.95
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Remis @ 4.60
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Hatayspor o 1 @ 8.20
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Hatayspor o 2 @ 19.00
+[2025-05-30 20:55:34]     - Różnica zwycięstwa / Hatayspor o 3+ @ 45.00
+[2025-05-30 20:55:34]     - Mecz: która drużyna strzeli gola / Żadna @ 30.00
+[2025-05-30 20:55:34]     - Mecz: która drużyna strzeli gola / Tylko Caykur Rizespor @ 2.95
+[2025-05-30 20:55:34]     - Mecz: która drużyna strzeli gola / Tylko Hatayspor @ 15.00
+[2025-05-30 20:55:34]     - Mecz: która drużyna strzeli gola / Obie @ 1.38
+[2025-05-30 20:55:34]     - 1.gol / Caykur Rizespor @ 1.41
+[2025-05-30 20:55:34]     - 1.gol / Nikt @ 35.00
+[2025-05-30 20:55:34]     - 1.gol / Hatayspor @ 2.85
+[2025-05-30 20:55:34]     - 2.połowa / Caykur Rizespor @ 1.70
+[2025-05-30 20:55:34]     - 2.połowa / Remis @ 3.35
+[2025-05-30 20:55:34]     - 2.połowa / Hatayspor @ 4.90
+[2025-05-30 20:55:34]     - 2.połowa / 10 @ 1.13
+[2025-05-30 20:55:34]     - 2.połowa / 12 @ 1.26
+[2025-05-30 20:55:34]     - 2.połowa / 02 @ 1.99
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Mniej 1 @ 4.70
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Wiecej 1 @ 1.14
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Mniej 1.5 @ 2.39
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Wiecej 1.5 @ 1.49
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Mniej 2 @ 1.81
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Wiecej 2 @ 1.87
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Mniej 2.5 @ 1.46
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Wiecej 2.5 @ 2.47
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Mniej 3 @ 1.20
+[2025-05-30 20:55:34]     - 2.połowa liczba goli / Wiecej 3 @ 3.95
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola w 2.połowie / Tak @ 2.39
+[2025-05-30 20:55:34]     - Obie drużyny strzelą gola w 2.połowie / Nie @ 1.49
+[2025-05-30 20:55:34]     - 1.rzut rożny w spotkaniu / Caykur Rizespor @ 1.44
+[2025-05-30 20:55:34]     - 1.rzut rożny w spotkaniu / Nikt @ 101.00
+[2025-05-30 20:55:34]     - 1.rzut rożny w spotkaniu / Hatayspor @ 2.41
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Casper Höjer Nielsen strzeli gola @ 4.10
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Altin Zeqiri strzeli gola @ 3.10
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Ibrahim Olawoyin strzeli gola @ 2.90
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Ali Sowe strzeli gola @ 2.15
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Dal Varesanovic strzeli gola @ 2.90
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Çaykur wygra, Rachid Ghezzal strzeli gola @ 3.40
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Francisco Calvo strzeli gola @ 29.00
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Chandrel Geraud Massanga Matondo strzeli gola @ 17.00
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Abdulkadir Parmak strzeli gola @ 17.00
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Görkem Saglam strzeli gola @ 13.00
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Carlos Strandberg strzeli gola @ 10.00
+[2025-05-30 20:55:34]     - Mecz + strzelcy goli / Hatayspor wygra, Cemali Sertel strzeli gola @ 34.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Ibrahim Olawoyin strzeli gola @ 3.40
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Dal Varesanovic strzeli gola @ 3.40
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Casper Höjer Nielsen strzeli gola @ 4.75
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Altin Zeqiri strzeli gola @ 3.60
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Ali Sowe strzeli gola @ 2.40
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Rachid Ghezzal strzeli gola @ 4.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Chandrel Geraud Massanga Matondo strzeli gola @ 6.75
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Abdulkadir Parmak strzeli gola @ 6.75
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Görkem Saglam strzeli gola @ 5.75
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Francisco Calvo strzeli gola @ 11.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Carlos Strandberg strzeli gola @ 3.60
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Obie drużyny strzelą gola, Cemali Sertel strzeli gola @ 13.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Çaykur wygra, Powyżej 3.5 goli, Powyżej 10.5 rzuty rożne @ 4.50
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Çaykur wygra, Powyżej 3.5 goli, Powyżej 6.5 Çaykur rzuty rożne @ 4.20
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Çaykur wygra, obie drużyny strzelą gola, każda drużyna powyżej 5.5 rzuty rożne @ 12.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, obie drużyny strzelą gola, Powyżej 10.5 rzuty rożne @ 9.50
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, obie drużyny strzelą gola, Poniżej 10.5 rzuty rożne @ 9.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Hatayspor wygra, Powyżej 3.5 goli, Powyżej 10.5 rzuty rożne @ 17.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Hatayspor wygra, Powyżej 3.5 goli, Powyżej 3.5 Hatayspor rzuty rożne @ 17.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Hatayspor wygra, obie drużyny strzelą gola, każda drużyna powyżej 5.5 rzuty rożne @ 41.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Çaykur wygra, Powyżej 3.5 goli, Dal Varesanovic strzeli gola @ 4.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Çaykur wygra, Powyżej 3.5 goli, Ali Sowe strzeli gola @ 3.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, obie drużyny strzelą gola, Ali Sowe strzeli gola @ 12.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, obie drużyny strzelą gola, Carlos Strandberg strzeli gola @ 13.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, Ali Sowe strzeli gola @ 12.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, Ali Sowe strzeli gola, Carlos Strandberg strzeli gola @ 26.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, Dal Varesanovic strzeli gola @ 17.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, Carlos Strandberg strzeli gola @ 13.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Remis, Görkem Saglam strzeli gola @ 21.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Hatayspor wygra, Powyżej 3.5 goli, Carlos Strandberg strzeli gola @ 15.00
+[2025-05-30 20:55:34]     - Pozostałe zakłady łączone / Hatayspor wygra, Powyżej 3.5 goli, Görkem Saglam strzeli gola @ 23.00
+[2025-05-30 20:55:34]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Nie @ 4.80
+[2025-05-30 20:55:34]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Tak @ 3.35
+[2025-05-30 20:55:34]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Tak/Tak @ 8.00
+[2025-05-30 20:55:34]     - 1.połowa/2.połowa Obie drużyny strzelą gola / Nie/Nie @ 2.05
+[2025-05-30 20:55:34]     - Połowa z wiekszą liczbą goli / Pierwszy @ 2.85
+[2025-05-30 20:55:34]     - Połowa z wiekszą liczbą goli / Równo @ 4.20
+[2025-05-30 20:55:34]     - Połowa z wiekszą liczbą goli / Drugi @ 1.96
+[2025-05-30 20:55:34]     - Multigole / 1-2 @ 3.80
+[2025-05-30 20:55:34]     - Multigole / 1-3 @ 2.12
+[2025-05-30 20:55:34]     - Multigole / 1-4 @ 1.50
+[2025-05-30 20:55:34]     - Multigole / 1-5 @ 1.24
+[2025-05-30 20:55:34]     - Multigole / 1-6 @ 1.12
+[2025-05-30 20:55:34]     - Multigole / 2-3 @ 2.55
+[2025-05-30 20:55:34]     - Multigole / 2-4 @ 1.70
+[2025-05-30 20:55:34]     - Multigole / 2-5 @ 1.37
+[2025-05-30 20:55:34]     - Multigole / 2-6 @ 1.22
+[2025-05-30 20:55:34]     - Multigole / 3-4 @ 2.32
+[2025-05-30 20:55:34]     - Multigole / 3-5 @ 1.72
+[2025-05-30 20:55:34]     - Multigole / 3-6 @ 1.48
+[2025-05-30 20:55:34]     - Multigole / 4-5 @ 2.65
+[2025-05-30 20:55:34]     - Multigole / 4-6 @ 2.08
+[2025-05-30 20:55:34]     - Multigole / 5-6 @ 3.60
+[2025-05-30 20:55:34]     - Multigole / 7+ @ 9.00
+[2025-05-30 20:55:34]     - Multigole / Brak goli @ 25.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 1:0 @ 4.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 2:0 @ 6.60
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 2:1 @ 12.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 0:0 @ 4.80
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 1:1 @ 7.20
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 2:2 @ 45.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 1:2 @ 27.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 0:2 @ 30.00
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / 0:1 @ 8.80
+[2025-05-30 20:55:34]     - 1.połowa: dokładny wynik / inny @ 6.20
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / Caykur Rizespor/Tak @ 7.20
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Tak @ 6.20
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / Hatayspor/Tak @ 20.00
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / Caykur Rizespor/Nie @ 2.17
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / 0/Nie @ 4.80
+[2025-05-30 20:55:34]     - 1.połowa/Obie drużyny strzelą gola w 1.połowie / Hatayspor/Nie @ 6.60
+[2025-05-30 20:55:34]     - Mecz: więcej rzutów rożnych / Caykur Rizespor @ 1.28
+[2025-05-30 20:55:34]     - Mecz: więcej rzutów rożnych / Rowno @ 9.40
+[2025-05-30 20:55:34]     - Mecz: więcej rzutów rożnych / Hatayspor @ 4.50
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Mniej 8.5 @ 2.80
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Wiecej 8.5 @ 1.39
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Mniej 9.5 @ 2.13
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Wiecej 9.5 @ 1.64
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Mniej 10.5 @ 1.72
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Wiecej 10.5 @ 2.01
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Mniej 11.5 @ 1.46
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Wiecej 11.5 @ 2.55
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Mniej 12.5 @ 1.29
+[2025-05-30 20:55:34]     - Mecz: liczba rzutów rożnych / Wiecej 12.5 @ 3.30
+[2025-05-30 20:55:34]     - Caykur Rizespor przedział rzutów rożnych / 0-2 @ 14.00
+[2025-05-30 20:55:34]     - Caykur Rizespor przedział rzutów rożnych / 3-4 @ 4.70
+[2025-05-30 20:55:34]     - Caykur Rizespor przedział rzutów rożnych / 5-6 @ 3.35
+[2025-05-30 20:55:34]     - Caykur Rizespor przedział rzutów rożnych / 7+ @ 1.91
+[2025-05-30 20:55:34]     - Hatayspor przedział rzutów rożnych / 0-2 @ 2.80
+[2025-05-30 20:55:34]     - Hatayspor przedział rzutów rożnych / 3-4 @ 2.55
+[2025-05-30 20:55:34]     - Hatayspor przedział rzutów rożnych / 5-6 @ 4.20
+[2025-05-30 20:55:34]     - Hatayspor przedział rzutów rożnych / 7+ @ 7.80
+[2025-05-30 20:55:34]     - 1.połowa: liczba rzutów rożnych / Mniej 4.5 @ 1.94
+[2025-05-30 20:55:34]     - 1.połowa: liczba rzutów rożnych / Wiecej 4.5 @ 1.74
+[2025-05-30 20:55:44] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/fenerbahce-konyaspor-MPL175234422
+[2025-05-30 20:55:44] Proxy: brak
+[2025-05-30 20:55:44] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-05-30 20:55:44] HTTP Status: 200 (OK)
+[2025-05-30 20:59:17] START BOTA[2025-05-30 20:59:17] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-portugalia[2025-05-30 21:07:22] START BOTA
+[2025-05-30 21:07:22] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja
+[2025-05-30 21:07:22] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja
+[2025-05-30 21:07:22] Proxy: brak
+[2025-05-30 21:07:22] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-05-30 21:07:22] HTTP Status: 200 (OK)
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/fenerbahce-konyaspor-MPL175234422
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/alanyaspor-sivasspor-MPL175234420
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/adana-demirspor-gaziantep-fk-MPL175234430
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/samsunspor-kayserispor-MPL175234424
+[2025-05-30 21:07:22] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/bb-bodrumspor-besiktas-MPL175234432
+[2025-05-30 21:07:22] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 21:07:22] Proxy: brak
+[2025-05-30 21:07:22] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-05-30 21:07:23] HTTP Status: 200 (OK)
+[2025-05-30 21:07:24] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/caykur-rizespor-hatayspor-MPL175234423
+[2025-05-30 21:07:35] PLAYWRIGHT: Znaleziono 47 kontenerów rynków.
+[2025-05-30 21:07:36] INFO: Caykur Rizespor - Hatayspor | Piłka nożna | 1.Turcja | 31.05. 15:00
+[2025-05-30 21:07:36]     - spotkanie bez remisu / Caykur Rizespor @ 1.18
+[2025-05-30 21:07:36]     - spotkanie bez remisu / Hatayspor @ 4.50
+[2025-05-30 21:07:36]     - obie drużyny strzelą gola / Tak @ 1.44
+[2025-05-30 21:07:36]     - obie drużyny strzelą gola / Nie @ 2.60
+[2025-05-30 21:07:36]     - obie drużyny strzelą gola w 1.połowie / Tak @ 2.95
+[2025-05-30 21:07:36]     - obie drużyny strzelą gola w 1.połowie / Nie @ 1.33
+[2025-05-30 21:07:43] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/fenerbahce-konyaspor-MPL175234422
+[2025-05-30 21:07:43] Proxy: brak
+[2025-05-30 21:07:43] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-05-30 21:07:43] HTTP Status: 200 (OK)
+[2025-05-30 21:07:44] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-turcja/fenerbahce-konyaspor-MPL175234422
+[2025-05-30 21:07:48] PLAYWRIGHT: Znaleziono 47 kontenerów rynków.
+[2025-05-30 21:07:49] INFO: Fenerbahce - Konyaspor | Piłka nożna | 1.Turcja | 31.05. 15:00
+[2025-05-30 21:07:49]     - spotkanie bez remisu / Fenerbahce @ 1.20
+[2025-05-30 21:07:49]     - spotkanie bez remisu / Konyaspor @ 4.20
+[2025-05-30 21:07:49]     - obie drużyny strzelą gola / Tak @ 1.51
+[2025-05-30 21:07:49]     - obie drużyny strzelą gola / Nie @ 2.40
+[2025-05-30 21:07:49]     - obie drużyny strzelą gola w 1.połowie / Tak @ 3.20
+[2025-05-30 21:07:49]     - obie drużyny strzelą gola w 1.połowie / Nie @ 1.29
