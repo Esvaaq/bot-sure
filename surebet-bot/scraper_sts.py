@@ -4,7 +4,14 @@ import time
 from datetime import datetime, timedelta
 import sys
 import os
+import warnings
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
+# Opcjonalnie ignorujemy ostrzeżenia przy parsowaniu dat bez roku
+warnings.filterwarnings(
+    "ignore",
+    message=r"Parsing dates involving a day of month without a year specified is ambiguious"
+)
 
 # Upewnij się, że ścieżka do modułów jest poprawna:
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -15,19 +22,20 @@ from modules.proxy_manager import ProxyManager
 # Stałe konfiguracyjne
 # ————————————
 SCAN_LIMIT_BEFORE_PAUSE    = 12
-PAUSE_TIME_RANGE           = (600, 900)      # 10–15 minut
-SLEEP_BETWEEN_REQUESTS     = (12, 25)        # 12–25 s między meczami
+PAUSE_TIME_RANGE           = (500, 700)      # 7–12 minut
+SLEEP_BETWEEN_REQUESTS     = (11, 17)        # 11–17 s między meczami
 MATCH_SKIP_TIME            = 2700            # 45 minut
 BASE_URL                   = "https://www.sts.pl"
 LOG_FILE                   = "bot_log_sts.txt"
 
-# Lista dozwolonych rynków (market names). Na razie zakomentowane – odkomentuj później jeśli chcesz filtrować
+# Lista dozwolonych rynków (market names) w formacie małych liter (później można odkomentować)
 # ALLOWED_MARKETS = [
-#     "obie drużyny strzelą gola",
+#     "mecz",
+#     "zakład bez remisu",
 #     "liczba goli",
-#     "1x2",
-#     "podwójna szansa",
-#     # Dodaj własne nazwy rynków w formacie małych liter
+#     "1. drużyna strzeli gola",
+#     "2. drużyna strzeli gola",
+#     "obie drużyny strzelą gola",
 # ]
 
 config = ConfigManager("config.yaml")
@@ -44,6 +52,15 @@ WEEKDAY_MAP = {
     "sobota":      5,
     "niedziela":   6
 }
+
+# ————————————
+# Tutaj definiujemy listę lig, aby było dostępne w __main__
+# ————————————
+LEAGUES_TO_SCAN = [
+    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
+    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/184/31033"
+]
+
 
 def log(message: str):
     """
@@ -67,6 +84,7 @@ def log(message: str):
     except Exception:
         pass
 
+
 def next_date_for_weekday(weekday_index: int) -> datetime.date:
     """
     Zwraca najbliższą przyszłą (lub dzisiejszą) datę odpowiadającą podanemu indeksowi dnia tygodnia.
@@ -76,10 +94,11 @@ def next_date_for_weekday(weekday_index: int) -> datetime.date:
     days_ahead = (weekday_index - today_index) % 7
     return today + timedelta(days=days_ahead)
 
+
 def parse_match_datetime(date_txt: str, time_txt: str):
     """
     Parsuje tekst daty i godziny ze strony STS i zwraca obiekt datetime.
-    - date_txt: "Dzisiaj", "Jutro", "Poniedziałek,", "DD.MM.YYYY", "DD.MM" lub None.
+    - date_txt może być: "Dzisiaj", "Jutro", "Poniedziałek,", "DD.MM.YYYY", "DD.MM" lub None.
     - time_txt: "HH:MM" lub None.
     """
     now = datetime.now()
@@ -114,6 +133,25 @@ def parse_match_datetime(date_txt: str, time_txt: str):
 
     return datetime.combine(date_obj, time_obj)
 
+
+def make_match_id(match_name: str, dt: datetime) -> str:
+    """
+    Generuje unikalne ID w postaci:
+      dwie pierwsze litery drużyny domowej + dwie pierwsze litery drużyny gościa
+      + DDMMHHMM (bez roku).
+    """
+    try:
+        home, away = [x.strip() for x in match_name.split("-", 1)]
+    except ValueError:
+        home = match_name.strip()
+        away = ""
+    h = (home.replace(" ", "")[:2].upper() if len(home.replace(" ", "")) >= 2 else (home[:1].upper() + "_"))
+    a = (away.replace(" ", "")[:2].upper() if len(away.replace(" ", "")) >= 2 else (away[:1].upper() + "_"))
+    key_teams = h + a
+    key_date = dt.strftime("%d%m%H%M")  # ddmmHHMM
+    return f"{key_teams}{key_date}"
+
+
 def get_match_links(league_url: str):
     """
     Scrapuje linki do poszczególnych meczów z podanej strony ligi STS.
@@ -138,13 +176,13 @@ def get_match_links(league_url: str):
             page = context.new_page()
             log(f"PLAYWRIGHT (liga): Ładowanie {league_url}")
             try:
-                response = page.goto(league_url, timeout=60000)
+                response = page.goto(league_url, timeout=8000)
                 if response:
                     log(f"PLAYWRIGHT (liga): Status HTTP: {response.status}")
-                page.wait_for_timeout(3000)
+                page.wait_for_timeout(1100)
                 for _ in range(5):
                     page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                    page.wait_for_timeout(1500)
+                    page.wait_for_timeout(1200)
             except PlaywrightTimeoutError as e:
                 log(f"PLAYWRIGHT WARN (liga): {e}")
 
@@ -163,6 +201,7 @@ def get_match_links(league_url: str):
         log(f"PLAYWRIGHT ERROR (liga): {e}")
 
     return links
+
 
 def fetch_markets_with_playwright(match_url: str):
     """
@@ -192,15 +231,15 @@ def fetch_markets_with_playwright(match_url: str):
             page = context.new_page()
             log(f"PLAYWRIGHT (mecz): Ładowanie {match_url}")
             try:
-                response = page.goto(match_url, timeout=60000)
+                response = page.goto(match_url, timeout=4500)
                 if response:
                     log(f"PLAYWRIGHT (mecz): Status HTTP: {response.status}")
-                page.wait_for_selector(".shirts-container .detailed-scoreboard__container", timeout=10000)
+                page.wait_for_selector(".shirts-container .detailed-scoreboard__container", timeout=4500)
             except PlaywrightTimeoutError:
                 log("PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s, kontynuuję.")
 
             # Dajemy chwilę na wstępne wczytanie (pierwsze grupy + placeholdery)
-            page.wait_for_timeout(1000)
+            page.wait_for_timeout(500)
 
             # Wstrzykiwanie własnego pola "wyszukaj" do DOM, aby symulować Ctrl+F
             page.evaluate("""
@@ -253,36 +292,39 @@ def fetch_markets_with_playwright(match_url: str):
             # Automatyczne użycie wstrzykniętego pola do przewinięcia każdego loadera
             page.fill('#playwrightSearch', 'bb-loading-match')
             page.press('#playwrightSearch', 'Enter')
-            page.wait_for_timeout(500)
+            page.wait_for_timeout(300)
 
-            for _ in range(initial_loaders):
+            # Przewinięcie w zależności od liczby placeholderów (+2 dla pewności)
+            for _ in range(initial_loaders + 2):
                 page.press('#playwrightSearch', 'F3')
-                page.wait_for_timeout(300)
+                page.wait_for_timeout(200)
 
-            # Teraz przechodzimy do normalnego scrollowania w dół, by złapać ewentualne
-            # kolejne grupy, które mogą się załadować po początkowym przewinięciu
+            # Teraz przechodzimy do normalnego scrollowania w dół
             prev_container_count = -1
             stable_loops = 0
             log("PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…")
-            for step in range(100):
+
+            # Maksymalna liczba kroków scrollowania to initial_loaders + 5 (zabezpieczenie)
+            max_scrolls = initial_loaders + 5
+            for step in range(max_scrolls):
                 page.evaluate("window.scrollBy(0, window.innerHeight);")
-                page.wait_for_timeout(700)
+                page.wait_for_timeout(250)
 
                 loader_count = len(page.query_selector_all("bb-loading-match"))
                 container_count = len(page.query_selector_all("div.match-details-group__container"))
                 log(f"    [SCROLL] krok={step+1}, placeholderów={loader_count}, wyrenderowanych grup={container_count}")
 
-                if container_count == prev_container_count:
+                if container_count == prev_container_count and loader_count == 0:
                     stable_loops += 1
                 else:
                     stable_loops = 0
                     prev_container_count = container_count
 
-                if stable_loops >= 3 and loader_count == 0:
+                if stable_loops >= 2 and loader_count == 0:
                     log(f"    [SCROLL] Liczba grup ustabilizowała się na {container_count}, przerywam.")
                     break
 
-            page.wait_for_timeout(500)
+            page.wait_for_timeout(300)
 
             # Teraz w DOM są wszystkie grupy rynków
             groups = page.query_selector_all("div.match-details-group__container")
@@ -313,10 +355,10 @@ def fetch_markets_with_playwright(match_url: str):
                     for btn in buttons:
                         label_el = btn.query_selector(".odds-button__label span")
                         odd_el   = btn.query_selector(".odds-button__odd-value")
-                        sel_txt  = label_el.inner_text().strip() if label_el else None
-                        val_txt  = odd_el.inner_text().strip() if odd_el else None
+                        sel_txt = label_el.inner_text().strip() if label_el else None
+                        val_txt = odd_el.inner_text().strip() if odd_el else None
 
-                        if sel_txt and val_txt and val_txt not in ("0", "0.0", "-"): # '–' może być też separator
+                        if sel_txt and val_txt and val_txt not in ("0", "0.0", "-", "–"):
                             markets.append({
                                 "market":    mkt_name,
                                 "selection": sel_txt.lower(),
@@ -339,17 +381,20 @@ def fetch_markets_with_playwright(match_url: str):
 
     return markets
 
+
 def parse_match_page(match_url: str):
     """
     – Scrapujemy nagłówek meczu (sport, liga, drużyny, data/godzina),
     – Następnie wywołujemy fetch_markets_with_playwright(), aby zebrać wszystkie kursy.
+    Zwracany słownik ma teraz klucz 'match_id'.
     """
     result = {
-        "match_name": None,
-        "sport":      None,
-        "competition":None,
-        "datetime":   None,
-        "markets":    []
+        "match_name":  None,
+        "sport":       None,
+        "competition": None,
+        "datetime":    None,
+        "markets":     [],
+        "match_id":    None,
     }
 
     try:
@@ -370,10 +415,10 @@ def parse_match_page(match_url: str):
             page = context.new_page()
             log(f"PLAYWRIGHT (mecz nagłówek): Ładowanie strony: {match_url}")
             try:
-                response = page.goto(match_url, timeout=60000)
+                response = page.goto(match_url, timeout=3800)
                 if response:
                     log(f"PLAYWRIGHT (nagłówek): Status HTTP: {response.status}")
-                page.wait_for_timeout(1000)  # dajemy sekundę na wyrenderowanie
+                page.wait_for_timeout(900)  # dajemy sekundę na wyrenderowanie
             except PlaywrightTimeoutError:
                 log("PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.")
 
@@ -415,19 +460,14 @@ def parse_match_page(match_url: str):
                 container = page.query_selector("div.detailed-scoreboard__sub-label")
                 if container:
                     spans = container.query_selector_all("span")
-                    date_span = None
-                    time_span = None
-                    for sp in spans:
-                        text = sp.inner_text().strip()
-                        if ":" in text:
-                            time_span = text
-                        elif "," in text:
-                            date_span = text
-                    if date_span and time_span:
-                        log(f"    [DEBUG ARGENTYNA] date_only='{date_span}', time_txt='{time_span}'")
-                        result["datetime"] = parse_match_datetime(date_span, time_span)
+                    # Weź tylko pierwszy (dzień) i ostatni (godzina)
+                    if len(spans) >= 2:
+                        day_txt  = spans[0].inner_text().strip()
+                        time_txt = spans[-1].inner_text().strip()
+                        log(f"    [DEBUG ARGENTYNA] day_txt='{day_txt}', time_txt='{time_txt}'")
+                        result["datetime"] = parse_match_datetime(day_txt, time_txt)
                     else:
-                        log("    [DEBUG ARGENTYNA] Nie znaleziono odpowiednich span do parsowania daty i godziny")
+                        log("    [DEBUG ARGENTYNA] Nie znaleziono wystarczającej liczby <span> w detailed-scoreboard__sub-label")
                         result["datetime"] = None
 
             context.close()
@@ -436,18 +476,17 @@ def parse_match_page(match_url: str):
         log(f"PLAYWRIGHT ERROR (nagłówek meczu): {e}")
         return None
 
-    # 2) Pobieramy WSZYSTKIE rynki
+    # 2) Generujemy match_id (jeśli mamy match_name i datetime)
+    if result["match_name"] and result["datetime"]:
+        result["match_id"] = make_match_id(result["match_name"], result["datetime"])
+
+    # 3) Pobieramy WSZYSTKIE rynki
     result["markets"] = fetch_markets_with_playwright(match_url)
     return result
 
+
 def main():
     scan_count = 0
-    # Zdefiniuj listę lig do skanowania:
-    LEAGUES_TO_SCAN = [
-         "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
-        #"https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/184/31033"
-        # Możesz dodać kolejne ligi STS
-    ]
 
     log("START BOTA STS")
     while True:
@@ -459,21 +498,18 @@ def main():
                 continue
 
             for link in match_links:
-                match_id = link.rstrip("/").split("/")[-1]
-                # Sprawdzamy, czy dany mecz był skanowany w ciągu ostatnich MATCH_SKIP_TIME sekund
-                if match_id in scanned_matches and (datetime.now() - scanned_matches[match_id]).seconds < MATCH_SKIP_TIME:
-                    log(f"Pomiń już zeskanowany mecz: {match_id}")
-                    continue
-
                 details = parse_match_page(link)
-                if not details:
+                if not details or not details.get("match_id"):
+                    time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
                     continue
 
-                # Logowanie pełnej daty i godziny
+                # Logowanie pełnej daty i godziny + nowego ID
+                log_msg = f"INFO: [{details['match_id']}] {details['match_name']} | {details['sport']} | {details['competition']}"
                 if details["datetime"]:
-                    log(f"INFO: {details['match_name']} | {details['sport']} | {details['competition']} | {details['datetime'].strftime('%d.%m.%Y %H:%M')}")
+                    log_msg += f" | {details['datetime'].strftime('%d.%m.%Y %H:%M')}"
                 else:
-                    log(f"INFO: {details['match_name']} | {details['sport']} | {details['competition']} | data/godzina nieznana")
+                    log_msg += " | data/godzina nieznana"
+                log(log_msg)
 
                 if details["markets"]:
                     for m in details["markets"]:
@@ -481,7 +517,8 @@ def main():
                 else:
                     log("    Brak rynków / kursów na stronie meczu")
 
-                scanned_matches[match_id] = datetime.now()
+                # Zaznaczamy, że skanowaliśmy ten mecz
+                scanned_matches[details["match_id"]] = datetime.now()
                 scan_count += 1
                 if scan_count >= SCAN_LIMIT_BEFORE_PAUSE:
                     pause = random.randint(*PAUSE_TIME_RANGE)
@@ -497,5 +534,35 @@ def main():
             if (now - ts).seconds > MATCH_SKIP_TIME:
                 del scanned_matches[key]
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
+    import json
+
+    # 1) Zbieramy wszystkie mecze z każdej ligi i zapisujemy do JSON-a
+    collected = {}  # {match_id: { 'match_name', 'sport', 'competition', 'datetime', 'markets' }}
+
+    for league_url in LEAGUES_TO_SCAN:
+        match_links = get_match_links(league_url)
+        for link in match_links:
+            details = parse_match_page(link)
+            if not details or not details.get("match_id"):
+                time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+                continue
+
+            dt_str = details["datetime"].isoformat() if details["datetime"] else None
+            collected[details["match_id"]] = {
+                "match_name":  details["match_name"],
+                "sport":       details["sport"],
+                "competition": details["competition"],
+                "datetime":    dt_str,
+                "markets":     details["markets"]
+            }
+            time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+
+    out_file = "sts_data.json"
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(collected, f, ensure_ascii=False, indent=2)
+    print(f"Zapisano {out_file} (znaleziono {len(collected)} meczów)")
+
+    # 2) Potem dopiero wchodzimy w tryb ciągłego skanowania (logowanie w konsoli)
     main()
