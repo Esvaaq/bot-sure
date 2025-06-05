@@ -4,6 +4,7 @@ import time
 from datetime import datetime, timedelta
 import sys
 import os
+import csv
 import warnings
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
@@ -25,18 +26,31 @@ SCAN_LIMIT_BEFORE_PAUSE    = 12
 PAUSE_TIME_RANGE           = (500, 700)      # 7–12 minut
 SLEEP_BETWEEN_REQUESTS     = (11, 17)        # 11–17 s między meczami
 MATCH_SKIP_TIME            = 2700            # 45 minut
+
 BASE_URL                   = "https://www.sts.pl"
 LOG_FILE                   = "bot_log_sts.txt"
+OUT_CSV_FILE               = "sts_data.csv"
 
-# Lista dozwolonych rynków (market names) w formacie małych liter (później można odkomentować)
-# ALLOWED_MARKETS = [
-#     "mecz",
-#     "zakład bez remisu",
-#     "liczba goli",
-#     "1. drużyna strzeli gola",
-#     "2. drużyna strzeli gola",
-#     "obie drużyny strzelą gola",
-# ]
+# Teraz definiujemy listę lig do skanowania:
+LEAGUES_TO_SCAN = [
+    #"https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
+    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/2-liga/184/31033/88200"
+]
+
+# ————————————
+# Dozwolone rynki (market names) – analogicznie do Fortuny
+# Wszystkie nazwy w małych literach
+# ————————————
+ALLOWED_MARKETS = [
+    "obie drużyny strzelą gola",
+    "obie drużyny strzelą gola w 1.połowie",
+    "1x2",
+    "wynik meczu",
+    "podwójna szansa",
+    "spotkanie bez remisu",
+    "powyżej",
+    "poniżej",
+]
 
 config = ConfigManager("config.yaml")
 proxy_manager = ProxyManager(config)
@@ -54,14 +68,8 @@ WEEKDAY_MAP = {
 }
 
 # ————————————
-# Tutaj definiujemy listę lig, aby było dostępne w __main__
+# Funkcja logująca
 # ————————————
-LEAGUES_TO_SCAN = [
-    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
-    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/184/31033"
-]
-
-
 def log(message: str):
     """
     Logowanie z rotacją pliku (maks. 1000 ostatnich linii).
@@ -84,7 +92,99 @@ def log(message: str):
     except Exception:
         pass
 
+# ————————————
+# Obcinanie i podmiana wierszy w CSV
+# ————————————
+def append_match_to_csv(match: dict, filename: str):
+    """
+    1) Jeśli plik istnieje: wczytuje wszystkie wiersze CSV, filtruje je
+       - usuwa wiersze starsze niż 24 godziny (na podstawie pola 'datetime')
+       - usuwa wiersze z identycznym 'match_id' (żeby podmienić wcześniejsze)
+    2) Nadpisuje plik nagłówkiem + przefiltrowanymi wierszami.
+    3) Dopisuje wiersze dla aktualnego meczu.
+    Jeśli pliku jeszcze nie ma: tworzy go, wpisuje nagłówek i wiersze meczu.
+    """
+    dir_name = os.path.dirname(filename)
+    if dir_name and not os.path.exists(dir_name):
+        os.makedirs(dir_name, exist_ok=True)
 
+    fieldnames = [
+        "match_id", "match_name", "sport", "competition", "datetime",
+        "market", "selection", "odds", "bookmaker"
+    ]
+
+    file_exists = os.path.isfile(filename)
+    kept_rows = []
+
+    if file_exists:
+        try:
+            threshold_dt = datetime.now() - timedelta(days=1)
+            with open(filename, "r", encoding="utf-8", newline="") as csvfile:
+                reader = csv.DictReader(csvfile, fieldnames=fieldnames)
+                next(reader)  # pomijamy nagłówek
+                for row in reader:
+                    try:
+                        row_dt = datetime.strptime(row["datetime"], "%Y-%m-%dT%H:%M:%S")
+                    except Exception:
+                        continue
+                    if row_dt < threshold_dt:
+                        continue
+                    if row["match_id"] == match["match_id"]:
+                        continue
+                    kept_rows.append(row)
+        except Exception as e:
+            log(f"[✖] Błąd przy czytaniu i filtrowaniu starego CSV: {e}")
+
+    try:
+        with open(filename, "w", encoding="utf-8", newline="") as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for row in kept_rows:
+                writer.writerow(row)
+    except Exception as e:
+        log(f"[✖] Błąd przy zapisie przefiltrowanych wierszy do CSV: {e}")
+
+    try:
+        mode = "a" if file_exists else "w"
+        with open(filename, mode, encoding="utf-8", newline="") as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            if not file_exists:
+                writer.writeheader()
+
+            match_id    = match.get("match_id", "")
+            match_name  = match.get("match_name", "")
+            sport       = match.get("sport", "")
+            competition = match.get("competition", "")
+            dt_val      = match.get("datetime")
+            if isinstance(dt_val, datetime):
+                dt_str = dt_val.strftime("%Y-%m-%dT%H:%M:%S")
+            else:
+                dt_str = dt_val or ""
+
+            for m in match.get("markets", []):
+                market    = m.get("market", "")
+                selection = m.get("selection", "")
+                odds      = m.get("odds", "")
+                row = {
+                    "match_id":    match_id,
+                    "match_name":  match_name,
+                    "sport":       sport,
+                    "competition": competition,
+                    "datetime":    dt_str,
+                    "market":      market,
+                    "selection":   selection,
+                    "odds":        odds,
+                    "bookmaker":   "STS"
+                }
+                writer.writerow(row)
+
+        log(f"[✔] Podmieniono/stworzono dane meczu {match.get('match_id')} w pliku CSV: {filename}")
+    except Exception as e:
+        log(f"[✖] Błąd zapisu nowych wierszy do CSV: {e}")
+
+# ————————————
+# Funkcje parsujące (działają poprawnie – nie ruszać)
+# ————————————
 def next_date_for_weekday(weekday_index: int) -> datetime.date:
     """
     Zwraca najbliższą przyszłą (lub dzisiejszą) datę odpowiadającą podanemu indeksowi dnia tygodnia.
@@ -93,7 +193,6 @@ def next_date_for_weekday(weekday_index: int) -> datetime.date:
     today_index = today.weekday()
     days_ahead = (weekday_index - today_index) % 7
     return today + timedelta(days=days_ahead)
-
 
 def parse_match_datetime(date_txt: str, time_txt: str):
     """
@@ -133,7 +232,6 @@ def parse_match_datetime(date_txt: str, time_txt: str):
 
     return datetime.combine(date_obj, time_obj)
 
-
 def make_match_id(match_name: str, dt: datetime) -> str:
     """
     Generuje unikalne ID w postaci:
@@ -150,7 +248,6 @@ def make_match_id(match_name: str, dt: datetime) -> str:
     key_teams = h + a
     key_date = dt.strftime("%d%m%H%M")  # ddmmHHMM
     return f"{key_teams}{key_date}"
-
 
 def get_match_links(league_url: str):
     """
@@ -202,7 +299,6 @@ def get_match_links(league_url: str):
 
     return links
 
-
 def fetch_markets_with_playwright(match_url: str):
     """
     Otwiera stronę meczu i przewija CAŁĄ stronę stopniowo, aż placeholdery
@@ -210,6 +306,9 @@ def fetch_markets_with_playwright(match_url: str):
     <div.match-details-group__container>. Loguje przy każdej iteracji
     liczbę loaderów i liczbę wyrenderowanych kontenerów. Kończy, gdy liczba
     kontenerów w DOM-ie przestanie rosnąć.
+
+    Dodatkowo: filtruje tylko te rynki, których nazwa w lower() znajduje się
+    na liście ALLOWED_MARKETS.
     """
     markets = []
     try:
@@ -304,7 +403,6 @@ def fetch_markets_with_playwright(match_url: str):
             stable_loops = 0
             log("PLAYWRIGHT: Rozpoczynam stopniowe przewijanie, aż wszystkie loadery zostaną wymienione…")
 
-            # Maksymalna liczba kroków scrollowania to initial_loaders + 5 (zabezpieczenie)
             max_scrolls = initial_loaders + 5
             for step in range(max_scrolls):
                 page.evaluate("window.scrollBy(0, window.innerHeight);")
@@ -326,7 +424,6 @@ def fetch_markets_with_playwright(match_url: str):
 
             page.wait_for_timeout(300)
 
-            # Teraz w DOM są wszystkie grupy rynków
             groups = page.query_selector_all("div.match-details-group__container")
             final_count = len(groups)
             log(f"PLAYWRIGHT (mecz): OSTATECZNIE znaleziono {final_count} grup rynków.")
@@ -334,7 +431,7 @@ def fetch_markets_with_playwright(match_url: str):
                 html0 = groups[0].inner_html() if groups else ""
                 log(f"PLAYWRIGHT DEBUG: Tylko {final_count} grup. HTML pierwszej: {html0[:200]}…")
 
-            # Zbieranie kursów
+            markets = []
             for idx, grp in enumerate(groups, start=1):
                 try:
                     title_el = grp.query_selector(".match-details-group__title div")
@@ -342,9 +439,9 @@ def fetch_markets_with_playwright(match_url: str):
                         continue
                     mkt_name = title_el.inner_text().strip().lower()
 
-                    # Jeśli chcesz filtrować tylko dozwolone rynki, odkomentuj poniższą linijkę:
-                    # if mkt_name not in ALLOWED_MARKETS:
-                    #     continue
+                    # *** Filtrujemy tylko ALLOWED_MARKETS ***
+                    if mkt_name not in ALLOWED_MARKETS:
+                        continue
 
                     buttons = grp.query_selector_all("sds-odds-button")
                     if not buttons:
@@ -375,12 +472,11 @@ def fetch_markets_with_playwright(match_url: str):
 
             context.close()
             browser.close()
+            return markets
 
     except Exception as e:
         log(f"PLAYWRIGHT ERROR (mecz): {e}")
-
-    return markets
-
+        return []
 
 def parse_match_page(match_url: str):
     """
@@ -418,12 +514,11 @@ def parse_match_page(match_url: str):
                 response = page.goto(match_url, timeout=3800)
                 if response:
                     log(f"PLAYWRIGHT (nagłówek): Status HTTP: {response.status}")
-                page.wait_for_timeout(900)  # dajemy sekundę na wyrenderowanie
+                page.wait_for_timeout(900)
             except PlaywrightTimeoutError:
                 log("PLAYWRIGHT WARN (nagłówek): header nie załadował się w 10 s.")
 
-            # 1) Próbujemy wersję „brazylijską” – czy istnieje .team-container ... ?
-            left_el  = page.query_selector(".team-container .detailed-scoreboard__bold-label span")
+            left_el = page.query_selector(".team-container .detailed-scoreboard__bold-label span")
             if left_el:
                 # === Brazylia ===
                 labels = page.query_selector_all("div.breadcrumb-container__label")
@@ -439,10 +534,13 @@ def parse_match_page(match_url: str):
                 else:
                     result["match_name"] = left_el.inner_text().strip()
 
-                date_el = page.query_selector(".shirts-container .detailed-scoreboard__sub-label")
-                time_el = page.query_selector(".shirts-container .detailed-scoreboard__sub-label--highlight span")
-                date_txt = date_el.inner_text().strip() if date_el else None
-                time_txt = time_el.inner_text().strip() if time_el else None
+                # Pełna data z <span> wewnątrz .detailed-scoreboard__sub-label
+                date_span = page.query_selector(".detailed-scoreboard__sub-label span")
+                date_txt  = date_span.inner_text().strip() if date_span else None
+
+                time_el   = page.query_selector(".detailed-scoreboard__sub-label--highlight span")
+                time_txt  = time_el.inner_text().strip() if time_el else None
+
                 log(f"    [DEBUG BRAZYLIA] Surowe date_txt='{date_txt}', time_txt='{time_txt}'")
                 result["datetime"] = parse_match_datetime(date_txt, time_txt)
 
@@ -460,7 +558,6 @@ def parse_match_page(match_url: str):
                 container = page.query_selector("div.detailed-scoreboard__sub-label")
                 if container:
                     spans = container.query_selector_all("span")
-                    # Weź tylko pierwszy (dzień) i ostatni (godzina)
                     if len(spans) >= 2:
                         day_txt  = spans[0].inner_text().strip()
                         time_txt = spans[-1].inner_text().strip()
@@ -476,19 +573,19 @@ def parse_match_page(match_url: str):
         log(f"PLAYWRIGHT ERROR (nagłówek meczu): {e}")
         return None
 
-    # 2) Generujemy match_id (jeśli mamy match_name i datetime)
     if result["match_name"] and result["datetime"]:
         result["match_id"] = make_match_id(result["match_name"], result["datetime"])
 
-    # 3) Pobieramy WSZYSTKIE rynki
     result["markets"] = fetch_markets_with_playwright(match_url)
     return result
 
-
+# ————————————
+# Główna pętla “ciągłego skanowania”
+# ————————————
 def main():
     scan_count = 0
 
-    log("START BOTA STS")
+    log("START BOTA STS (ciągłe skanowanie + zapisywanie do CSV)")
     while True:
         for league_url in LEAGUES_TO_SCAN:
             log(f"INFO: Pobieram listę meczów z ligi: {league_url}")
@@ -503,7 +600,6 @@ def main():
                     time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
                     continue
 
-                # Logowanie pełnej daty i godziny + nowego ID
                 log_msg = f"INFO: [{details['match_id']}] {details['match_name']} | {details['sport']} | {details['competition']}"
                 if details["datetime"]:
                     log_msg += f" | {details['datetime'].strftime('%d.%m.%Y %H:%M')}"
@@ -517,7 +613,8 @@ def main():
                 else:
                     log("    Brak rynków / kursów na stronie meczu")
 
-                # Zaznaczamy, że skanowaliśmy ten mecz
+                append_match_to_csv(details, OUT_CSV_FILE)
+
                 scanned_matches[details["match_id"]] = datetime.now()
                 scan_count += 1
                 if scan_count >= SCAN_LIMIT_BEFORE_PAUSE:
@@ -528,41 +625,10 @@ def main():
 
                 time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
 
-        # Czyścimy stare wpisy w scanned_matches (starsze niż MATCH_SKIP_TIME)
         now = datetime.now()
         for key, ts in list(scanned_matches.items()):
             if (now - ts).seconds > MATCH_SKIP_TIME:
                 del scanned_matches[key]
 
-
 if __name__ == "__main__":
-    import json
-
-    # 1) Zbieramy wszystkie mecze z każdej ligi i zapisujemy do JSON-a
-    collected = {}  # {match_id: { 'match_name', 'sport', 'competition', 'datetime', 'markets' }}
-
-    for league_url in LEAGUES_TO_SCAN:
-        match_links = get_match_links(league_url)
-        for link in match_links:
-            details = parse_match_page(link)
-            if not details or not details.get("match_id"):
-                time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
-                continue
-
-            dt_str = details["datetime"].isoformat() if details["datetime"] else None
-            collected[details["match_id"]] = {
-                "match_name":  details["match_name"],
-                "sport":       details["sport"],
-                "competition": details["competition"],
-                "datetime":    dt_str,
-                "markets":     details["markets"]
-            }
-            time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
-
-    out_file = "sts_data.json"
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(collected, f, ensure_ascii=False, indent=2)
-    print(f"Zapisano {out_file} (znaleziono {len(collected)} meczów)")
-
-    # 2) Potem dopiero wchodzimy w tryb ciągłego skanowania (logowanie w konsoli)
     main()

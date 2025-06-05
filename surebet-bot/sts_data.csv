@@ -1,0 +1,102 @@
+match_id,match_name,sport,competition,datetime,market,selection,odds,bookmaker
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,fremad amager,1.82,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,x,3.70,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,naestved,3.75,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,1x,1.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,x2,1.82,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,mecz,12,1.26,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,zakład bez remisu,fremad amager,1.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,zakład bez remisu,naestved,2.70,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,- 0.5,9.90,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,+ 0.5,1.04,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,- 1.5,3.30,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,+ 1.5,1.28,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,- 2.5,1.85,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,+ 2.5,1.85,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,- 3.5,1.32,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,+ 3.5,3.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,- 4.5,1.11,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli,+ 4.5,5.60,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna strzeli gola,tak,1.20,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna strzeli gola,nie,4.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna strzeli gola,tak,1.46,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna strzeli gola,nie,2.55,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,obie drużyny strzelą gola,tak,1.78,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,obie drużyny strzelą gola,nie,1.92,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,- 0.5,4.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,+ 0.5,1.20,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,- 1.5,1.78,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,+ 1.5,1.92,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,- 2.5,1.22,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. drużyna - liczba goli,+ 2.5,3.80,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,- 0.5,2.55,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,+ 0.5,1.46,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,- 1.5,1.32,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,+ 1.5,3.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,- 2.5,1.06,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,2. drużyna - liczba goli,+ 2.5,7.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:2,1 (-2.0),7.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:2,x,5.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:2,2 (+2.0),1.28,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:1,1 (-1.0),3.30,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:1,x,3.70,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 0:1,2 (+1.0),1.82,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 1:0,1 (+1.0),1.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 1:0,x,5.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,handicap 1:0,2 (-1.0),8.60,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),1:0,6.75,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),2:0,8.25,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),2:1,7.90,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),3:0,15.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),3:1,14.50,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),3:2,27.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),4:0,37.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),4:1,35.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (1),4:2,65.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),0:0,9.90,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),1:1,6.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),2:2,14.50,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),3:3,75.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),4:4,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),5:0,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),5:1,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),4:3,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (2),3:4,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),0:1,10.50,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),0:2,19.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),1:2,12.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),0:3,55.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),1:3,34.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),2:3,42.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),0:4,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),1:4,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,dokładny wynik (3),2:4,100.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,1/- 2.5,4.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,1/+ 2.5,2.85,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,x/- 2.5,4.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,x/+ 2.5,13.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,2/- 2.5,7.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + liczba goli,2/+ 2.5,6.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,1/tak,3.75,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,1/nie,3.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,x/tak,4.60,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,x/nie,9.90,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,2/tak,7.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,wynik końcowy + obie drużyny strzelą gola,2/nie,6.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli + obie drużyny strzelą gola,+/tak 2.5,2.20,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli + obie drużyny strzelą gola,-/tak 2.5,7.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli + obie drużyny strzelą gola,+/nie 2.5,8.75,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,liczba goli + obie drużyny strzelą gola,-/nie 2.5,2.30,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,1/1,2.80,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,1/x,15.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,1/2,42.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,x/1,4.75,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,x/x,5.40,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,x/2,8.10,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,2/1,26.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,2/x,16.00,STS
+FRNA06061900,Fremad Amager - Naestved,Piłka Nożna,Dania,2025-06-06T19:00:00,1. połowa / wynik końcowy,2/2,6.40,STS
+BRBA06060000,Bragantino - Bahia,Piłka Nożna,Brazylia,2025-06-06T00:00:00,obie drużyny strzelą gola,tak,1.95,STS
+BRBA06060000,Bragantino - Bahia,Piłka Nożna,Brazylia,2025-06-06T00:00:00,obie drużyny strzelą gola,nie,1.77,STS
+DEAL06062015,Defensores Belgrano - Almirante Brown,Piłka Nożna,Argentyna,2025-06-06T20:15:00,obie drużyny strzelą gola,tak,2.80,STS
+DEAL06062015,Defensores Belgrano - Almirante Brown,Piłka Nożna,Argentyna,2025-06-06T20:15:00,obie drużyny strzelą gola,nie,1.38,STS

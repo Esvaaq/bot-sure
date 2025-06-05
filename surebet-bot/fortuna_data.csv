@@ -1,0 +1,35 @@
+match_id,match_name,sport,competition,datetime,market_name,outcome,odds,bookmaker
+TEST0001,DRUŻYNA X - DRUŻYNA Y,Test Sport,Test Liga,2025-06-05T15:05:32,TEST RYNEK,TAK,1.23,Fortuna
+TEST0001,DRUŻYNA X - DRUŻYNA Y,Test Sport,Test Liga,2025-06-05T15:05:32,TEST RYNEK,NIE,4.56,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Bragantino SP,1.46,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Bahia BA,2.5,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.93,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.75,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Vitoria BA,2.15,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Cruzeiro EC MG,1.63,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.03,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.67,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Helsingor,1.09,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Nykobing,5.6,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.0,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.73,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.6,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.16,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Fremad Amager,1.39,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Naestved,2.65,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.8,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.92,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.3,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.18,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,SPOTKANIE BEZ REMISU,Hiszpania,1.66,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,SPOTKANIE BEZ REMISU,Francja,2.25,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.66,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,2.18,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.0,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,SPOTKANIE BEZ REMISU,Defensores de Belgrano,1.21,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,SPOTKANIE BEZ REMISU,Almirante Brown,3.75,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.75,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.36,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.06,Fortuna
