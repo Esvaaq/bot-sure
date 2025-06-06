@@ -1,0 +1,1023 @@
+[2025-06-05 18:41:05]          • Mniej 1.5 @ 1.2
+[2025-06-05 18:41:05]          • Wiecej 1.5 @ 3.9
+[2025-06-05 18:41:05]          • Mniej 2.5 @ 1.03
+[2025-06-05 18:41:05]          • Wiecej 2.5 @ 8.6
+[2025-06-05 18:41:05]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 18:41:05]          • Tak @ 5.8
+[2025-06-05 18:41:05]          • Nie @ 1.06
+[2025-06-05 18:41:05]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 18:41:05]          • 1/1 @ 2.41
+[2025-06-05 18:41:05]          • 0/0 @ 3.35
+[2025-06-05 18:41:05]          • 2/2 @ 9.4
+[2025-06-05 18:41:05]          • 1/0 @ 17.0
+[2025-06-05 18:41:05]          • 1/2 @ 80.0
+[2025-06-05 18:41:05]          • 2/0 @ 19.0
+[2025-06-05 18:41:05]          • 0/1 @ 3.7
+[2025-06-05 18:41:05]          • 2/1 @ 35.0
+[2025-06-05 18:41:05]          • 0/2 @ 9.4
+[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 18:41:05]          • Tak @ 2.2
+[2025-06-05 18:41:05]          • Nie @ 1.57
+[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 18:41:05]          • tak @ 1.48
+[2025-06-05 18:41:05]          • nie @ 2.42
+[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 18:41:05]          • Tak @ 6.0
+[2025-06-05 18:41:05]          • Nie @ 1.08
+[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 18:41:05]          • tak @ 3.2
+[2025-06-05 18:41:05]          • nie @ 1.29
+[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 18:41:05]          • Tak @ 5.0
+[2025-06-05 18:41:05]          • Nie @ 1.12
+[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 18:41:05]          • tak @ 11.0
+[2025-06-05 18:41:05]          • nie @ 1.01
+[2025-06-05 18:41:05]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 18:41:05]          • Defensores de Belgrano/Tak @ 5.4
+[2025-06-05 18:41:05]          • 0/Tak @ 5.2
+[2025-06-05 18:41:05]          • Almirante Brown/Tak @ 16.0
+[2025-06-05 18:41:05]          • Defensores de Belgrano/Nie @ 2.01
+[2025-06-05 18:41:05]          • 0/Nie @ 4.7
+[2025-06-05 18:41:05]          • Almirante Brown/Nie @ 6.4
+[2025-06-05 18:41:05]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 18:41:05]          • Tak/Nie @ 7.6
+[2025-06-05 18:41:05]          • Nie/Tak @ 5.6
+[2025-06-05 18:41:05]          • Tak/Tak @ 50.0
+[2025-06-05 18:41:05]          • Nie/Nie @ 1.17
+[2025-06-05 18:41:05]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 18:41:05]          • 1-2 @ 1.56
+[2025-06-05 18:41:05]          • 1-3 @ 1.27
+[2025-06-05 18:41:05]          • 1-4 @ 1.17
+[2025-06-05 18:41:05]          • 1-5 @ 1.14
+[2025-06-05 18:41:05]          • 1-6 @ 1.13
+[2025-06-05 18:41:05]          • 2-3 @ 1.89
+[2025-06-05 18:41:05]          • 2-4 @ 1.64
+[2025-06-05 18:41:05]          • 2-5 @ 1.57
+[2025-06-05 18:41:05]          • 2-6 @ 1.55
+[2025-06-05 18:41:05]          • 3-4 @ 3.1
+[2025-06-05 18:41:05]          • 3-5 @ 2.8
+[2025-06-05 18:41:05]          • 3-6 @ 2.7
+[2025-06-05 18:41:05]          • 4-5 @ 6.6
+[2025-06-05 18:41:05]          • 4-6 @ 6.0
+[2025-06-05 18:41:05]          • 5-6 @ 18.0
+[2025-06-05 18:41:05]          • 7+ @ 25.0
+[2025-06-05 18:41:05]          • Brak goli @ 4.7
+[2025-06-05 19:23:15] START BOTA FORTUNA (jednorazowe skanowanie, czyszczenie starszych niż 1 dzień, podmiana po identyfikatorze, zapisywanie po każdym meczu)
+[2025-06-05 19:23:15] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna
+[2025-06-05 19:23:15] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna
+[2025-06-05 19:23:15] Proxy: brak
+[2025-06-05 19:23:15] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
+[2025-06-05 19:23:16] HTTP Status: 200 (OK)
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
+[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
+[2025-06-05 19:23:16] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
+[2025-06-05 19:23:16] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
+[2025-06-05 19:23:16] Proxy: brak
+[2025-06-05 19:23:16] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-05 19:23:16] HTTP Status: 200 (OK)
+[2025-06-05 19:23:18] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
+[2025-06-05 19:23:28] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
+[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano liczba goli'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown liczba goli'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra do zera'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra przynajmniej jedna połowę'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra do zera'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra przynajmniej jedna połowę'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra obie połowy'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra obie połowy'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-05 19:23:31] [✔] Podmieniono/stworzono dane meczu DEAL06062015 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:23:31] INFO: [DEAL06062015] Defensores de Belgrano - Almirante Brown | Piłka nożna | 2.Argentyna | 2025-06-06T20:15:00
+[2025-06-05 19:23:31]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:23:31]          • 10 @ 1.13
+[2025-06-05 19:23:31]          • 12 @ 1.3
+[2025-06-05 19:23:31]          • 02 @ 1.83
+[2025-06-05 19:23:31]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano @ 1.57
+[2025-06-05 19:23:31]          • 0-0 @ 1.62
+[2025-06-05 19:23:31]          • Almirante Brown @ 4.1
+[2025-06-05 19:23:31]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano @ 1.22
+[2025-06-05 19:23:31]          • Almirante Brown @ 3.65
+[2025-06-05 19:23:31]     - LICZBA GOLI → 14 selekcji:
+[2025-06-05 19:23:31]          • mniej 0.5 @ 4.8
+[2025-06-05 19:23:31]          • wiecej 0.5 @ 1.13
+[2025-06-05 19:23:31]          • mniej 1 @ 3.7
+[2025-06-05 19:23:31]          • wiecej 1 @ 1.22
+[2025-06-05 19:23:31]          • mniej 1.5 @ 2.06
+[2025-06-05 19:23:31]          • wiecej 1.5 @ 1.65
+[2025-06-05 19:23:31]          • mniej 2 @ 1.55
+[2025-06-05 19:23:31]          • wiecej 2 @ 2.25
+[2025-06-05 19:23:31]          • mniej 2.5 @ 1.33
+[2025-06-05 19:23:31]          • wiecej 2.5 @ 2.95
+[2025-06-05 19:23:31]          • mniej 3 @ 1.12
+[2025-06-05 19:23:31]          • wiecej 3 @ 5.0
+[2025-06-05 19:23:31]          • mniej 3.5 @ 1.09
+[2025-06-05 19:23:31]          • wiecej 3.5 @ 5.8
+[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:23:31]          • Mniej 0.5 @ 3.15
+[2025-06-05 19:23:31]          • Wiecej 0.5 @ 1.3
+[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.5
+[2025-06-05 19:23:31]          • Wiecej 1.5 @ 2.37
+[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.12
+[2025-06-05 19:23:31]          • Wiecej 2.5 @ 5.0
+[2025-06-05 19:23:31]     - ALMIRANTE BROWN LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:23:31]          • Mniej 0.5 @ 1.64
+[2025-06-05 19:23:31]          • Wiecej 0.5 @ 2.09
+[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.08
+[2025-06-05 19:23:31]          • Wiecej 1.5 @ 6.0
+[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.01
+[2025-06-05 19:23:31]          • Wiecej 2.5 @ 11.0
+[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:23:31]          • Tak @ 2.7
+[2025-06-05 19:23:31]          • Nie @ 1.37
+[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
+[2025-06-05 19:23:31]          • Tak/- 2.5 @ 6.0
+[2025-06-05 19:23:31]          • Nie/- 2.5 @ 1.46
+[2025-06-05 19:23:31]          • Tak/+ 2.5 @ 3.65
+[2025-06-05 19:23:31]          • Nie/+ 2.5 @ 8.0
+[2025-06-05 19:23:31]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano/- 1.5 @ 3.9
+[2025-06-05 19:23:31]          • 0/- 1.5 @ 4.8
+[2025-06-05 19:23:31]          • Almirante Brown/- 1.5 @ 8.6
+[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 1.5 @ 2.33
+[2025-06-05 19:23:31]          • 0/+ 1.5 @ 5.4
+[2025-06-05 19:23:31]          • Almirante Brown/+ 1.5 @ 10.0
+[2025-06-05 19:23:31]          • Defensores de Belgrano/- 2.5 @ 2.44
+[2025-06-05 19:23:31]          • 0/- 2.5 @ 2.85
+[2025-06-05 19:23:31]          • Almirante Brown/- 2.5 @ 6.8
+[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 2.5 @ 3.5
+[2025-06-05 19:23:31]          • 0/+ 2.5 @ 29.0
+[2025-06-05 19:23:31]          • Almirante Brown/+ 2.5 @ 15.0
+[2025-06-05 19:23:31]          • Defensores de Belgrano/- 3.5 @ 1.8
+[2025-06-05 19:23:31]          • 0/- 3.5 @ 2.75
+[2025-06-05 19:23:31]          • Almirante Brown/- 3.5 @ 4.9
+[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 3.5 @ 8.0
+[2025-06-05 19:23:31]          • 0/+ 3.5 @ 28.0
+[2025-06-05 19:23:31]          • Almirante Brown/+ 3.5 @ 50.0
+[2025-06-05 19:23:31]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano -0.5 @ 1.66
+[2025-06-05 19:23:31]          • Almirante Brown +0.5 @ 1.93
+[2025-06-05 19:23:31]     - 1.POŁOWA → 3 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano @ 2.41
+[2025-06-05 19:23:31]          • Remis @ 1.84
+[2025-06-05 19:23:31]          • Almirante Brown @ 6.6
+[2025-06-05 19:23:31]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:23:31]          • 10 @ 1.1
+[2025-06-05 19:23:31]          • 12 @ 1.7
+[2025-06-05 19:23:31]          • 02 @ 1.42
+[2025-06-05 19:23:31]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:23:31]          • Mniej 0.5 @ 2.1
+[2025-06-05 19:23:31]          • Wiecej 0.5 @ 1.63
+[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.2
+[2025-06-05 19:23:31]          • Wiecej 1.5 @ 3.9
+[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.03
+[2025-06-05 19:23:31]          • Wiecej 2.5 @ 8.6
+[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:23:31]          • Tak @ 5.8
+[2025-06-05 19:23:31]          • Nie @ 1.06
+[2025-06-05 19:23:31]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 19:23:31]          • 1/1 @ 2.41
+[2025-06-05 19:23:31]          • 0/0 @ 3.35
+[2025-06-05 19:23:31]          • 2/2 @ 9.4
+[2025-06-05 19:23:31]          • 1/0 @ 17.0
+[2025-06-05 19:23:31]          • 1/2 @ 80.0
+[2025-06-05 19:23:31]          • 2/0 @ 19.0
+[2025-06-05 19:23:31]          • 0/1 @ 3.7
+[2025-06-05 19:23:31]          • 2/1 @ 35.0
+[2025-06-05 19:23:31]          • 0/2 @ 9.4
+[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:23:31]          • Tak @ 2.2
+[2025-06-05 19:23:31]          • Nie @ 1.57
+[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:23:31]          • tak @ 1.48
+[2025-06-05 19:23:31]          • nie @ 2.42
+[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:23:31]          • Tak @ 6.0
+[2025-06-05 19:23:31]          • Nie @ 1.08
+[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:23:31]          • tak @ 3.2
+[2025-06-05 19:23:31]          • nie @ 1.29
+[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:23:31]          • Tak @ 5.0
+[2025-06-05 19:23:31]          • Nie @ 1.12
+[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:23:31]          • tak @ 11.0
+[2025-06-05 19:23:31]          • nie @ 1.01
+[2025-06-05 19:23:31]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:23:31]          • Defensores de Belgrano/Tak @ 5.4
+[2025-06-05 19:23:31]          • 0/Tak @ 5.2
+[2025-06-05 19:23:31]          • Almirante Brown/Tak @ 16.0
+[2025-06-05 19:23:31]          • Defensores de Belgrano/Nie @ 2.01
+[2025-06-05 19:23:31]          • 0/Nie @ 4.7
+[2025-06-05 19:23:31]          • Almirante Brown/Nie @ 6.4
+[2025-06-05 19:23:31]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 19:23:31]          • Tak/Nie @ 7.6
+[2025-06-05 19:23:31]          • Nie/Tak @ 5.6
+[2025-06-05 19:23:31]          • Tak/Tak @ 50.0
+[2025-06-05 19:23:31]          • Nie/Nie @ 1.17
+[2025-06-05 19:23:31]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 19:23:31]          • 1-2 @ 1.56
+[2025-06-05 19:23:31]          • 1-3 @ 1.27
+[2025-06-05 19:23:31]          • 1-4 @ 1.17
+[2025-06-05 19:23:31]          • 1-5 @ 1.14
+[2025-06-05 19:23:31]          • 1-6 @ 1.13
+[2025-06-05 19:23:31]          • 2-3 @ 1.89
+[2025-06-05 19:23:31]          • 2-4 @ 1.64
+[2025-06-05 19:23:31]          • 2-5 @ 1.57
+[2025-06-05 19:23:31]          • 2-6 @ 1.55
+[2025-06-05 19:23:31]          • 3-4 @ 3.1
+[2025-06-05 19:23:31]          • 3-5 @ 2.8
+[2025-06-05 19:23:31]          • 3-6 @ 2.7
+[2025-06-05 19:23:31]          • 4-5 @ 6.6
+[2025-06-05 19:23:31]          • 4-6 @ 6.0
+[2025-06-05 19:23:31]          • 5-6 @ 18.0
+[2025-06-05 19:23:31]          • 7+ @ 25.0
+[2025-06-05 19:23:31]          • Brak goli @ 4.7
+[2025-06-05 19:23:55] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
+[2025-06-05 19:23:55] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
+[2025-06-05 19:23:55] Proxy: brak
+[2025-06-05 19:23:55] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-05 19:23:55] HTTP Status: 200 (OK)
+[2025-06-05 19:23:56] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
+[2025-06-05 19:23:59] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'los andes liczba goli'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'alvarado liczba goli'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra do zera'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra przynajmniej jedna połowę'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra do zera'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra przynajmniej jedna połowę'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra obie połowy'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra obie połowy'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-05 19:24:02] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-05 19:24:02] [✔] Podmieniono/stworzono dane meczu LOAL07060000 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:24:02] INFO: [LOAL07060000] Los Andes - Alvarado | Piłka nożna | 2.Argentyna | 2025-06-07T00:00:00
+[2025-06-05 19:24:02]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:24:02]          • 10 @ 1.16
+[2025-06-05 19:24:02]          • 12 @ 1.31
+[2025-06-05 19:24:02]          • 02 @ 1.73
+[2025-06-05 19:24:02]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:24:02]          • Los Andes @ 1.66
+[2025-06-05 19:24:02]          • 0-0 @ 1.61
+[2025-06-05 19:24:02]          • Alvarado @ 3.6
+[2025-06-05 19:24:02]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-05 19:24:02]          • Los Andes @ 1.29
+[2025-06-05 19:24:02]          • Alvarado @ 3.15
+[2025-06-05 19:24:02]     - LICZBA GOLI → 14 selekcji:
+[2025-06-05 19:24:02]          • mniej 0.5 @ 5.0
+[2025-06-05 19:24:02]          • wiecej 0.5 @ 1.12
+[2025-06-05 19:24:02]          • mniej 1 @ 3.95
+[2025-06-05 19:24:02]          • wiecej 1 @ 1.2
+[2025-06-05 19:24:02]          • mniej 1.5 @ 2.14
+[2025-06-05 19:24:02]          • wiecej 1.5 @ 1.61
+[2025-06-05 19:24:02]          • mniej 2 @ 1.6
+[2025-06-05 19:24:02]          • wiecej 2 @ 2.15
+[2025-06-05 19:24:02]          • mniej 2.5 @ 1.36
+[2025-06-05 19:24:02]          • wiecej 2.5 @ 2.85
+[2025-06-05 19:24:02]          • mniej 3 @ 1.14
+[2025-06-05 19:24:02]          • wiecej 3 @ 4.7
+[2025-06-05 19:24:02]          • mniej 3.5 @ 1.1
+[2025-06-05 19:24:02]          • wiecej 3.5 @ 5.4
+[2025-06-05 19:24:02]     - LOS ANDES LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:02]          • Mniej 0.5 @ 3.05
+[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.31
+[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.47
+[2025-06-05 19:24:02]          • Wiecej 1.5 @ 2.43
+[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.11
+[2025-06-05 19:24:02]          • Wiecej 2.5 @ 5.2
+[2025-06-05 19:24:02]     - ALVARADO LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:02]          • Mniej 0.5 @ 1.78
+[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.89
+[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.11
+[2025-06-05 19:24:02]          • Wiecej 1.5 @ 5.2
+[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.01
+[2025-06-05 19:24:02]          • Wiecej 2.5 @ 10.0
+[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:24:02]          • Tak @ 2.48
+[2025-06-05 19:24:02]          • Nie @ 1.44
+[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
+[2025-06-05 19:24:02]          • Tak/- 2.5 @ 5.8
+[2025-06-05 19:24:02]          • Nie/- 2.5 @ 1.51
+[2025-06-05 19:24:02]          • Tak/+ 2.5 @ 3.3
+[2025-06-05 19:24:02]          • Nie/+ 2.5 @ 8.8
+[2025-06-05 19:24:02]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:24:02]          • Los Andes/- 1.5 @ 4.2
+[2025-06-05 19:24:02]          • 0/- 1.5 @ 5.0
+[2025-06-05 19:24:02]          • Alvarado/- 1.5 @ 8.0
+[2025-06-05 19:24:02]          • Los Andes/+ 1.5 @ 2.46
+[2025-06-05 19:24:02]          • 0/+ 1.5 @ 4.9
+[2025-06-05 19:24:02]          • Alvarado/+ 1.5 @ 7.8
+[2025-06-05 19:24:02]          • Los Andes/- 2.5 @ 2.65
+[2025-06-05 19:24:02]          • 0/- 2.5 @ 2.85
+[2025-06-05 19:24:02]          • Alvarado/- 2.5 @ 6.0
+[2025-06-05 19:24:02]          • Los Andes/+ 2.5 @ 3.6
+[2025-06-05 19:24:02]          • 0/+ 2.5 @ 24.0
+[2025-06-05 19:24:02]          • Alvarado/+ 2.5 @ 11.0
+[2025-06-05 19:24:02]          • Los Andes/- 3.5 @ 1.92
+[2025-06-05 19:24:02]          • 0/- 3.5 @ 2.8
+[2025-06-05 19:24:02]          • Alvarado/- 3.5 @ 4.3
+[2025-06-05 19:24:02]          • Los Andes/+ 3.5 @ 8.2
+[2025-06-05 19:24:02]          • 0/+ 3.5 @ 23.0
+[2025-06-05 19:24:02]          • Alvarado/+ 3.5 @ 35.0
+[2025-06-05 19:24:02]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:24:02]          • Los Andes -0.5 @ 1.76
+[2025-06-05 19:24:02]          • Alvarado +0.5 @ 1.81
+[2025-06-05 19:24:02]     - 1.POŁOWA → 3 selekcji:
+[2025-06-05 19:24:02]          • Los Andes @ 2.55
+[2025-06-05 19:24:02]          • Remis @ 1.84
+[2025-06-05 19:24:02]          • Alvarado @ 5.8
+[2025-06-05 19:24:02]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:24:02]          • 10 @ 1.13
+[2025-06-05 19:24:02]          • 12 @ 1.7
+[2025-06-05 19:24:02]          • 02 @ 1.38
+[2025-06-05 19:24:02]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:02]          • Mniej 0.5 @ 2.12
+[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.62
+[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.21
+[2025-06-05 19:24:02]          • Wiecej 1.5 @ 3.8
+[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.03
+[2025-06-05 19:24:02]          • Wiecej 2.5 @ 8.6
+[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:24:02]          • Tak @ 5.4
+[2025-06-05 19:24:02]          • Nie @ 1.07
+[2025-06-05 19:24:02]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 19:24:02]          • 1/1 @ 2.6
+[2025-06-05 19:24:02]          • 0/0 @ 3.4
+[2025-06-05 19:24:02]          • 2/2 @ 7.8
+[2025-06-05 19:24:02]          • 1/0 @ 16.0
+[2025-06-05 19:24:02]          • 1/2 @ 70.0
+[2025-06-05 19:24:02]          • 2/0 @ 17.0
+[2025-06-05 19:24:02]          • 0/1 @ 3.85
+[2025-06-05 19:24:02]          • 2/1 @ 35.0
+[2025-06-05 19:24:02]          • 0/2 @ 8.2
+[2025-06-05 19:24:02]     - LOS ANDES WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:24:02]          • Tak @ 2.41
+[2025-06-05 19:24:02]          • Nie @ 1.48
+[2025-06-05 19:24:02]     - LOS ANDES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:24:02]          • tak @ 1.53
+[2025-06-05 19:24:02]          • nie @ 2.29
+[2025-06-05 19:24:02]     - ALVARADO WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:24:02]          • Tak @ 5.4
+[2025-06-05 19:24:02]          • Nie @ 1.1
+[2025-06-05 19:24:02]     - ALVARADO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:24:02]          • tak @ 2.85
+[2025-06-05 19:24:02]          • nie @ 1.36
+[2025-06-05 19:24:02]     - LOS ANDES WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:24:02]          • Tak @ 5.4
+[2025-06-05 19:24:02]          • Nie @ 1.11
+[2025-06-05 19:24:02]     - ALVARADO WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:24:02]          • tak @ 10.0
+[2025-06-05 19:24:02]          • nie @ 1.01
+[2025-06-05 19:24:02]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:24:02]          • Los Andes/Tak @ 5.4
+[2025-06-05 19:24:02]          • 0/Tak @ 4.9
+[2025-06-05 19:24:02]          • Alvarado/Tak @ 13.0
+[2025-06-05 19:24:02]          • Los Andes/Nie @ 2.21
+[2025-06-05 19:24:02]          • 0/Nie @ 5.0
+[2025-06-05 19:24:02]          • Alvarado/Nie @ 5.6
+[2025-06-05 19:24:02]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 19:24:02]          • Nie/Tak @ 5.2
+[2025-06-05 19:24:02]          • Tak/Nie @ 7.2
+[2025-06-05 19:24:02]          • Tak/Tak @ 40.0
+[2025-06-05 19:24:02]          • Nie/Nie @ 1.21
+[2025-06-05 19:24:02]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 19:24:02]          • 1-2 @ 1.58
+[2025-06-05 19:24:02]          • 1-3 @ 1.27
+[2025-06-05 19:24:02]          • 1-4 @ 1.17
+[2025-06-05 19:24:02]          • 1-5 @ 1.13
+[2025-06-05 19:24:02]          • 1-6 @ 1.12
+[2025-06-05 19:24:02]          • 2-3 @ 1.86
+[2025-06-05 19:24:02]          • 2-4 @ 1.61
+[2025-06-05 19:24:02]          • 2-5 @ 1.53
+[2025-06-05 19:24:02]          • 2-6 @ 1.51
+[2025-06-05 19:24:02]          • 3-4 @ 2.95
+[2025-06-05 19:24:02]          • 3-5 @ 2.65
+[2025-06-05 19:24:02]          • 3-6 @ 2.6
+[2025-06-05 19:24:02]          • 4-5 @ 6.2
+[2025-06-05 19:24:02]          • 4-6 @ 5.6
+[2025-06-05 19:24:02]          • 5-6 @ 16.0
+[2025-06-05 19:24:02]          • 7+ @ 25.0
+[2025-06-05 19:24:02]          • Brak goli @ 4.9
+[2025-06-05 19:24:16] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
+[2025-06-05 19:24:16] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
+[2025-06-05 19:24:16] Proxy: brak
+[2025-06-05 19:24:16] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
+[2025-06-05 19:24:16] HTTP Status: 200 (OK)
+[2025-06-05 19:24:17] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
+[2025-06-05 19:24:21] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes liczba goli'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'temperley liczba goli'
+[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra do zera'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra przynajmniej jedna połowę'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra do zera'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra przynajmniej jedna połowę'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra obie połowy'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra obie połowy'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-05 19:24:30] [✔] Podmieniono/stworzono dane meczu CATE07060210 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:24:30] INFO: [CATE07060210] CA Estudiantes - Temperley | Piłka nożna | 2.Argentyna | 2025-06-07T02:10:00
+[2025-06-05 19:24:30]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:24:30]          • 10 @ 1.22
+[2025-06-05 19:24:30]          • 12 @ 1.35
+[2025-06-05 19:24:30]          • 02 @ 1.57
+[2025-06-05 19:24:30]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes @ 1.86
+[2025-06-05 19:24:30]          • 0-0 @ 1.56
+[2025-06-05 19:24:30]          • Temperley @ 3.1
+[2025-06-05 19:24:30]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes @ 1.43
+[2025-06-05 19:24:30]          • Temperley @ 2.55
+[2025-06-05 19:24:30]     - LICZBA GOLI → 14 selekcji:
+[2025-06-05 19:24:30]          • mniej 0.5 @ 4.8
+[2025-06-05 19:24:30]          • wiecej 0.5 @ 1.13
+[2025-06-05 19:24:30]          • mniej 1 @ 3.75
+[2025-06-05 19:24:30]          • wiecej 1 @ 1.22
+[2025-06-05 19:24:30]          • mniej 1.5 @ 2.08
+[2025-06-05 19:24:30]          • wiecej 1.5 @ 1.64
+[2025-06-05 19:24:30]          • mniej 2 @ 1.56
+[2025-06-05 19:24:30]          • wiecej 2 @ 2.24
+[2025-06-05 19:24:30]          • mniej 2.5 @ 1.33
+[2025-06-05 19:24:30]          • wiecej 2.5 @ 2.95
+[2025-06-05 19:24:30]          • mniej 3 @ 1.12
+[2025-06-05 19:24:30]          • wiecej 3 @ 5.0
+[2025-06-05 19:24:30]          • mniej 3.5 @ 1.09
+[2025-06-05 19:24:30]          • wiecej 3.5 @ 5.6
+[2025-06-05 19:24:30]     - CA ESTUDIANTES LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:30]          • Mniej 0.5 @ 2.7
+[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.38
+[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.37
+[2025-06-05 19:24:30]          • Wiecej 1.5 @ 2.75
+[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.08
+[2025-06-05 19:24:30]          • Wiecej 2.5 @ 6.2
+[2025-06-05 19:24:30]     - TEMPERLEY LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:30]          • Mniej 0.5 @ 1.92
+[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.76
+[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.15
+[2025-06-05 19:24:30]          • Wiecej 1.5 @ 4.5
+[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.01
+[2025-06-05 19:24:30]          • Wiecej 2.5 @ 9.6
+[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:24:30]          • Tak @ 2.41
+[2025-06-05 19:24:30]          • Nie @ 1.46
+[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
+[2025-06-05 19:24:30]          • Tak/- 2.5 @ 5.4
+[2025-06-05 19:24:30]          • Nie/- 2.5 @ 1.5
+[2025-06-05 19:24:30]          • Tak/+ 2.5 @ 3.3
+[2025-06-05 19:24:30]          • Nie/+ 2.5 @ 11.0
+[2025-06-05 19:24:30]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes/- 1.5 @ 4.5
+[2025-06-05 19:24:30]          • 0/- 1.5 @ 4.8
+[2025-06-05 19:24:30]          • Temperley/- 1.5 @ 6.8
+[2025-06-05 19:24:30]          • CA Estudiantes/+ 1.5 @ 2.9
+[2025-06-05 19:24:30]          • 0/+ 1.5 @ 4.6
+[2025-06-05 19:24:30]          • Temperley/+ 1.5 @ 6.2
+[2025-06-05 19:24:30]          • CA Estudiantes/- 2.5 @ 2.95
+[2025-06-05 19:24:30]          • 0/- 2.5 @ 2.7
+[2025-06-05 19:24:30]          • Temperley/- 2.5 @ 5.0
+[2025-06-05 19:24:30]          • CA Estudiantes/+ 2.5 @ 4.3
+[2025-06-05 19:24:30]          • 0/+ 2.5 @ 22.0
+[2025-06-05 19:24:30]          • Temperley/+ 2.5 @ 8.8
+[2025-06-05 19:24:30]          • CA Estudiantes/- 3.5 @ 2.14
+[2025-06-05 19:24:30]          • 0/- 3.5 @ 2.65
+[2025-06-05 19:24:30]          • Temperley/- 3.5 @ 3.6
+[2025-06-05 19:24:30]          • CA Estudiantes/+ 3.5 @ 10.0
+[2025-06-05 19:24:30]          • 0/+ 3.5 @ 22.0
+[2025-06-05 19:24:30]          • Temperley/+ 3.5 @ 27.0
+[2025-06-05 19:24:30]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes -0.5 @ 1.98
+[2025-06-05 19:24:30]          • Temperley +0.5 @ 1.62
+[2025-06-05 19:24:30]     - 1.POŁOWA → 3 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes @ 2.9
+[2025-06-05 19:24:30]          • Remis @ 1.78
+[2025-06-05 19:24:30]          • Temperley @ 4.9
+[2025-06-05 19:24:30]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:24:30]          • 10 @ 1.15
+[2025-06-05 19:24:30]          • 12 @ 1.76
+[2025-06-05 19:24:30]          • 02 @ 1.31
+[2025-06-05 19:24:30]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:24:30]          • Mniej 0.5 @ 2.05
+[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.66
+[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.19
+[2025-06-05 19:24:30]          • Wiecej 1.5 @ 3.95
+[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.02
+[2025-06-05 19:24:30]          • Wiecej 2.5 @ 8.8
+[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:24:30]          • Tak @ 5.4
+[2025-06-05 19:24:30]          • Nie @ 1.07
+[2025-06-05 19:24:30]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 19:24:30]          • 1/1 @ 3.1
+[2025-06-05 19:24:30]          • 0/0 @ 3.25
+[2025-06-05 19:24:30]          • 2/2 @ 6.4
+[2025-06-05 19:24:30]          • 1/0 @ 15.0
+[2025-06-05 19:24:30]          • 1/2 @ 60.0
+[2025-06-05 19:24:30]          • 2/0 @ 16.0
+[2025-06-05 19:24:30]          • 0/1 @ 4.2
+[2025-06-05 19:24:30]          • 2/1 @ 35.0
+[2025-06-05 19:24:30]          • 0/2 @ 6.8
+[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:24:30]          • Tak @ 2.75
+[2025-06-05 19:24:30]          • Nie @ 1.38
+[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:24:30]          • tak @ 1.67
+[2025-06-05 19:24:30]          • nie @ 2.03
+[2025-06-05 19:24:30]     - TEMPERLEY WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:24:30]          • Tak @ 4.7
+[2025-06-05 19:24:30]          • Nie @ 1.14
+[2025-06-05 19:24:30]     - TEMPERLEY WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:24:30]          • tak @ 2.49
+[2025-06-05 19:24:30]          • nie @ 1.45
+[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:24:30]          • Tak @ 6.4
+[2025-06-05 19:24:30]          • Nie @ 1.07
+[2025-06-05 19:24:30]     - TEMPERLEY WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:24:30]          • tak @ 9.8
+[2025-06-05 19:24:30]          • nie @ 1.01
+[2025-06-05 19:24:30]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:24:30]          • CA Estudiantes/Tak @ 6.0
+[2025-06-05 19:24:30]          • 0/Tak @ 4.6
+[2025-06-05 19:24:30]          • Temperley/Tak @ 10.0
+[2025-06-05 19:24:30]          • CA Estudiantes/Nie @ 2.55
+[2025-06-05 19:24:30]          • 0/Nie @ 4.8
+[2025-06-05 19:24:30]          • Temperley/Nie @ 4.7
+[2025-06-05 19:24:30]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 19:24:30]          • Tak/Nie @ 7.2
+[2025-06-05 19:24:30]          • Nie/Tak @ 5.2
+[2025-06-05 19:24:30]          • Tak/Tak @ 40.0
+[2025-06-05 19:24:30]          • Nie/Nie @ 1.21
+[2025-06-05 19:24:30]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 19:24:30]          • 1-2 @ 1.57
+[2025-06-05 19:24:30]          • 1-3 @ 1.27
+[2025-06-05 19:24:30]          • 1-4 @ 1.17
+[2025-06-05 19:24:30]          • 1-5 @ 1.14
+[2025-06-05 19:24:30]          • 1-6 @ 1.13
+[2025-06-05 19:24:30]          • 2-3 @ 1.88
+[2025-06-05 19:24:30]          • 2-4 @ 1.64
+[2025-06-05 19:24:30]          • 2-5 @ 1.56
+[2025-06-05 19:24:30]          • 2-6 @ 1.54
+[2025-06-05 19:24:30]          • 3-4 @ 3.1
+[2025-06-05 19:24:30]          • 3-5 @ 2.8
+[2025-06-05 19:24:30]          • 3-6 @ 2.7
+[2025-06-05 19:24:30]          • 4-5 @ 6.6
+[2025-06-05 19:24:30]          • 4-6 @ 6.0
+[2025-06-05 19:24:30]          • 5-6 @ 18.0
+[2025-06-05 19:24:30]          • 7+ @ 25.0
+[2025-06-05 19:24:30]          • Brak goli @ 4.7
+[2025-06-05 19:24:54] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
+[2025-06-05 19:24:54] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
+[2025-06-05 19:24:54] Proxy: brak
+[2025-06-05 19:24:54] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-05 19:24:54] HTTP Status: 200 (OK)
+[2025-06-05 19:24:55] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
+[2025-06-05 19:24:59] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) liczba goli'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago liczba goli'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra do zera'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra przynajmniej jedna połowę'
+[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra do zera'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra przynajmniej jedna połowę'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra obie połowy'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra obie połowy'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-05 19:25:01] [✔] Podmieniono/stworzono dane meczu TACA07061840 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:25:01] INFO: [TACA07061840] Talleres (R.E) - CA Mitre de Santiago | Piłka nożna | 2.Argentyna | 2025-06-07T18:40:00
+[2025-06-05 19:25:01]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:25:01]          • 10 @ 1.32
+[2025-06-05 19:25:01]          • 12 @ 1.42
+[2025-06-05 19:25:01]          • 02 @ 1.36
+[2025-06-05 19:25:01]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E) @ 2.37
+[2025-06-05 19:25:01]          • 0-0 @ 1.47
+[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 2.5
+[2025-06-05 19:25:01]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E) @ 1.77
+[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 1.9
+[2025-06-05 19:25:01]     - LICZBA GOLI → 14 selekcji:
+[2025-06-05 19:25:01]          • mniej 0.5 @ 4.0
+[2025-06-05 19:25:01]          • wiecej 0.5 @ 1.19
+[2025-06-05 19:25:01]          • mniej 1 @ 3.0
+[2025-06-05 19:25:01]          • wiecej 1 @ 1.32
+[2025-06-05 19:25:01]          • mniej 1.5 @ 1.82
+[2025-06-05 19:25:01]          • wiecej 1.5 @ 1.85
+[2025-06-05 19:25:01]          • mniej 2 @ 1.37
+[2025-06-05 19:25:01]          • wiecej 2 @ 2.75
+[2025-06-05 19:25:01]          • mniej 2.5 @ 1.23
+[2025-06-05 19:25:01]          • wiecej 2.5 @ 3.6
+[2025-06-05 19:25:01]          • mniej 3 @ 1.07
+[2025-06-05 19:25:01]          • wiecej 3 @ 6.4
+[2025-06-05 19:25:01]          • mniej 3.5 @ 1.06
+[2025-06-05 19:25:01]          • wiecej 3.5 @ 7.0
+[2025-06-05 19:25:01]     - TALLERES (R.E) LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:01]          • Mniej 0.5 @ 2.11
+[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.62
+[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.2
+[2025-06-05 19:25:01]          • Wiecej 1.5 @ 3.9
+[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.03
+[2025-06-05 19:25:01]          • Wiecej 2.5 @ 8.6
+[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:01]          • Mniej 0.5 @ 2.03
+[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.67
+[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.18
+[2025-06-05 19:25:01]          • Wiecej 1.5 @ 4.1
+[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.02
+[2025-06-05 19:25:01]          • Wiecej 2.5 @ 9.2
+[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:25:01]          • Tak @ 2.65
+[2025-06-05 19:25:01]          • Nie @ 1.38
+[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
+[2025-06-05 19:25:01]          • Tak/- 2.5 @ 5.0
+[2025-06-05 19:25:01]          • Nie/- 2.5 @ 1.38
+[2025-06-05 19:25:01]          • Tak/+ 2.5 @ 3.85
+[2025-06-05 19:25:01]          • Nie/+ 2.5 @ 15.0
+[2025-06-05 19:25:01]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E)/- 1.5 @ 4.9
+[2025-06-05 19:25:01]          • 0/- 1.5 @ 3.9
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 1.5 @ 5.2
+[2025-06-05 19:25:01]          • Talleres (R.E)/+ 1.5 @ 4.4
+[2025-06-05 19:25:01]          • 0/+ 1.5 @ 4.6
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 1.5 @ 4.9
+[2025-06-05 19:25:01]          • Talleres (R.E)/- 2.5 @ 3.45
+[2025-06-05 19:25:01]          • 0/- 2.5 @ 2.36
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 2.5 @ 3.7
+[2025-06-05 19:25:01]          • Talleres (R.E)/+ 2.5 @ 6.8
+[2025-06-05 19:25:01]          • 0/+ 2.5 @ 27.0
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 2.5 @ 7.6
+[2025-06-05 19:25:01]          • Talleres (R.E)/- 3.5 @ 2.6
+[2025-06-05 19:25:01]          • 0/- 3.5 @ 2.32
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 3.5 @ 2.8
+[2025-06-05 19:25:01]          • Talleres (R.E)/+ 3.5 @ 21.0
+[2025-06-05 19:25:01]          • 0/+ 3.5 @ 26.0
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 3.5 @ 24.0
+[2025-06-05 19:25:01]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E) -0.5 @ 2.55
+[2025-06-05 19:25:01]          • CA Mitre de Santiago +0.5 @ 1.37
+[2025-06-05 19:25:01]     - 1.POŁOWA → 3 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E) @ 3.85
+[2025-06-05 19:25:01]          • Remis @ 1.65
+[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 4.1
+[2025-06-05 19:25:01]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:25:01]          • 10 @ 1.19
+[2025-06-05 19:25:01]          • 12 @ 1.89
+[2025-06-05 19:25:01]          • 02 @ 1.21
+[2025-06-05 19:25:01]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:01]          • Mniej 0.5 @ 1.85
+[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.82
+[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.14
+[2025-06-05 19:25:01]          • Wiecej 1.5 @ 4.6
+[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.01
+[2025-06-05 19:25:01]          • Wiecej 2.5 @ 9.6
+[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:25:01]          • Tak @ 5.8
+[2025-06-05 19:25:01]          • Nie @ 1.05
+[2025-06-05 19:25:01]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 19:25:01]          • 1/1 @ 4.4
+[2025-06-05 19:25:01]          • 0/0 @ 2.8
+[2025-06-05 19:25:01]          • 2/2 @ 4.7
+[2025-06-05 19:25:01]          • 1/0 @ 16.0
+[2025-06-05 19:25:01]          • 1/2 @ 50.0
+[2025-06-05 19:25:01]          • 2/0 @ 16.0
+[2025-06-05 19:25:01]          • 0/1 @ 5.0
+[2025-06-05 19:25:01]          • 2/1 @ 50.0
+[2025-06-05 19:25:01]          • 0/2 @ 5.4
+[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:25:01]          • Tak @ 3.4
+[2025-06-05 19:25:01]          • Nie @ 1.26
+[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:25:01]          • tak @ 2.06
+[2025-06-05 19:25:01]          • nie @ 1.65
+[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:25:01]          • Tak @ 3.65
+[2025-06-05 19:25:01]          • Nie @ 1.23
+[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:25:01]          • tak @ 2.17
+[2025-06-05 19:25:01]          • nie @ 1.59
+[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:25:01]          • Tak @ 8.4
+[2025-06-05 19:25:01]          • Nie @ 1.03
+[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:25:01]          • tak @ 8.8
+[2025-06-05 19:25:01]          • nie @ 1.02
+[2025-06-05 19:25:01]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:25:01]          • Talleres (R.E)/Tak @ 9.0
+[2025-06-05 19:25:01]          • 0/Tak @ 4.6
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/Tak @ 9.6
+[2025-06-05 19:25:01]          • Talleres (R.E)/Nie @ 3.2
+[2025-06-05 19:25:01]          • 0/Nie @ 3.85
+[2025-06-05 19:25:01]          • CA Mitre de Santiago/Nie @ 3.4
+[2025-06-05 19:25:01]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 19:25:01]          • Nie/Tak @ 5.6
+[2025-06-05 19:25:01]          • Tak/Nie @ 8.0
+[2025-06-05 19:25:01]          • Tak/Tak @ 50.0
+[2025-06-05 19:25:01]          • Nie/Nie @ 1.17
+[2025-06-05 19:25:01]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 19:25:01]          • 1-2 @ 1.53
+[2025-06-05 19:25:01]          • 1-3 @ 1.29
+[2025-06-05 19:25:01]          • 1-4 @ 1.21
+[2025-06-05 19:25:01]          • 1-5 @ 1.19
+[2025-06-05 19:25:01]          • 1-6 @ 1.18
+[2025-06-05 19:25:01]          • 2-3 @ 2.02
+[2025-06-05 19:25:01]          • 2-4 @ 1.8
+[2025-06-05 19:25:01]          • 2-5 @ 1.74
+[2025-06-05 19:25:01]          • 2-6 @ 1.72
+[2025-06-05 19:25:01]          • 3-4 @ 3.75
+[2025-06-05 19:25:01]          • 3-5 @ 3.45
+[2025-06-05 19:25:01]          • 3-6 @ 3.4
+[2025-06-05 19:25:01]          • 4-5 @ 9.0
+[2025-06-05 19:25:01]          • 4-6 @ 8.4
+[2025-06-05 19:25:01]          • 5-6 @ 25.0
+[2025-06-05 19:25:01]          • 7+ @ 25.0
+[2025-06-05 19:25:01]          • Brak goli @ 3.8
+[2025-06-05 19:25:13] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
+[2025-06-05 19:25:13] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
+[2025-06-05 19:25:13] Proxy: brak
+[2025-06-05 19:25:13] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-05 19:25:14] HTTP Status: 200 (OK)
+[2025-06-05 19:25:15] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
+[2025-06-05 19:25:18] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron liczba goli'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe liczba goli'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra do zera'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra przynajmniej jedna połowę'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra do zera'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra przynajmniej jedna połowę'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra obie połowy'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra obie połowy'
+[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:25:20] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-05 19:25:20] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-05 19:25:20] [✔] Podmieniono/stworzono dane meczu DECO08060010 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:25:20] INFO: [DECO08060010] Deportivo Moron - Colon de Santa Fe | Piłka nożna | 2.Argentyna | 2025-06-08T00:10:00
+[2025-06-05 19:25:20]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:25:20]          • 10 @ 1.22
+[2025-06-05 19:25:20]          • 12 @ 1.35
+[2025-06-05 19:25:20]          • 02 @ 1.56
+[2025-06-05 19:25:20]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron @ 1.87
+[2025-06-05 19:25:20]          • 0-0 @ 1.57
+[2025-06-05 19:25:20]          • Colon de Santa Fe @ 3.0
+[2025-06-05 19:25:20]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron @ 1.44
+[2025-06-05 19:25:20]          • Colon de Santa Fe @ 2.5
+[2025-06-05 19:25:20]     - LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:20]          • mniej 0.5 @ 4.9
+[2025-06-05 19:25:20]          • wiecej 0.5 @ 1.13
+[2025-06-05 19:25:20]          • mniej 1.5 @ 2.14
+[2025-06-05 19:25:20]          • wiecej 1.5 @ 1.61
+[2025-06-05 19:25:20]          • mniej 2.5 @ 1.35
+[2025-06-05 19:25:20]          • wiecej 2.5 @ 2.85
+[2025-06-05 19:25:20]     - DEPORTIVO MORON LICZBA GOLI → 2 selekcji:
+[2025-06-05 19:25:20]          • Mniej 1.5 @ 1.39
+[2025-06-05 19:25:20]          • Wiecej 1.5 @ 2.7
+[2025-06-05 19:25:20]     - COLON DE SANTA FE LICZBA GOLI → 2 selekcji:
+[2025-06-05 19:25:20]          • Mniej 0.5 @ 1.98
+[2025-06-05 19:25:20]          • Wiecej 0.5 @ 1.71
+[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:25:20]          • Tak @ 2.33
+[2025-06-05 19:25:20]          • Nie @ 1.49
+[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
+[2025-06-05 19:25:20]          • Tak/- 2.5 @ 5.2
+[2025-06-05 19:25:20]          • Nie/- 2.5 @ 1.54
+[2025-06-05 19:25:20]          • Tak/+ 2.5 @ 3.15
+[2025-06-05 19:25:20]          • Nie/+ 2.5 @ 11.0
+[2025-06-05 19:25:20]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron/- 1.5 @ 4.7
+[2025-06-05 19:25:20]          • 0/- 1.5 @ 5.0
+[2025-06-05 19:25:20]          • Colon de Santa Fe/- 1.5 @ 7.0
+[2025-06-05 19:25:20]          • Deportivo Moron/+ 1.5 @ 2.85
+[2025-06-05 19:25:20]          • 0/+ 1.5 @ 4.5
+[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 1.5 @ 5.8
+[2025-06-05 19:25:20]          • Deportivo Moron/- 2.5 @ 3.05
+[2025-06-05 19:25:20]          • 0/- 2.5 @ 2.75
+[2025-06-05 19:25:20]          • Colon de Santa Fe/- 2.5 @ 5.0
+[2025-06-05 19:25:20]          • Deportivo Moron/+ 2.5 @ 4.2
+[2025-06-05 19:25:20]          • 0/+ 2.5 @ 21.0
+[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 2.5 @ 8.4
+[2025-06-05 19:25:20]          • Deportivo Moron/- 3.5 @ 2.18
+[2025-06-05 19:25:20]          • 0/- 3.5 @ 2.7
+[2025-06-05 19:25:20]          • Colon de Santa Fe/- 3.5 @ 3.6
+[2025-06-05 19:25:20]          • Deportivo Moron/+ 3.5 @ 10.0
+[2025-06-05 19:25:20]          • 0/+ 3.5 @ 20.0
+[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 3.5 @ 25.0
+[2025-06-05 19:25:20]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron -0.5 @ 2.0
+[2025-06-05 19:25:20]          • Colon de Santa Fe +0.5 @ 1.61
+[2025-06-05 19:25:20]     - 1.POŁOWA → 3 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron @ 2.9
+[2025-06-05 19:25:20]          • Remis @ 1.81
+[2025-06-05 19:25:20]          • Colon de Santa Fe @ 4.8
+[2025-06-05 19:25:20]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:25:20]          • 10 @ 1.16
+[2025-06-05 19:25:20]          • 12 @ 1.74
+[2025-06-05 19:25:20]          • 02 @ 1.31
+[2025-06-05 19:25:20]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:20]          • Mniej 0.5 @ 2.09
+[2025-06-05 19:25:20]          • Wiecej 0.5 @ 1.63
+[2025-06-05 19:25:20]          • Mniej 1.5 @ 1.21
+[2025-06-05 19:25:20]          • Wiecej 1.5 @ 3.85
+[2025-06-05 19:25:20]          • Mniej 2.5 @ 1.03
+[2025-06-05 19:25:20]          • Wiecej 2.5 @ 8.6
+[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:25:20]          • Tak @ 5.2
+[2025-06-05 19:25:20]          • Nie @ 1.07
+[2025-06-05 19:25:20]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-05 19:25:20]          • 1/1 @ 3.1
+[2025-06-05 19:25:20]          • 0/0 @ 3.3
+[2025-06-05 19:25:20]          • 2/2 @ 6.2
+[2025-06-05 19:25:20]          • 1/0 @ 14.0
+[2025-06-05 19:25:20]          • 1/2 @ 50.0
+[2025-06-05 19:25:20]          • 2/0 @ 15.0
+[2025-06-05 19:25:20]          • 0/1 @ 4.3
+[2025-06-05 19:25:20]          • 2/1 @ 35.0
+[2025-06-05 19:25:20]          • 0/2 @ 6.8
+[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:25:20]          • Tak @ 2.8
+[2025-06-05 19:25:20]          • Nie @ 1.36
+[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:25:20]          • tak @ 1.67
+[2025-06-05 19:25:20]          • nie @ 2.03
+[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA DO ZERA → 2 selekcji:
+[2025-06-05 19:25:20]          • Tak @ 4.7
+[2025-06-05 19:25:20]          • Nie @ 1.14
+[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-05 19:25:20]          • tak @ 2.44
+[2025-06-05 19:25:20]          • nie @ 1.47
+[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:25:20]          • Tak @ 6.4
+[2025-06-05 19:25:20]          • Nie @ 1.07
+[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-05 19:25:20]          • tak @ 9.8
+[2025-06-05 19:25:20]          • nie @ 1.01
+[2025-06-05 19:25:20]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:25:20]          • Deportivo Moron/Tak @ 5.8
+[2025-06-05 19:25:20]          • 0/Tak @ 4.4
+[2025-06-05 19:25:20]          • Colon de Santa Fe/Tak @ 9.8
+[2025-06-05 19:25:20]          • Deportivo Moron/Nie @ 2.6
+[2025-06-05 19:25:20]          • 0/Nie @ 5.0
+[2025-06-05 19:25:20]          • Colon de Santa Fe/Nie @ 4.7
+[2025-06-05 19:25:20]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-05 19:25:20]          • Tak/Nie @ 7.0
+[2025-06-05 19:25:20]          • Nie/Tak @ 5.0
+[2025-06-05 19:25:20]          • Tak/Tak @ 40.0
+[2025-06-05 19:25:20]          • Nie/Nie @ 1.23
+[2025-06-05 19:25:20]     - MULTIGOLE → 17 selekcji:
+[2025-06-05 19:25:20]          • 1-2 @ 1.58
+[2025-06-05 19:25:20]          • 1-3 @ 1.28
+[2025-06-05 19:25:20]          • 1-4 @ 1.17
+[2025-06-05 19:25:20]          • 1-5 @ 1.14
+[2025-06-05 19:25:20]          • 1-6 @ 1.13
+[2025-06-05 19:25:20]          • 2-3 @ 1.86
+[2025-06-05 19:25:20]          • 2-4 @ 1.61
+[2025-06-05 19:25:20]          • 2-5 @ 1.53
+[2025-06-05 19:25:20]          • 2-6 @ 1.51
+[2025-06-05 19:25:20]          • 3-4 @ 3.0
+[2025-06-05 19:25:20]          • 3-5 @ 2.7
+[2025-06-05 19:25:20]          • 3-6 @ 2.6
+[2025-06-05 19:25:20]          • 4-5 @ 6.2
+[2025-06-05 19:25:20]          • 4-6 @ 5.6
+[2025-06-05 19:25:20]          • 5-6 @ 16.0
+[2025-06-05 19:25:20]          • 7+ @ 25.0
+[2025-06-05 19:25:20]          • Brak goli @ 4.8
+[2025-06-05 19:25:37] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
+[2025-06-05 19:25:37] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
+[2025-06-05 19:25:37] Proxy: brak
+[2025-06-05 19:25:37] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
+[2025-06-05 19:25:37] HTTP Status: 200 (OK)
+[2025-06-05 19:25:38] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
+[2025-06-05 19:25:42] PLAYWRIGHT: Znaleziono 8 kontenerów rynków.
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-05 19:25:43] [✔] Podmieniono/stworzono dane meczu SAGI08062000 w pliku CSV: fortuna_data.csv
+[2025-06-05 19:25:43] INFO: [SAGI08062000] San Telmo - Gimnasia Mendoza | Piłka nożna | 2.Argentyna | 2025-06-08T20:00:00
+[2025-06-05 19:25:43]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-05 19:25:43]          • 10 @ 1.51
+[2025-06-05 19:25:43]          • 12 @ 1.32
+[2025-06-05 19:25:43]          • 02 @ 1.25
+[2025-06-05 19:25:43]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-05 19:25:43]          • San Telmo @ 2.8
+[2025-06-05 19:25:43]          • 0-0 @ 1.6
+[2025-06-05 19:25:43]          • Gimnasia Mendoza @ 1.95
+[2025-06-05 19:25:43]     - LICZBA GOLI → 6 selekcji:
+[2025-06-05 19:25:43]          • mniej 0.5 @ 5.4
+[2025-06-05 19:25:43]          • wiecej 0.5 @ 1.11
+[2025-06-05 19:25:43]          • mniej 1.5 @ 2.25
+[2025-06-05 19:25:43]          • wiecej 1.5 @ 1.55
+[2025-06-05 19:25:43]          • mniej 2.5 @ 1.4
+[2025-06-05 19:25:43]          • wiecej 2.5 @ 2.65
+[2025-06-05 19:25:43]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-05 19:25:43]          • Tak @ 2.21
+[2025-06-05 19:25:43]          • Nie @ 1.55
+[2025-06-05 19:25:43]     - MECZ/LICZBA GOLI → 18 selekcji:
+[2025-06-05 19:25:43]          • San Telmo/- 1.5 @ 6.8
+[2025-06-05 19:25:43]          • 0/- 1.5 @ 5.6
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 1.5 @ 5.0
+[2025-06-05 19:25:43]          • San Telmo/+ 1.5 @ 4.9
+[2025-06-05 19:25:43]          • 0/+ 1.5 @ 4.4
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 1.5 @ 2.95
+[2025-06-05 19:25:43]          • San Telmo/- 2.5 @ 4.8
+[2025-06-05 19:25:43]          • 0/- 2.5 @ 2.9
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 2.5 @ 3.3
+[2025-06-05 19:25:43]          • San Telmo/+ 2.5 @ 7.0
+[2025-06-05 19:25:43]          • 0/+ 2.5 @ 19.0
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 2.5 @ 4.2
+[2025-06-05 19:25:43]          • San Telmo/- 3.5 @ 3.35
+[2025-06-05 19:25:43]          • 0/- 3.5 @ 2.85
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 3.5 @ 2.3
+[2025-06-05 19:25:43]          • San Telmo/+ 3.5 @ 19.0
+[2025-06-05 19:25:43]          • 0/+ 3.5 @ 18.0
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 3.5 @ 9.8
+[2025-06-05 19:25:43]     - HANDICAP → 2 selekcji:
+[2025-06-05 19:25:43]          • San Telmo +0.5 @ 1.57
+[2025-06-05 19:25:43]          • Gimnasia Mendoza -0.5 @ 2.08
+[2025-06-05 19:25:43]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-05 19:25:43]          • Tak @ 5.0
+[2025-06-05 19:25:43]          • Nie @ 1.09
+[2025-06-05 19:25:43]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-05 19:25:43]          • San Telmo/Tak @ 8.2
+[2025-06-05 19:25:43]          • 0/Tak @ 4.3
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/Tak @ 5.6
+[2025-06-05 19:25:43]          • San Telmo/Nie @ 4.3
+[2025-06-05 19:25:43]          • 0/Nie @ 5.4
+[2025-06-05 19:25:43]          • Gimnasia Mendoza/Nie @ 2.8

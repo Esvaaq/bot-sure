@@ -1,0 +1,17 @@
+discord:
+  token: "token"
+  channels:
+    free: 1091122532565909565
+    premium:
+      all: 234567890123456789
+      groups:
+        superbet_fortuna_sts: 345678901234567890
+
+thresholds:
+  free_max: 5
+  premium_min: 10
+
+scraping:
+  interval: 300
+  proxies: []
+  user_agents: []
