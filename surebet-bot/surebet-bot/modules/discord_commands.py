@@ -101,8 +101,10 @@ def setup_commands(bot, config):
     @bot.command(name='start')
     @commands.has_permissions(administrator=True)
     async def start_scraper(ctx):
+        print("[COMMAND] Odebrano !start – wywołuję start_loop(bot)")
         start_loop(bot)
         await ctx.send("Pętla scrapowania została uruchomiona.")
+
 
     @bot.command(name='stop')
     @commands.has_permissions(administrator=True)

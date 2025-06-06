@@ -4,7 +4,7 @@ from datetime import datetime
 
 # 🔧 Ustawienia:
 minimal_profit = 0.0   # zwróć też zerowe sąsiedztwo (break-even), >0 wyklucza dokładnie 0%
-force_show_all = True # pomijamy lamaki, rynki z !=2 selekcjami i low‐profit
+force_show_all = False # pomijamy lamaki, rynki z !=2 selekcjami i low‐profit
 
 def load_csv(path: str):
     data = {}
