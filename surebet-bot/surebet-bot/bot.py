@@ -1,3 +1,5 @@
+# bot.py
+
 import discord
 from discord.ext import commands
 from modules.config_manager import ConfigManager
@@ -18,7 +20,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 @bot.event
 async def on_ready():
     print(f'Bot zalogowany jako: {bot.user} (ID: {bot.user.id})')
-    # nie startujemy tu automatycznie main_loop
+    # pętla z main_loop uruchamiasz dopiero komendą !start
 
 # Rejestracja wszystkich komend z modułu
 setup_commands(bot, config)

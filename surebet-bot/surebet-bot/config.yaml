@@ -1,5 +1,5 @@
 discord:
-  token: "token"
+  token: ""
   channels:
     free: 1091122532565909565
     premium:
@@ -7,11 +7,21 @@ discord:
       groups:
         superbet_fortuna_sts: 345678901234567890
 
-thresholds:
-  free_max: 5
-  premium_min: 10
-
 scraping:
   interval: 300
   proxies: []
   user_agents: []
+                 
+paths:
+  sts_csv: "sts_data.csv"
+  fortuna_csv: "fortuna_data.csv"
+
+thresholds:
+  free_max: 5.0                    # jeśli profit ≤ 5%, wyślij do kanału Free
+  premium_min: 10.0                # jeśli profit ≥ 10%, wyślij do kanału Premium ALL
+
+scraping:
+  interval: 60                     # co ile sekund sprawdzać pliki CSV
+  paths:
+    sts_csv: "sts_data.csv"
+    fortuna_csv: "fortuna_data.csv"
