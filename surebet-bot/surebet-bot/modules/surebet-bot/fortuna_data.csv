@@ -1,0 +1,665 @@
+match_id,match_name,sport,competition,datetime,market_name,outcome,odds,bookmaker
+TEST0001,DRUŻYNA X - DRUŻYNA Y,Test Sport,Test Liga,2025-06-05T15:05:32,TEST RYNEK,TAK,1.23,Fortuna
+TEST0001,DRUŻYNA X - DRUŻYNA Y,Test Sport,Test Liga,2025-06-05T15:05:32,TEST RYNEK,NIE,4.56,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Bragantino SP,1.46,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Bahia BA,2.5,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.93,Fortuna
+BRBA13060000,Bragantino SP - Bahia BA,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.75,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Vitoria BA,2.15,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,SPOTKANIE BEZ REMISU,Cruzeiro EC MG,1.63,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.03,Fortuna
+VICR13060000,Vitoria BA - Cruzeiro EC MG,Piłka nożna,1.Brazylia,2025-06-13T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.67,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Helsingor,1.09,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Nykobing,5.6,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.0,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.73,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.6,Fortuna
+HENY06061900,Helsingor - Nykobing,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.16,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Fremad Amager,1.39,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,SPOTKANIE BEZ REMISU,Naestved,2.65,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.8,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.92,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.3,Fortuna
+FRNA06061900,Fremad Amager - Naestved,Piłka nożna,3.Dania,2025-06-06T19:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.18,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,SPOTKANIE BEZ REMISU,Hiszpania,1.66,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,SPOTKANIE BEZ REMISU,Francja,2.25,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,1.66,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,2.18,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,4.0,Fortuna
+HIFR05062100,Hiszpania - Francja,Piłka nożna,Liga Narodów UEFA,2025-06-05T21:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,WYNIK MECZU - DWÓJTYP,10,1.13,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,WYNIK MECZU - DWÓJTYP,12,1.3,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,WYNIK MECZU - DWÓJTYP,02,1.83,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Defensores de Belgrano,1.57,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.62,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Almirante Brown,4.1,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,SPOTKANIE BEZ REMISU,Defensores de Belgrano,1.22,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,SPOTKANIE BEZ REMISU,Almirante Brown,3.65,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 0.5,4.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 0.5,1.13,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 1,3.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 1,1.22,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 1.5,2.06,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 1.5,1.65,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 2,1.55,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 2,2.25,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 2.5,1.33,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 2.5,2.95,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 3,1.12,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 3,5.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,mniej 3.5,1.09,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,LICZBA GOLI,wiecej 3.5,5.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Mniej 0.5,3.15,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Wiecej 0.5,1.3,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Mniej 1.5,1.5,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Wiecej 1.5,2.37,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Mniej 2.5,1.12,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO LICZBA GOLI,Wiecej 2.5,5.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Mniej 0.5,1.64,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Wiecej 0.5,2.09,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Mniej 1.5,1.08,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Wiecej 1.5,6.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Mniej 2.5,1.01,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN LICZBA GOLI,Wiecej 2.5,11.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.37,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/- 2.5,6.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/- 2.5,1.46,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/+ 2.5,3.65,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/+ 2.5,8.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/- 1.5,3.9,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/- 1.5,4.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/- 1.5,8.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/+ 1.5,2.33,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/+ 1.5,5.4,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/+ 1.5,10.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/- 2.5,2.44,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/- 2.5,2.85,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/- 2.5,6.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/+ 2.5,3.5,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/+ 2.5,29.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/+ 2.5,15.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/- 3.5,1.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/- 3.5,2.75,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/- 3.5,4.9,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Defensores de Belgrano/+ 3.5,8.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,0/+ 3.5,28.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/LICZBA GOLI,Almirante Brown/+ 3.5,50.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,HANDICAP,Defensores de Belgrano -0.5,1.66,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,HANDICAP,Almirante Brown +0.5,1.93,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA,Defensores de Belgrano,2.41,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA,Remis,1.84,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA,Almirante Brown,6.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA - DWÓJTYP,10,1.1,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA - DWÓJTYP,12,1.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA - DWÓJTYP,02,1.42,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Mniej 0.5,2.1,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Wiecej 0.5,1.63,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Mniej 1.5,1.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Wiecej 1.5,3.9,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Mniej 2.5,1.03,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA LICZBA GOLI,Wiecej 2.5,8.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.06,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,1/1,2.41,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,0/0,3.35,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,2/2,9.4,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,1/0,17.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,1/2,80.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,2/0,19.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,0/1,3.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,2/1,35.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/SPOTKANIE,0/2,9.4,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA DO ZERA,Tak,2.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA DO ZERA,Nie,1.57,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,1.48,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,2.42,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA DO ZERA,Tak,6.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA DO ZERA,Nie,1.08,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,3.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.29,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY,Tak,5.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY,Nie,1.12,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA OBIE POŁOWY,tak,11.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,ALMIRANTE BROWN WYGRA OBIE POŁOWY,nie,1.01,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Defensores de Belgrano/Tak,5.4,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,5.2,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Almirante Brown/Tak,16.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Defensores de Belgrano/Nie,2.01,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,4.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Almirante Brown/Nie,6.4,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Nie,7.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Tak,5.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Tak,50.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Nie,1.17,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,1-2,1.56,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,1-3,1.27,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,1-4,1.17,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,1-5,1.14,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,1-6,1.13,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,2-3,1.89,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,2-4,1.64,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,2-5,1.57,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,2-6,1.55,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,3-4,3.1,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,3-5,2.8,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,3-6,2.7,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,4-5,6.6,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,4-6,6.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,5-6,18.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,7+,25.0,Fortuna
+DEAL06062015,Defensores de Belgrano - Almirante Brown,Piłka nożna,2.Argentyna,2025-06-06T20:15:00,MULTIGOLE,Brak goli,4.7,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,WYNIK MECZU - DWÓJTYP,10,1.16,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,WYNIK MECZU - DWÓJTYP,12,1.31,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,WYNIK MECZU - DWÓJTYP,02,1.73,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Los Andes,1.66,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.61,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Alvarado,3.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,SPOTKANIE BEZ REMISU,Los Andes,1.29,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,SPOTKANIE BEZ REMISU,Alvarado,3.15,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 0.5,5.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 0.5,1.12,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 1,3.95,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 1,1.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 1.5,2.14,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 1.5,1.61,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 2,1.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 2,2.15,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 2.5,1.36,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 2.5,2.85,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 3,1.14,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 3,4.7,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,mniej 3.5,1.1,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LICZBA GOLI,wiecej 3.5,5.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Mniej 0.5,3.05,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Wiecej 0.5,1.31,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Mniej 1.5,1.47,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Wiecej 1.5,2.43,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Mniej 2.5,1.11,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES LICZBA GOLI,Wiecej 2.5,5.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Mniej 0.5,1.78,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Wiecej 0.5,1.89,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Mniej 1.5,1.11,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Wiecej 1.5,5.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Mniej 2.5,1.01,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO LICZBA GOLI,Wiecej 2.5,10.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.48,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.44,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/- 2.5,5.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/- 2.5,1.51,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/+ 2.5,3.3,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/+ 2.5,8.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/- 1.5,4.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/- 1.5,5.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/- 1.5,8.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/+ 1.5,2.46,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/+ 1.5,4.9,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/+ 1.5,7.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/- 2.5,2.65,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/- 2.5,2.85,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/- 2.5,6.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/+ 2.5,3.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/+ 2.5,24.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/+ 2.5,11.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/- 3.5,1.92,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/- 3.5,2.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/- 3.5,4.3,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Los Andes/+ 3.5,8.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,0/+ 3.5,23.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/LICZBA GOLI,Alvarado/+ 3.5,35.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,HANDICAP,Los Andes -0.5,1.76,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,HANDICAP,Alvarado +0.5,1.81,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA,Los Andes,2.55,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA,Remis,1.84,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA,Alvarado,5.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA - DWÓJTYP,10,1.13,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA - DWÓJTYP,12,1.7,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA - DWÓJTYP,02,1.38,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Mniej 0.5,2.12,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Wiecej 0.5,1.62,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Mniej 1.5,1.21,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Wiecej 1.5,3.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Mniej 2.5,1.03,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA LICZBA GOLI,Wiecej 2.5,8.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.07,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,1/1,2.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,0/0,3.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,2/2,7.8,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,1/0,16.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,1/2,70.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,2/0,17.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,0/1,3.85,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,2/1,35.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/SPOTKANIE,0/2,8.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA DO ZERA,Tak,2.41,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA DO ZERA,Nie,1.48,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,1.53,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,2.29,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA DO ZERA,Tak,5.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA DO ZERA,Nie,1.1,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,2.85,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.36,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA OBIE POŁOWY,Tak,5.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,LOS ANDES WYGRA OBIE POŁOWY,Nie,1.11,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA OBIE POŁOWY,tak,10.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,ALVARADO WYGRA OBIE POŁOWY,nie,1.01,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Los Andes/Tak,5.4,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,4.9,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Alvarado/Tak,13.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Los Andes/Nie,2.21,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,5.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Alvarado/Nie,5.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Tak,5.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Nie,7.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Tak,40.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Nie,1.21,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,1-2,1.58,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,1-3,1.27,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,1-4,1.17,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,1-5,1.13,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,1-6,1.12,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,2-3,1.86,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,2-4,1.61,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,2-5,1.53,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,2-6,1.51,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,3-4,2.95,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,3-5,2.65,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,3-6,2.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,4-5,6.2,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,4-6,5.6,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,5-6,16.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,7+,25.0,Fortuna
+LOAL07060000,Los Andes - Alvarado,Piłka nożna,2.Argentyna,2025-06-07T00:00:00,MULTIGOLE,Brak goli,4.9,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,WYNIK MECZU - DWÓJTYP,10,1.22,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,WYNIK MECZU - DWÓJTYP,12,1.35,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,WYNIK MECZU - DWÓJTYP,02,1.57,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),CA Estudiantes,1.86,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.56,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Temperley,3.1,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,SPOTKANIE BEZ REMISU,CA Estudiantes,1.43,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,SPOTKANIE BEZ REMISU,Temperley,2.55,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 0.5,4.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 0.5,1.13,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 1,3.75,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 1,1.22,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 1.5,2.08,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 1.5,1.64,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 2,1.56,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 2,2.24,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 2.5,1.33,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 2.5,2.95,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 3,1.12,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 3,5.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,mniej 3.5,1.09,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,LICZBA GOLI,wiecej 3.5,5.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Mniej 0.5,2.7,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Wiecej 0.5,1.38,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Mniej 1.5,1.37,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Wiecej 1.5,2.75,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Mniej 2.5,1.08,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES LICZBA GOLI,Wiecej 2.5,6.2,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Mniej 0.5,1.92,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Wiecej 0.5,1.76,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Mniej 1.5,1.15,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Wiecej 1.5,4.5,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Mniej 2.5,1.01,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY LICZBA GOLI,Wiecej 2.5,9.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.41,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.46,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/- 2.5,5.4,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/- 2.5,1.5,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/+ 2.5,3.3,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/+ 2.5,11.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/- 1.5,4.5,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/- 1.5,4.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/- 1.5,6.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/+ 1.5,2.9,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/+ 1.5,4.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/+ 1.5,6.2,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/- 2.5,2.95,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/- 2.5,2.7,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/- 2.5,5.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/+ 2.5,4.3,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/+ 2.5,22.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/+ 2.5,8.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/- 3.5,2.14,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/- 3.5,2.65,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/- 3.5,3.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,CA Estudiantes/+ 3.5,10.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,0/+ 3.5,22.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/LICZBA GOLI,Temperley/+ 3.5,27.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,HANDICAP,CA Estudiantes -0.5,1.98,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,HANDICAP,Temperley +0.5,1.62,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA,CA Estudiantes,2.9,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA,Remis,1.78,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA,Temperley,4.9,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA - DWÓJTYP,10,1.15,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA - DWÓJTYP,12,1.76,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA - DWÓJTYP,02,1.31,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Mniej 0.5,2.05,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Wiecej 0.5,1.66,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Mniej 1.5,1.19,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Wiecej 1.5,3.95,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Mniej 2.5,1.02,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA LICZBA GOLI,Wiecej 2.5,8.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.4,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.07,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,1/1,3.1,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,0/0,3.25,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,2/2,6.4,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,1/0,15.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,1/2,60.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,2/0,16.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,0/1,4.2,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,2/1,35.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/SPOTKANIE,0/2,6.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA DO ZERA,Tak,2.75,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA DO ZERA,Nie,1.38,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,1.67,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,2.03,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA DO ZERA,Tak,4.7,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA DO ZERA,Nie,1.14,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,2.49,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.45,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA OBIE POŁOWY,Tak,6.4,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,CA ESTUDIANTES WYGRA OBIE POŁOWY,Nie,1.07,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA OBIE POŁOWY,tak,9.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,TEMPERLEY WYGRA OBIE POŁOWY,nie,1.01,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,CA Estudiantes/Tak,6.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,4.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Temperley/Tak,10.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,CA Estudiantes/Nie,2.55,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,4.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Temperley/Nie,4.7,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Nie,7.2,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Tak,5.2,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Tak,40.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Nie,1.21,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,1-2,1.57,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,1-3,1.27,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,1-4,1.17,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,1-5,1.14,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,1-6,1.13,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,2-3,1.88,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,2-4,1.64,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,2-5,1.56,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,2-6,1.54,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,3-4,3.1,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,3-5,2.8,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,3-6,2.7,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,4-5,6.6,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,4-6,6.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,5-6,18.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,7+,25.0,Fortuna
+CATE07060210,CA Estudiantes - Temperley,Piłka nożna,2.Argentyna,2025-06-07T02:10:00,MULTIGOLE,Brak goli,4.7,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,WYNIK MECZU - DWÓJTYP,10,1.32,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,WYNIK MECZU - DWÓJTYP,12,1.42,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,WYNIK MECZU - DWÓJTYP,02,1.36,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Talleres (R.E),2.37,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.47,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),CA Mitre de Santiago,2.5,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,SPOTKANIE BEZ REMISU,Talleres (R.E),1.77,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,SPOTKANIE BEZ REMISU,CA Mitre de Santiago,1.9,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 0.5,4.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 0.5,1.19,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 1,3.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 1,1.32,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 1.5,1.82,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 1.5,1.85,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 2,1.37,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 2,2.75,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 2.5,1.23,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 2.5,3.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 3,1.07,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 3,6.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,mniej 3.5,1.06,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,LICZBA GOLI,wiecej 3.5,7.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Mniej 0.5,2.11,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Wiecej 0.5,1.62,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Mniej 1.5,1.2,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Wiecej 1.5,3.9,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Mniej 2.5,1.03,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) LICZBA GOLI,Wiecej 2.5,8.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Mniej 0.5,2.03,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Wiecej 0.5,1.67,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Mniej 1.5,1.18,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Wiecej 1.5,4.1,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Mniej 2.5,1.02,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO LICZBA GOLI,Wiecej 2.5,9.2,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.65,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.38,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/- 2.5,5.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/- 2.5,1.38,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/+ 2.5,3.85,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/+ 2.5,15.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/- 1.5,4.9,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/- 1.5,3.9,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/- 1.5,5.2,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/+ 1.5,4.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/+ 1.5,4.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/+ 1.5,4.9,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/- 2.5,3.45,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/- 2.5,2.36,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/- 2.5,3.7,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/+ 2.5,6.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/+ 2.5,27.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/+ 2.5,7.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/- 3.5,2.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/- 3.5,2.32,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/- 3.5,2.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,Talleres (R.E)/+ 3.5,21.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,0/+ 3.5,26.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/LICZBA GOLI,CA Mitre de Santiago/+ 3.5,24.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,HANDICAP,Talleres (R.E) -0.5,2.55,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,HANDICAP,CA Mitre de Santiago +0.5,1.37,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA,Talleres (R.E),3.85,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA,Remis,1.65,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA,CA Mitre de Santiago,4.1,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA - DWÓJTYP,10,1.19,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA - DWÓJTYP,12,1.89,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA - DWÓJTYP,02,1.21,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Mniej 0.5,1.85,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Wiecej 0.5,1.82,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Mniej 1.5,1.14,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Wiecej 1.5,4.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Mniej 2.5,1.01,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA LICZBA GOLI,Wiecej 2.5,9.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.05,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,1/1,4.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,0/0,2.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,2/2,4.7,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,1/0,16.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,1/2,50.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,2/0,16.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,0/1,5.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,2/1,50.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/SPOTKANIE,0/2,5.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA DO ZERA,Tak,3.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA DO ZERA,Nie,1.26,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,2.06,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.65,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA DO ZERA,Tak,3.65,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA DO ZERA,Nie,1.23,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,2.17,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.59,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA OBIE POŁOWY,Tak,8.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,TALLERES (R.E) WYGRA OBIE POŁOWY,Nie,1.03,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA OBIE POŁOWY,tak,8.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,CA MITRE DE SANTIAGO WYGRA OBIE POŁOWY,nie,1.02,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Talleres (R.E)/Tak,9.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,4.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,CA Mitre de Santiago/Tak,9.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Talleres (R.E)/Nie,3.2,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,3.85,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,CA Mitre de Santiago/Nie,3.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Tak,5.6,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Nie,8.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Tak,50.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Nie,1.17,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,1-2,1.53,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,1-3,1.29,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,1-4,1.21,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,1-5,1.19,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,1-6,1.18,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,2-3,2.02,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,2-4,1.8,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,2-5,1.74,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,2-6,1.72,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,3-4,3.75,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,3-5,3.45,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,3-6,3.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,4-5,9.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,4-6,8.4,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,5-6,25.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,7+,25.0,Fortuna
+TACA07061840,Talleres (R.E) - CA Mitre de Santiago,Piłka nożna,2.Argentyna,2025-06-07T18:40:00,MULTIGOLE,Brak goli,3.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,WYNIK MECZU - DWÓJTYP,10,1.22,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,WYNIK MECZU - DWÓJTYP,12,1.35,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,WYNIK MECZU - DWÓJTYP,02,1.56,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Deportivo Moron,1.87,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.57,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Colon de Santa Fe,3.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,SPOTKANIE BEZ REMISU,Deportivo Moron,1.44,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,SPOTKANIE BEZ REMISU,Colon de Santa Fe,2.5,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,mniej 0.5,4.9,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,wiecej 0.5,1.13,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,mniej 1.5,2.14,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,wiecej 1.5,1.61,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,mniej 2.5,1.35,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,LICZBA GOLI,wiecej 2.5,2.85,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON LICZBA GOLI,Mniej 1.5,1.39,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON LICZBA GOLI,Wiecej 1.5,2.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE LICZBA GOLI,Mniej 0.5,1.98,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE LICZBA GOLI,Wiecej 0.5,1.71,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.33,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.49,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/- 2.5,5.2,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/- 2.5,1.54,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Tak/+ 2.5,3.15,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI,Nie/+ 2.5,11.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/- 1.5,4.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/- 1.5,5.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/- 1.5,7.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/+ 1.5,2.85,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/+ 1.5,4.5,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/+ 1.5,5.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/- 2.5,3.05,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/- 2.5,2.75,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/- 2.5,5.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/+ 2.5,4.2,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/+ 2.5,21.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/+ 2.5,8.4,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/- 3.5,2.18,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/- 3.5,2.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/- 3.5,3.6,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Deportivo Moron/+ 3.5,10.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,0/+ 3.5,20.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/LICZBA GOLI,Colon de Santa Fe/+ 3.5,25.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,HANDICAP,Deportivo Moron -0.5,2.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,HANDICAP,Colon de Santa Fe +0.5,1.61,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA,Deportivo Moron,2.9,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA,Remis,1.81,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA,Colon de Santa Fe,4.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA - DWÓJTYP,10,1.16,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA - DWÓJTYP,12,1.74,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA - DWÓJTYP,02,1.31,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Mniej 0.5,2.09,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Wiecej 0.5,1.63,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Mniej 1.5,1.21,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Wiecej 1.5,3.85,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Mniej 2.5,1.03,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA LICZBA GOLI,Wiecej 2.5,8.6,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.2,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.07,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,1/1,3.1,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,0/0,3.3,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,2/2,6.2,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,1/0,14.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,1/2,50.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,2/0,15.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,0/1,4.3,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,2/1,35.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/SPOTKANIE,0/2,6.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA DO ZERA,Tak,2.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA DO ZERA,Nie,1.36,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,1.67,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,2.03,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA DO ZERA,Tak,4.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA DO ZERA,Nie,1.14,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,tak,2.44,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ,nie,1.47,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA OBIE POŁOWY,Tak,6.4,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,DEPORTIVO MORON WYGRA OBIE POŁOWY,Nie,1.07,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA OBIE POŁOWY,tak,9.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,COLON DE SANTA FE WYGRA OBIE POŁOWY,nie,1.01,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Deportivo Moron/Tak,5.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,4.4,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Colon de Santa Fe/Tak,9.8,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Deportivo Moron/Nie,2.6,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,5.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Colon de Santa Fe/Nie,4.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Nie,7.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Tak,5.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Tak/Tak,40.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA,Nie/Nie,1.23,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,1-2,1.58,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,1-3,1.28,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,1-4,1.17,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,1-5,1.14,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,1-6,1.13,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,2-3,1.86,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,2-4,1.61,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,2-5,1.53,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,2-6,1.51,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,3-4,3.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,3-5,2.7,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,3-6,2.6,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,4-5,6.2,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,4-6,5.6,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,5-6,16.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,7+,25.0,Fortuna
+DECO08060010,Deportivo Moron - Colon de Santa Fe,Piłka nożna,2.Argentyna,2025-06-08T00:10:00,MULTIGOLE,Brak goli,4.8,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,WYNIK MECZU - DWÓJTYP,10,1.51,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,WYNIK MECZU - DWÓJTYP,12,1.32,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,WYNIK MECZU - DWÓJTYP,02,1.25,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),San Telmo,2.8,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),0-0,1.6,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,PODWÓJNA SZANSA (1.POŁ. LUB MECZ),Gimnasia Mendoza,1.95,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,mniej 0.5,5.4,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,wiecej 0.5,1.11,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,mniej 1.5,2.25,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,wiecej 1.5,1.55,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,mniej 2.5,1.4,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,LICZBA GOLI,wiecej 2.5,2.65,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Tak,2.21,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,OBIE DRUŻYNY STRZELĄ GOLA,Nie,1.55,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/- 1.5,6.8,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/- 1.5,5.6,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/- 1.5,5.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/+ 1.5,4.9,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/+ 1.5,4.4,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/+ 1.5,2.95,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/- 2.5,4.8,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/- 2.5,2.9,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/- 2.5,3.3,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/+ 2.5,7.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/+ 2.5,19.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/+ 2.5,4.2,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/- 3.5,3.35,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/- 3.5,2.85,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/- 3.5,2.3,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,San Telmo/+ 3.5,19.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,0/+ 3.5,18.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/LICZBA GOLI,Gimnasia Mendoza/+ 3.5,9.8,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,HANDICAP,San Telmo +0.5,1.57,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,HANDICAP,Gimnasia Mendoza -0.5,2.08,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Tak,5.0,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE,Nie,1.09,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,San Telmo/Tak,8.2,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Tak,4.3,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Gimnasia Mendoza/Tak,5.6,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,San Telmo/Nie,4.3,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,0/Nie,5.4,Fortuna
+SAGI08062000,San Telmo - Gimnasia Mendoza,Piłka nożna,2.Argentyna,2025-06-08T20:00:00,MECZ/OBIE DRUŻYNY STRZELĄ GOLA,Gimnasia Mendoza/Nie,2.8,Fortuna
