@@ -22,17 +22,17 @@ def setup_commands(bot, config):
             "`!setinterval <seconds>` — zmień interwał scrapowania\n"
             "`!post <surebet_data>` — ręcznie wyślij surebet na odpowiedni kanał\n"
             "`!start` — włącz pętlę scrapowania\n"
-            "`!stop` — wyłącz pętlę scrapowania\n"
+            "`!stop` — wyłącz pętlę scrapowania (scrapery zostaną zabite)\n"
         )
         await ctx.send(help_text)
 
     @bot.command(name='showconfig')
     @commands.has_permissions(administrator=True)
     async def show_config(ctx):
-        free    = config.get('thresholds', 'free_max')
-        premium = config.get('thresholds', 'premium_min')
-        free_ch = config.get('discord', 'channels', 'free')
-        prem_ch = config.get('discord', 'channels', 'premium', 'all')
+        free     = config.get('thresholds', 'free_max')
+        premium  = config.get('thresholds', 'premium_min')
+        free_ch  = config.get('discord', 'channels', 'free')
+        prem_ch  = config.get('discord', 'channels', 'premium', 'all')
         interval = config.get('scraping', 'interval')
         msg = (
             f"**Aktualna konfiguracja:**\n"
@@ -73,9 +73,6 @@ def setup_commands(bot, config):
     @bot.command(name='post')
     @commands.has_permissions(administrator=True)
     async def post_surebet(ctx, *, surebet_data: str):
-        """
-        !post Mecz A vs B | Etoto_U90.5@1.85 Etoto_O90.5@1.80 | value:5.0%
-        """
         try:
             value = float(surebet_data.rstrip('%').split('value:')[-1])
         except:
@@ -101,13 +98,17 @@ def setup_commands(bot, config):
     @bot.command(name='start')
     @commands.has_permissions(administrator=True)
     async def start_scraper(ctx):
-        print("[COMMAND] Odebrano !start – wywołuję start_loop(bot)")
-        start_loop(bot)
-        await ctx.send("Pętla scrapowania została uruchomiona.")
-
+        started = start_loop(bot)
+        if started:
+            await ctx.send("✅ Pętla scrapowania została uruchomiona.")
+        else:
+            await ctx.send("⚠️ Pętla już działa.")
 
     @bot.command(name='stop')
     @commands.has_permissions(administrator=True)
     async def stop_scraper(ctx):
-        stop_loop()
-        await ctx.send("Pętla scrapowania została zatrzymana.")
+        stopped = await stop_loop()
+        if stopped:
+            await ctx.send("🛑 Pętla scrapowania została zatrzymana. Wszystkie scrapery zakończone.")
+        else:
+            await ctx.send("⚠️ Pętla nie była uruchomiona.")

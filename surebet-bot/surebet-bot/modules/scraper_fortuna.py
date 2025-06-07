@@ -14,11 +14,16 @@ from modules.config_manager import ConfigManager
 from modules.proxy_manager import ProxyManager
 
 # ———————————— 
+# DODANE IMPORTY do obliczania surebetów i wysyłki Discord
+# ————————————
+from modules.arbitrage import load_csv, compute_surebets, format_for_discord
+
+# ———————————— 
 # Stałe konfiguracyjne 
 # ————————————
 SCAN_LIMIT_BEFORE_PAUSE = 12
 PAUSE_TIME_RANGE       = (600, 900)   # 10–15 minut
-SLEEP_BETWEEN_REQUESTS = (12, 25)     # 12–25 s między meczami
+SLEEP_BETWEEN_REQUESTS = (20, 40)     # 12–25 s między meczami
 MATCH_SKIP_TIME        = 2700         # 45 minut
 
 BASE_URL       = "https://www.efortuna.pl"
@@ -27,15 +32,23 @@ OUT_CSV_FILE   = "fortuna_data.csv"
 
 LEAGUES_TO_SCAN = [
     #"https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/1-brazylia",
-    "https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna",
+    #"https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna",
     #"https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/3-dania",
+    "https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna",
 ]
-
-
 
 config         = ConfigManager("config.yaml")
 proxy_manager  = ProxyManager(config)
 scanned_matches = {}
+
+# ———————————— 
+# Pobranie z config.yaml progów i ID kanałów Discord
+# ————————————
+FREE_MAX      = float(config.get('thresholds', 'free_max'))
+PREMIUM_MIN   = float(config.get('thresholds', 'premium_min'))
+FREE_CH_ID    = int(config.get('discord', 'channels', 'free'))
+PREMIUM_CH_ID = int(config.get('discord', 'channels', 'premium', 'all'))
+
 
 # ———————————— 
 # Funkcja logująca 
@@ -87,7 +100,7 @@ def parse_match_datetime(date_txt: str, time_txt: str):
 
 # ———————————— 
 # Generowanie match_id 
-# ————————————
+# ———————————— 
 def make_match_id(match_name: str, dt: datetime) -> str:
     try:
         home, away = [x.strip() for x in match_name.split("-", 1)]
@@ -104,7 +117,7 @@ def make_match_id(match_name: str, dt: datetime) -> str:
 
 # ———————————— 
 # Pobranie i parsowanie strony przez requests 
-# ————————————
+# ———————————— 
 def fetch_and_parse(url: str):
     kwargs = proxy_manager.get_request_kwargs()
     log(f"Pobieram URL: {url}")
@@ -121,7 +134,7 @@ def fetch_and_parse(url: str):
 
 # ———————————— 
 # Pobranie linków do meczów z listy ligi 
-# ————————————
+# ———————————— 
 def get_match_links(league_url: str):
     soup = fetch_and_parse(league_url)
     if not soup:
@@ -137,7 +150,7 @@ def get_match_links(league_url: str):
 
 # ———————————— 
 # Parsowanie rynków na stronie meczu przez Playwright 
-# ————————————
+# ———————————— 
 def fetch_markets_with_playwright(match_url: str):
     markets = []
     try:
@@ -197,7 +210,7 @@ def fetch_markets_with_playwright(match_url: str):
 
 # ———————————— 
 # Grupowanie surowych wpisów w strukturę rynków 
-# ————————————
+# ———————————— 
 def group_markets(markets_raw):
     grouped = {}
     for entry in markets_raw:
@@ -231,7 +244,7 @@ def group_markets(markets_raw):
 
 # ———————————— 
 # Parsowanie pojedynczej strony meczu 
-# ————————————
+# ———————————— 
 def parse_match_page(match_url: str):
     soup = fetch_and_parse(match_url)
     if not soup:
@@ -285,7 +298,7 @@ def parse_match_page(match_url: str):
 # ———————————— 
 # Dopisywanie jednego meczu do CSV, usuwanie wierszy starszych niż 1 dzień 
 # oraz podmiana wpisów o tym samym match_id 
-# ————————————
+# ———————————— 
 def append_match_to_csv(match: dict, filename: str):
     """
     1) Wczytuje wszystkie wiersze (jeśli plik istnieje).
@@ -377,10 +390,17 @@ def append_match_to_csv(match: dict, filename: str):
     except Exception as e:
         log(f"[✖] Błąd zapisu nowych wierszy do CSV: {e}")
 
+
+
 # ———————————— 
-# Główna funkcja scrapująca i zapisująca plik CSV 
-# ————————————
-def main_scrape():
+# Główna funkcja scrapująca:
+#   - w trybie solo: scrapuje i zapisuje CSV
+#   - gdy podano `bot`: dodatkowo po każdym meczu wczytuje oba CSV i wysyła surebety na Discord
+# ———————————— 
+def main_scrape(bot=None):
+    scan_count = 0
+    log("START BOTA FORTUNA")
+
     for league_url in LEAGUES_TO_SCAN:
         log(f"INFO: Pobieram listę meczów z ligi: {league_url}")
         match_links = get_match_links(league_url)
@@ -396,10 +416,10 @@ def main_scrape():
                 time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
                 continue
 
-            # Filtrujemy i podmieniamy istniejace wiersze, potem dopisujemy nowy mecz
+            # 1) Dopisanie meczu do CSV
             append_match_to_csv(details, OUT_CSV_FILE)
 
-            # Logowanie szczegółów
+            # Logowanie szczegółów (details['datetime'] to string w ISO)
             dt_str = details['datetime'] or "data nieznana"
             log(f"INFO: [{details['match_id']}] {details['match_name']} | {details['sport']} | {details['competition']} | {dt_str}")
             for m in details['markets']:
@@ -407,26 +427,60 @@ def main_scrape():
                 for sel in m['selections']:
                     log(f"         • {sel['outcome']} @ {sel['odds']}")
 
-            scanned_matches[details['match_id']] = datetime.now()
+            # 2) Gdy podano obiekt bot, natychmiast wczytaj oba CSV i policz surebety
+            if bot is not None:
+                try:
+                    sts_data     = load_csv(config.get('scraping', 'paths', 'sts_csv'))
+                    fortuna_data = load_csv(OUT_CSV_FILE)
+                    surebets     = compute_surebets(sts_data, fortuna_data)
+                except Exception as e:
+                    log(f"[FORTUNA-SCRAPER] Błąd load_csv/compute_surebets: {e}")
+                    surebets = []
 
-            # Pauza po określonej liczbie skanów
-            if len(scanned_matches) >= SCAN_LIMIT_BEFORE_PAUSE:
+                for sb in surebets:
+                    profit = sb.get("profit", 0.0)
+                    if profit <= FREE_MAX:
+                        channel_id = FREE_CH_ID
+                        tag = "[FREE]"
+                    elif profit >= PREMIUM_MIN:
+                        channel_id = PREMIUM_CH_ID
+                        tag = "[PREMIUM]"
+                    else:
+                        continue
+
+                    content = f"{tag} {format_for_discord(sb)}"
+                    channel = bot.get_channel(channel_id)
+                    if channel:
+                        try:
+                            import asyncio
+                            fut = asyncio.run_coroutine_threadsafe(channel.send(content), bot.loop)
+                            fut.result(timeout=10)
+                            log(f"[FORTUNA-SCRAPER] Wysłano surebet na kanał {channel_id}")
+                        except Exception as ex:
+                            log(f"[FORTUNA-SCRAPER] Błąd wysyłania wiadomości: {ex}")
+                    else:
+                        log(f"[FORTUNA-SCRAPER] Nie znalazłem kanału o ID {channel_id}")
+
+            # 3) Pauza i zarządzanie limitami
+            scan_count += 1
+            if scan_count >= SCAN_LIMIT_BEFORE_PAUSE:
                 pause = random.randint(*PAUSE_TIME_RANGE)
                 log(f"PAUSE: Pauza na {pause}s po {SCAN_LIMIT_BEFORE_PAUSE} skanach")
                 time.sleep(pause)
-                scanned_matches.clear()
+                scan_count = 0
 
             time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
 
-        # Usuwanie starych z kluczy (żeby można było je ponownie pobrać po MATCH_SKIP_TIME)
+        # Usuwanie starych z kluczy (MATCH_SKIP_TIME)
         now = datetime.now()
         for key, ts in list(scanned_matches.items()):
             if (now - ts).seconds > MATCH_SKIP_TIME:
                 del scanned_matches[key]
 
+
 # ———————————— 
-# Punkt wejścia 
-# ————————————
+# Punkt wejścia w trybie solo 
+# ———————————— 
 if __name__ == '__main__':
-    log("START BOTA FORTUNA (jednorazowe skanowanie, czyszczenie starszych niż 1 dzień, podmiana po identyfikatorze, zapisywanie po każdym meczu)")
-    main_scrape()
+    log("URUCHAMIANIE FORTUNA SCRAPERA W TRYBIE SOLO (bez Discorda)")
+    main_scrape(bot=None)

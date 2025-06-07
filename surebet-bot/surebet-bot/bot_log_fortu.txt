@@ -1,1023 +1,1095 @@
-[2025-06-05 18:41:05]          • Mniej 1.5 @ 1.2
-[2025-06-05 18:41:05]          • Wiecej 1.5 @ 3.9
-[2025-06-05 18:41:05]          • Mniej 2.5 @ 1.03
-[2025-06-05 18:41:05]          • Wiecej 2.5 @ 8.6
-[2025-06-05 18:41:05]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 18:41:05]          • Tak @ 5.8
-[2025-06-05 18:41:05]          • Nie @ 1.06
-[2025-06-05 18:41:05]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 18:41:05]          • 1/1 @ 2.41
-[2025-06-05 18:41:05]          • 0/0 @ 3.35
-[2025-06-05 18:41:05]          • 2/2 @ 9.4
-[2025-06-05 18:41:05]          • 1/0 @ 17.0
-[2025-06-05 18:41:05]          • 1/2 @ 80.0
-[2025-06-05 18:41:05]          • 2/0 @ 19.0
-[2025-06-05 18:41:05]          • 0/1 @ 3.7
-[2025-06-05 18:41:05]          • 2/1 @ 35.0
-[2025-06-05 18:41:05]          • 0/2 @ 9.4
-[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 18:41:05]          • Tak @ 2.2
-[2025-06-05 18:41:05]          • Nie @ 1.57
-[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 18:41:05]          • tak @ 1.48
-[2025-06-05 18:41:05]          • nie @ 2.42
-[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 18:41:05]          • Tak @ 6.0
-[2025-06-05 18:41:05]          • Nie @ 1.08
-[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 18:41:05]          • tak @ 3.2
-[2025-06-05 18:41:05]          • nie @ 1.29
-[2025-06-05 18:41:05]     - DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 18:41:05]          • Tak @ 5.0
-[2025-06-05 18:41:05]          • Nie @ 1.12
-[2025-06-05 18:41:05]     - ALMIRANTE BROWN WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 18:41:05]          • tak @ 11.0
-[2025-06-05 18:41:05]          • nie @ 1.01
-[2025-06-05 18:41:05]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 18:41:05]          • Defensores de Belgrano/Tak @ 5.4
-[2025-06-05 18:41:05]          • 0/Tak @ 5.2
-[2025-06-05 18:41:05]          • Almirante Brown/Tak @ 16.0
-[2025-06-05 18:41:05]          • Defensores de Belgrano/Nie @ 2.01
-[2025-06-05 18:41:05]          • 0/Nie @ 4.7
-[2025-06-05 18:41:05]          • Almirante Brown/Nie @ 6.4
-[2025-06-05 18:41:05]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 18:41:05]          • Tak/Nie @ 7.6
-[2025-06-05 18:41:05]          • Nie/Tak @ 5.6
-[2025-06-05 18:41:05]          • Tak/Tak @ 50.0
-[2025-06-05 18:41:05]          • Nie/Nie @ 1.17
-[2025-06-05 18:41:05]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 18:41:05]          • 1-2 @ 1.56
-[2025-06-05 18:41:05]          • 1-3 @ 1.27
-[2025-06-05 18:41:05]          • 1-4 @ 1.17
-[2025-06-05 18:41:05]          • 1-5 @ 1.14
-[2025-06-05 18:41:05]          • 1-6 @ 1.13
-[2025-06-05 18:41:05]          • 2-3 @ 1.89
-[2025-06-05 18:41:05]          • 2-4 @ 1.64
-[2025-06-05 18:41:05]          • 2-5 @ 1.57
-[2025-06-05 18:41:05]          • 2-6 @ 1.55
-[2025-06-05 18:41:05]          • 3-4 @ 3.1
-[2025-06-05 18:41:05]          • 3-5 @ 2.8
-[2025-06-05 18:41:05]          • 3-6 @ 2.7
-[2025-06-05 18:41:05]          • 4-5 @ 6.6
-[2025-06-05 18:41:05]          • 4-6 @ 6.0
-[2025-06-05 18:41:05]          • 5-6 @ 18.0
-[2025-06-05 18:41:05]          • 7+ @ 25.0
-[2025-06-05 18:41:05]          • Brak goli @ 4.7
-[2025-06-05 19:23:15] START BOTA FORTUNA (jednorazowe skanowanie, czyszczenie starszych niż 1 dzień, podmiana po identyfikatorze, zapisywanie po każdym meczu)
-[2025-06-05 19:23:15] INFO: Pobieram listę meczów z ligi: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna
-[2025-06-05 19:23:15] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna
-[2025-06-05 19:23:15] Proxy: brak
-[2025-06-05 19:23:15] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:117.0) Gecko/20100101 Firefox/117.0 (pl)
-[2025-06-05 19:23:16] HTTP Status: 200 (OK)
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
-[2025-06-05 19:23:16] Dodany link do meczu: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
-[2025-06-05 19:23:16] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
-[2025-06-05 19:23:16] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
-[2025-06-05 19:23:16] Proxy: brak
-[2025-06-05 19:23:16] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
-[2025-06-05 19:23:16] HTTP Status: 200 (OK)
-[2025-06-05 19:23:18] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/defensores-de-belgrano-almirante-brown-MPL185333746
-[2025-06-05 19:23:28] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
-[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:23:28] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano liczba goli'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown liczba goli'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
-[2025-06-05 19:23:29] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra do zera'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra przynajmniej jedna połowę'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra do zera'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra przynajmniej jedna połowę'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'defensores de belgrano wygra obie połowy'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'almirante brown wygra obie połowy'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
-[2025-06-05 19:23:30] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
-[2025-06-05 19:23:31] [✔] Podmieniono/stworzono dane meczu DEAL06062015 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:23:31] INFO: [DEAL06062015] Defensores de Belgrano - Almirante Brown | Piłka nożna | 2.Argentyna | 2025-06-06T20:15:00
-[2025-06-05 19:23:31]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:23:31]          • 10 @ 1.13
-[2025-06-05 19:23:31]          • 12 @ 1.3
-[2025-06-05 19:23:31]          • 02 @ 1.83
-[2025-06-05 19:23:31]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano @ 1.57
-[2025-06-05 19:23:31]          • 0-0 @ 1.62
-[2025-06-05 19:23:31]          • Almirante Brown @ 4.1
-[2025-06-05 19:23:31]     - SPOTKANIE BEZ REMISU → 2 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano @ 1.22
-[2025-06-05 19:23:31]          • Almirante Brown @ 3.65
-[2025-06-05 19:23:31]     - LICZBA GOLI → 14 selekcji:
-[2025-06-05 19:23:31]          • mniej 0.5 @ 4.8
-[2025-06-05 19:23:31]          • wiecej 0.5 @ 1.13
-[2025-06-05 19:23:31]          • mniej 1 @ 3.7
-[2025-06-05 19:23:31]          • wiecej 1 @ 1.22
-[2025-06-05 19:23:31]          • mniej 1.5 @ 2.06
-[2025-06-05 19:23:31]          • wiecej 1.5 @ 1.65
-[2025-06-05 19:23:31]          • mniej 2 @ 1.55
-[2025-06-05 19:23:31]          • wiecej 2 @ 2.25
-[2025-06-05 19:23:31]          • mniej 2.5 @ 1.33
-[2025-06-05 19:23:31]          • wiecej 2.5 @ 2.95
-[2025-06-05 19:23:31]          • mniej 3 @ 1.12
-[2025-06-05 19:23:31]          • wiecej 3 @ 5.0
-[2025-06-05 19:23:31]          • mniej 3.5 @ 1.09
-[2025-06-05 19:23:31]          • wiecej 3.5 @ 5.8
-[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:23:31]          • Mniej 0.5 @ 3.15
-[2025-06-05 19:23:31]          • Wiecej 0.5 @ 1.3
-[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.5
-[2025-06-05 19:23:31]          • Wiecej 1.5 @ 2.37
-[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.12
-[2025-06-05 19:23:31]          • Wiecej 2.5 @ 5.0
-[2025-06-05 19:23:31]     - ALMIRANTE BROWN LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:23:31]          • Mniej 0.5 @ 1.64
-[2025-06-05 19:23:31]          • Wiecej 0.5 @ 2.09
-[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.08
-[2025-06-05 19:23:31]          • Wiecej 1.5 @ 6.0
-[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.01
-[2025-06-05 19:23:31]          • Wiecej 2.5 @ 11.0
-[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:23:31]          • Tak @ 2.7
-[2025-06-05 19:23:31]          • Nie @ 1.37
-[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
-[2025-06-05 19:23:31]          • Tak/- 2.5 @ 6.0
-[2025-06-05 19:23:31]          • Nie/- 2.5 @ 1.46
-[2025-06-05 19:23:31]          • Tak/+ 2.5 @ 3.65
-[2025-06-05 19:23:31]          • Nie/+ 2.5 @ 8.0
-[2025-06-05 19:23:31]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano/- 1.5 @ 3.9
-[2025-06-05 19:23:31]          • 0/- 1.5 @ 4.8
-[2025-06-05 19:23:31]          • Almirante Brown/- 1.5 @ 8.6
-[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 1.5 @ 2.33
-[2025-06-05 19:23:31]          • 0/+ 1.5 @ 5.4
-[2025-06-05 19:23:31]          • Almirante Brown/+ 1.5 @ 10.0
-[2025-06-05 19:23:31]          • Defensores de Belgrano/- 2.5 @ 2.44
-[2025-06-05 19:23:31]          • 0/- 2.5 @ 2.85
-[2025-06-05 19:23:31]          • Almirante Brown/- 2.5 @ 6.8
-[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 2.5 @ 3.5
-[2025-06-05 19:23:31]          • 0/+ 2.5 @ 29.0
-[2025-06-05 19:23:31]          • Almirante Brown/+ 2.5 @ 15.0
-[2025-06-05 19:23:31]          • Defensores de Belgrano/- 3.5 @ 1.8
-[2025-06-05 19:23:31]          • 0/- 3.5 @ 2.75
-[2025-06-05 19:23:31]          • Almirante Brown/- 3.5 @ 4.9
-[2025-06-05 19:23:31]          • Defensores de Belgrano/+ 3.5 @ 8.0
-[2025-06-05 19:23:31]          • 0/+ 3.5 @ 28.0
-[2025-06-05 19:23:31]          • Almirante Brown/+ 3.5 @ 50.0
-[2025-06-05 19:23:31]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano -0.5 @ 1.66
-[2025-06-05 19:23:31]          • Almirante Brown +0.5 @ 1.93
-[2025-06-05 19:23:31]     - 1.POŁOWA → 3 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano @ 2.41
-[2025-06-05 19:23:31]          • Remis @ 1.84
-[2025-06-05 19:23:31]          • Almirante Brown @ 6.6
-[2025-06-05 19:23:31]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:23:31]          • 10 @ 1.1
-[2025-06-05 19:23:31]          • 12 @ 1.7
-[2025-06-05 19:23:31]          • 02 @ 1.42
-[2025-06-05 19:23:31]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:23:31]          • Mniej 0.5 @ 2.1
-[2025-06-05 19:23:31]          • Wiecej 0.5 @ 1.63
-[2025-06-05 19:23:31]          • Mniej 1.5 @ 1.2
-[2025-06-05 19:23:31]          • Wiecej 1.5 @ 3.9
-[2025-06-05 19:23:31]          • Mniej 2.5 @ 1.03
-[2025-06-05 19:23:31]          • Wiecej 2.5 @ 8.6
-[2025-06-05 19:23:31]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:23:31]          • Tak @ 5.8
-[2025-06-05 19:23:31]          • Nie @ 1.06
-[2025-06-05 19:23:31]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 19:23:31]          • 1/1 @ 2.41
-[2025-06-05 19:23:31]          • 0/0 @ 3.35
-[2025-06-05 19:23:31]          • 2/2 @ 9.4
-[2025-06-05 19:23:31]          • 1/0 @ 17.0
-[2025-06-05 19:23:31]          • 1/2 @ 80.0
-[2025-06-05 19:23:31]          • 2/0 @ 19.0
-[2025-06-05 19:23:31]          • 0/1 @ 3.7
-[2025-06-05 19:23:31]          • 2/1 @ 35.0
-[2025-06-05 19:23:31]          • 0/2 @ 9.4
-[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:23:31]          • Tak @ 2.2
-[2025-06-05 19:23:31]          • Nie @ 1.57
-[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:23:31]          • tak @ 1.48
-[2025-06-05 19:23:31]          • nie @ 2.42
-[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:23:31]          • Tak @ 6.0
-[2025-06-05 19:23:31]          • Nie @ 1.08
-[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:23:31]          • tak @ 3.2
-[2025-06-05 19:23:31]          • nie @ 1.29
-[2025-06-05 19:23:31]     - DEFENSORES DE BELGRANO WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:23:31]          • Tak @ 5.0
-[2025-06-05 19:23:31]          • Nie @ 1.12
-[2025-06-05 19:23:31]     - ALMIRANTE BROWN WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:23:31]          • tak @ 11.0
-[2025-06-05 19:23:31]          • nie @ 1.01
-[2025-06-05 19:23:31]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:23:31]          • Defensores de Belgrano/Tak @ 5.4
-[2025-06-05 19:23:31]          • 0/Tak @ 5.2
-[2025-06-05 19:23:31]          • Almirante Brown/Tak @ 16.0
-[2025-06-05 19:23:31]          • Defensores de Belgrano/Nie @ 2.01
-[2025-06-05 19:23:31]          • 0/Nie @ 4.7
-[2025-06-05 19:23:31]          • Almirante Brown/Nie @ 6.4
-[2025-06-05 19:23:31]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 19:23:31]          • Tak/Nie @ 7.6
-[2025-06-05 19:23:31]          • Nie/Tak @ 5.6
-[2025-06-05 19:23:31]          • Tak/Tak @ 50.0
-[2025-06-05 19:23:31]          • Nie/Nie @ 1.17
-[2025-06-05 19:23:31]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 19:23:31]          • 1-2 @ 1.56
-[2025-06-05 19:23:31]          • 1-3 @ 1.27
-[2025-06-05 19:23:31]          • 1-4 @ 1.17
-[2025-06-05 19:23:31]          • 1-5 @ 1.14
-[2025-06-05 19:23:31]          • 1-6 @ 1.13
-[2025-06-05 19:23:31]          • 2-3 @ 1.89
-[2025-06-05 19:23:31]          • 2-4 @ 1.64
-[2025-06-05 19:23:31]          • 2-5 @ 1.57
-[2025-06-05 19:23:31]          • 2-6 @ 1.55
-[2025-06-05 19:23:31]          • 3-4 @ 3.1
-[2025-06-05 19:23:31]          • 3-5 @ 2.8
-[2025-06-05 19:23:31]          • 3-6 @ 2.7
-[2025-06-05 19:23:31]          • 4-5 @ 6.6
-[2025-06-05 19:23:31]          • 4-6 @ 6.0
-[2025-06-05 19:23:31]          • 5-6 @ 18.0
-[2025-06-05 19:23:31]          • 7+ @ 25.0
-[2025-06-05 19:23:31]          • Brak goli @ 4.7
-[2025-06-05 19:23:55] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
-[2025-06-05 19:23:55] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
-[2025-06-05 19:23:55] Proxy: brak
-[2025-06-05 19:23:55] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
-[2025-06-05 19:23:55] HTTP Status: 200 (OK)
-[2025-06-05 19:23:56] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/los-andes-alvarado-MPL185333748
-[2025-06-05 19:23:59] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'los andes liczba goli'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'alvarado liczba goli'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
-[2025-06-05 19:24:00] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra do zera'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra przynajmniej jedna połowę'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra do zera'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra przynajmniej jedna połowę'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'los andes wygra obie połowy'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'alvarado wygra obie połowy'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:24:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
-[2025-06-05 19:24:02] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
-[2025-06-05 19:24:02] [✔] Podmieniono/stworzono dane meczu LOAL07060000 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:24:02] INFO: [LOAL07060000] Los Andes - Alvarado | Piłka nożna | 2.Argentyna | 2025-06-07T00:00:00
-[2025-06-05 19:24:02]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:24:02]          • 10 @ 1.16
-[2025-06-05 19:24:02]          • 12 @ 1.31
-[2025-06-05 19:24:02]          • 02 @ 1.73
-[2025-06-05 19:24:02]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:24:02]          • Los Andes @ 1.66
-[2025-06-05 19:24:02]          • 0-0 @ 1.61
-[2025-06-05 19:24:02]          • Alvarado @ 3.6
-[2025-06-05 19:24:02]     - SPOTKANIE BEZ REMISU → 2 selekcji:
-[2025-06-05 19:24:02]          • Los Andes @ 1.29
-[2025-06-05 19:24:02]          • Alvarado @ 3.15
-[2025-06-05 19:24:02]     - LICZBA GOLI → 14 selekcji:
-[2025-06-05 19:24:02]          • mniej 0.5 @ 5.0
-[2025-06-05 19:24:02]          • wiecej 0.5 @ 1.12
-[2025-06-05 19:24:02]          • mniej 1 @ 3.95
-[2025-06-05 19:24:02]          • wiecej 1 @ 1.2
-[2025-06-05 19:24:02]          • mniej 1.5 @ 2.14
-[2025-06-05 19:24:02]          • wiecej 1.5 @ 1.61
-[2025-06-05 19:24:02]          • mniej 2 @ 1.6
-[2025-06-05 19:24:02]          • wiecej 2 @ 2.15
-[2025-06-05 19:24:02]          • mniej 2.5 @ 1.36
-[2025-06-05 19:24:02]          • wiecej 2.5 @ 2.85
-[2025-06-05 19:24:02]          • mniej 3 @ 1.14
-[2025-06-05 19:24:02]          • wiecej 3 @ 4.7
-[2025-06-05 19:24:02]          • mniej 3.5 @ 1.1
-[2025-06-05 19:24:02]          • wiecej 3.5 @ 5.4
-[2025-06-05 19:24:02]     - LOS ANDES LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:02]          • Mniej 0.5 @ 3.05
-[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.31
-[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.47
-[2025-06-05 19:24:02]          • Wiecej 1.5 @ 2.43
-[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.11
-[2025-06-05 19:24:02]          • Wiecej 2.5 @ 5.2
-[2025-06-05 19:24:02]     - ALVARADO LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:02]          • Mniej 0.5 @ 1.78
-[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.89
-[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.11
-[2025-06-05 19:24:02]          • Wiecej 1.5 @ 5.2
-[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.01
-[2025-06-05 19:24:02]          • Wiecej 2.5 @ 10.0
-[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:24:02]          • Tak @ 2.48
-[2025-06-05 19:24:02]          • Nie @ 1.44
-[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
-[2025-06-05 19:24:02]          • Tak/- 2.5 @ 5.8
-[2025-06-05 19:24:02]          • Nie/- 2.5 @ 1.51
-[2025-06-05 19:24:02]          • Tak/+ 2.5 @ 3.3
-[2025-06-05 19:24:02]          • Nie/+ 2.5 @ 8.8
-[2025-06-05 19:24:02]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:24:02]          • Los Andes/- 1.5 @ 4.2
-[2025-06-05 19:24:02]          • 0/- 1.5 @ 5.0
-[2025-06-05 19:24:02]          • Alvarado/- 1.5 @ 8.0
-[2025-06-05 19:24:02]          • Los Andes/+ 1.5 @ 2.46
-[2025-06-05 19:24:02]          • 0/+ 1.5 @ 4.9
-[2025-06-05 19:24:02]          • Alvarado/+ 1.5 @ 7.8
-[2025-06-05 19:24:02]          • Los Andes/- 2.5 @ 2.65
-[2025-06-05 19:24:02]          • 0/- 2.5 @ 2.85
-[2025-06-05 19:24:02]          • Alvarado/- 2.5 @ 6.0
-[2025-06-05 19:24:02]          • Los Andes/+ 2.5 @ 3.6
-[2025-06-05 19:24:02]          • 0/+ 2.5 @ 24.0
-[2025-06-05 19:24:02]          • Alvarado/+ 2.5 @ 11.0
-[2025-06-05 19:24:02]          • Los Andes/- 3.5 @ 1.92
-[2025-06-05 19:24:02]          • 0/- 3.5 @ 2.8
-[2025-06-05 19:24:02]          • Alvarado/- 3.5 @ 4.3
-[2025-06-05 19:24:02]          • Los Andes/+ 3.5 @ 8.2
-[2025-06-05 19:24:02]          • 0/+ 3.5 @ 23.0
-[2025-06-05 19:24:02]          • Alvarado/+ 3.5 @ 35.0
-[2025-06-05 19:24:02]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:24:02]          • Los Andes -0.5 @ 1.76
-[2025-06-05 19:24:02]          • Alvarado +0.5 @ 1.81
-[2025-06-05 19:24:02]     - 1.POŁOWA → 3 selekcji:
-[2025-06-05 19:24:02]          • Los Andes @ 2.55
-[2025-06-05 19:24:02]          • Remis @ 1.84
-[2025-06-05 19:24:02]          • Alvarado @ 5.8
-[2025-06-05 19:24:02]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:24:02]          • 10 @ 1.13
-[2025-06-05 19:24:02]          • 12 @ 1.7
-[2025-06-05 19:24:02]          • 02 @ 1.38
-[2025-06-05 19:24:02]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:02]          • Mniej 0.5 @ 2.12
-[2025-06-05 19:24:02]          • Wiecej 0.5 @ 1.62
-[2025-06-05 19:24:02]          • Mniej 1.5 @ 1.21
-[2025-06-05 19:24:02]          • Wiecej 1.5 @ 3.8
-[2025-06-05 19:24:02]          • Mniej 2.5 @ 1.03
-[2025-06-05 19:24:02]          • Wiecej 2.5 @ 8.6
-[2025-06-05 19:24:02]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:24:02]          • Tak @ 5.4
-[2025-06-05 19:24:02]          • Nie @ 1.07
-[2025-06-05 19:24:02]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 19:24:02]          • 1/1 @ 2.6
-[2025-06-05 19:24:02]          • 0/0 @ 3.4
-[2025-06-05 19:24:02]          • 2/2 @ 7.8
-[2025-06-05 19:24:02]          • 1/0 @ 16.0
-[2025-06-05 19:24:02]          • 1/2 @ 70.0
-[2025-06-05 19:24:02]          • 2/0 @ 17.0
-[2025-06-05 19:24:02]          • 0/1 @ 3.85
-[2025-06-05 19:24:02]          • 2/1 @ 35.0
-[2025-06-05 19:24:02]          • 0/2 @ 8.2
-[2025-06-05 19:24:02]     - LOS ANDES WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:24:02]          • Tak @ 2.41
-[2025-06-05 19:24:02]          • Nie @ 1.48
-[2025-06-05 19:24:02]     - LOS ANDES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:24:02]          • tak @ 1.53
-[2025-06-05 19:24:02]          • nie @ 2.29
-[2025-06-05 19:24:02]     - ALVARADO WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:24:02]          • Tak @ 5.4
-[2025-06-05 19:24:02]          • Nie @ 1.1
-[2025-06-05 19:24:02]     - ALVARADO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:24:02]          • tak @ 2.85
-[2025-06-05 19:24:02]          • nie @ 1.36
-[2025-06-05 19:24:02]     - LOS ANDES WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:24:02]          • Tak @ 5.4
-[2025-06-05 19:24:02]          • Nie @ 1.11
-[2025-06-05 19:24:02]     - ALVARADO WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:24:02]          • tak @ 10.0
-[2025-06-05 19:24:02]          • nie @ 1.01
-[2025-06-05 19:24:02]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:24:02]          • Los Andes/Tak @ 5.4
-[2025-06-05 19:24:02]          • 0/Tak @ 4.9
-[2025-06-05 19:24:02]          • Alvarado/Tak @ 13.0
-[2025-06-05 19:24:02]          • Los Andes/Nie @ 2.21
-[2025-06-05 19:24:02]          • 0/Nie @ 5.0
-[2025-06-05 19:24:02]          • Alvarado/Nie @ 5.6
-[2025-06-05 19:24:02]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 19:24:02]          • Nie/Tak @ 5.2
-[2025-06-05 19:24:02]          • Tak/Nie @ 7.2
-[2025-06-05 19:24:02]          • Tak/Tak @ 40.0
-[2025-06-05 19:24:02]          • Nie/Nie @ 1.21
-[2025-06-05 19:24:02]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 19:24:02]          • 1-2 @ 1.58
-[2025-06-05 19:24:02]          • 1-3 @ 1.27
-[2025-06-05 19:24:02]          • 1-4 @ 1.17
-[2025-06-05 19:24:02]          • 1-5 @ 1.13
-[2025-06-05 19:24:02]          • 1-6 @ 1.12
-[2025-06-05 19:24:02]          • 2-3 @ 1.86
-[2025-06-05 19:24:02]          • 2-4 @ 1.61
-[2025-06-05 19:24:02]          • 2-5 @ 1.53
-[2025-06-05 19:24:02]          • 2-6 @ 1.51
-[2025-06-05 19:24:02]          • 3-4 @ 2.95
-[2025-06-05 19:24:02]          • 3-5 @ 2.65
-[2025-06-05 19:24:02]          • 3-6 @ 2.6
-[2025-06-05 19:24:02]          • 4-5 @ 6.2
-[2025-06-05 19:24:02]          • 4-6 @ 5.6
-[2025-06-05 19:24:02]          • 5-6 @ 16.0
-[2025-06-05 19:24:02]          • 7+ @ 25.0
-[2025-06-05 19:24:02]          • Brak goli @ 4.9
-[2025-06-05 19:24:16] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
-[2025-06-05 19:24:16] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
-[2025-06-05 19:24:16] Proxy: brak
-[2025-06-05 19:24:16] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.170 Safari/537.36 Edge/115.0.1901.203 (pl-PL)
-[2025-06-05 19:24:16] HTTP Status: 200 (OK)
-[2025-06-05 19:24:17] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/ca-estudiantes-temperley-MPL185296483
-[2025-06-05 19:24:21] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes liczba goli'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'temperley liczba goli'
-[2025-06-05 19:24:21] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
-[2025-06-05 19:24:22] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra do zera'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra przynajmniej jedna połowę'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra do zera'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra przynajmniej jedna połowę'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'ca estudiantes wygra obie połowy'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'temperley wygra obie połowy'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
-[2025-06-05 19:24:23] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
-[2025-06-05 19:24:30] [✔] Podmieniono/stworzono dane meczu CATE07060210 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:24:30] INFO: [CATE07060210] CA Estudiantes - Temperley | Piłka nożna | 2.Argentyna | 2025-06-07T02:10:00
-[2025-06-05 19:24:30]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:24:30]          • 10 @ 1.22
-[2025-06-05 19:24:30]          • 12 @ 1.35
-[2025-06-05 19:24:30]          • 02 @ 1.57
-[2025-06-05 19:24:30]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes @ 1.86
-[2025-06-05 19:24:30]          • 0-0 @ 1.56
-[2025-06-05 19:24:30]          • Temperley @ 3.1
-[2025-06-05 19:24:30]     - SPOTKANIE BEZ REMISU → 2 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes @ 1.43
-[2025-06-05 19:24:30]          • Temperley @ 2.55
-[2025-06-05 19:24:30]     - LICZBA GOLI → 14 selekcji:
-[2025-06-05 19:24:30]          • mniej 0.5 @ 4.8
-[2025-06-05 19:24:30]          • wiecej 0.5 @ 1.13
-[2025-06-05 19:24:30]          • mniej 1 @ 3.75
-[2025-06-05 19:24:30]          • wiecej 1 @ 1.22
-[2025-06-05 19:24:30]          • mniej 1.5 @ 2.08
-[2025-06-05 19:24:30]          • wiecej 1.5 @ 1.64
-[2025-06-05 19:24:30]          • mniej 2 @ 1.56
-[2025-06-05 19:24:30]          • wiecej 2 @ 2.24
-[2025-06-05 19:24:30]          • mniej 2.5 @ 1.33
-[2025-06-05 19:24:30]          • wiecej 2.5 @ 2.95
-[2025-06-05 19:24:30]          • mniej 3 @ 1.12
-[2025-06-05 19:24:30]          • wiecej 3 @ 5.0
-[2025-06-05 19:24:30]          • mniej 3.5 @ 1.09
-[2025-06-05 19:24:30]          • wiecej 3.5 @ 5.6
-[2025-06-05 19:24:30]     - CA ESTUDIANTES LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:30]          • Mniej 0.5 @ 2.7
-[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.38
-[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.37
-[2025-06-05 19:24:30]          • Wiecej 1.5 @ 2.75
-[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.08
-[2025-06-05 19:24:30]          • Wiecej 2.5 @ 6.2
-[2025-06-05 19:24:30]     - TEMPERLEY LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:30]          • Mniej 0.5 @ 1.92
-[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.76
-[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.15
-[2025-06-05 19:24:30]          • Wiecej 1.5 @ 4.5
-[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.01
-[2025-06-05 19:24:30]          • Wiecej 2.5 @ 9.6
-[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:24:30]          • Tak @ 2.41
-[2025-06-05 19:24:30]          • Nie @ 1.46
-[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
-[2025-06-05 19:24:30]          • Tak/- 2.5 @ 5.4
-[2025-06-05 19:24:30]          • Nie/- 2.5 @ 1.5
-[2025-06-05 19:24:30]          • Tak/+ 2.5 @ 3.3
-[2025-06-05 19:24:30]          • Nie/+ 2.5 @ 11.0
-[2025-06-05 19:24:30]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes/- 1.5 @ 4.5
-[2025-06-05 19:24:30]          • 0/- 1.5 @ 4.8
-[2025-06-05 19:24:30]          • Temperley/- 1.5 @ 6.8
-[2025-06-05 19:24:30]          • CA Estudiantes/+ 1.5 @ 2.9
-[2025-06-05 19:24:30]          • 0/+ 1.5 @ 4.6
-[2025-06-05 19:24:30]          • Temperley/+ 1.5 @ 6.2
-[2025-06-05 19:24:30]          • CA Estudiantes/- 2.5 @ 2.95
-[2025-06-05 19:24:30]          • 0/- 2.5 @ 2.7
-[2025-06-05 19:24:30]          • Temperley/- 2.5 @ 5.0
-[2025-06-05 19:24:30]          • CA Estudiantes/+ 2.5 @ 4.3
-[2025-06-05 19:24:30]          • 0/+ 2.5 @ 22.0
-[2025-06-05 19:24:30]          • Temperley/+ 2.5 @ 8.8
-[2025-06-05 19:24:30]          • CA Estudiantes/- 3.5 @ 2.14
-[2025-06-05 19:24:30]          • 0/- 3.5 @ 2.65
-[2025-06-05 19:24:30]          • Temperley/- 3.5 @ 3.6
-[2025-06-05 19:24:30]          • CA Estudiantes/+ 3.5 @ 10.0
-[2025-06-05 19:24:30]          • 0/+ 3.5 @ 22.0
-[2025-06-05 19:24:30]          • Temperley/+ 3.5 @ 27.0
-[2025-06-05 19:24:30]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes -0.5 @ 1.98
-[2025-06-05 19:24:30]          • Temperley +0.5 @ 1.62
-[2025-06-05 19:24:30]     - 1.POŁOWA → 3 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes @ 2.9
-[2025-06-05 19:24:30]          • Remis @ 1.78
-[2025-06-05 19:24:30]          • Temperley @ 4.9
-[2025-06-05 19:24:30]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:24:30]          • 10 @ 1.15
-[2025-06-05 19:24:30]          • 12 @ 1.76
-[2025-06-05 19:24:30]          • 02 @ 1.31
-[2025-06-05 19:24:30]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:24:30]          • Mniej 0.5 @ 2.05
-[2025-06-05 19:24:30]          • Wiecej 0.5 @ 1.66
-[2025-06-05 19:24:30]          • Mniej 1.5 @ 1.19
-[2025-06-05 19:24:30]          • Wiecej 1.5 @ 3.95
-[2025-06-05 19:24:30]          • Mniej 2.5 @ 1.02
-[2025-06-05 19:24:30]          • Wiecej 2.5 @ 8.8
-[2025-06-05 19:24:30]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:24:30]          • Tak @ 5.4
-[2025-06-05 19:24:30]          • Nie @ 1.07
-[2025-06-05 19:24:30]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 19:24:30]          • 1/1 @ 3.1
-[2025-06-05 19:24:30]          • 0/0 @ 3.25
-[2025-06-05 19:24:30]          • 2/2 @ 6.4
-[2025-06-05 19:24:30]          • 1/0 @ 15.0
-[2025-06-05 19:24:30]          • 1/2 @ 60.0
-[2025-06-05 19:24:30]          • 2/0 @ 16.0
-[2025-06-05 19:24:30]          • 0/1 @ 4.2
-[2025-06-05 19:24:30]          • 2/1 @ 35.0
-[2025-06-05 19:24:30]          • 0/2 @ 6.8
-[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:24:30]          • Tak @ 2.75
-[2025-06-05 19:24:30]          • Nie @ 1.38
-[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:24:30]          • tak @ 1.67
-[2025-06-05 19:24:30]          • nie @ 2.03
-[2025-06-05 19:24:30]     - TEMPERLEY WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:24:30]          • Tak @ 4.7
-[2025-06-05 19:24:30]          • Nie @ 1.14
-[2025-06-05 19:24:30]     - TEMPERLEY WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:24:30]          • tak @ 2.49
-[2025-06-05 19:24:30]          • nie @ 1.45
-[2025-06-05 19:24:30]     - CA ESTUDIANTES WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:24:30]          • Tak @ 6.4
-[2025-06-05 19:24:30]          • Nie @ 1.07
-[2025-06-05 19:24:30]     - TEMPERLEY WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:24:30]          • tak @ 9.8
-[2025-06-05 19:24:30]          • nie @ 1.01
-[2025-06-05 19:24:30]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:24:30]          • CA Estudiantes/Tak @ 6.0
-[2025-06-05 19:24:30]          • 0/Tak @ 4.6
-[2025-06-05 19:24:30]          • Temperley/Tak @ 10.0
-[2025-06-05 19:24:30]          • CA Estudiantes/Nie @ 2.55
-[2025-06-05 19:24:30]          • 0/Nie @ 4.8
-[2025-06-05 19:24:30]          • Temperley/Nie @ 4.7
-[2025-06-05 19:24:30]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 19:24:30]          • Tak/Nie @ 7.2
-[2025-06-05 19:24:30]          • Nie/Tak @ 5.2
-[2025-06-05 19:24:30]          • Tak/Tak @ 40.0
-[2025-06-05 19:24:30]          • Nie/Nie @ 1.21
-[2025-06-05 19:24:30]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 19:24:30]          • 1-2 @ 1.57
-[2025-06-05 19:24:30]          • 1-3 @ 1.27
-[2025-06-05 19:24:30]          • 1-4 @ 1.17
-[2025-06-05 19:24:30]          • 1-5 @ 1.14
-[2025-06-05 19:24:30]          • 1-6 @ 1.13
-[2025-06-05 19:24:30]          • 2-3 @ 1.88
-[2025-06-05 19:24:30]          • 2-4 @ 1.64
-[2025-06-05 19:24:30]          • 2-5 @ 1.56
-[2025-06-05 19:24:30]          • 2-6 @ 1.54
-[2025-06-05 19:24:30]          • 3-4 @ 3.1
-[2025-06-05 19:24:30]          • 3-5 @ 2.8
-[2025-06-05 19:24:30]          • 3-6 @ 2.7
-[2025-06-05 19:24:30]          • 4-5 @ 6.6
-[2025-06-05 19:24:30]          • 4-6 @ 6.0
-[2025-06-05 19:24:30]          • 5-6 @ 18.0
-[2025-06-05 19:24:30]          • 7+ @ 25.0
-[2025-06-05 19:24:30]          • Brak goli @ 4.7
-[2025-06-05 19:24:54] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
-[2025-06-05 19:24:54] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
-[2025-06-05 19:24:54] Proxy: brak
-[2025-06-05 19:24:54] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
-[2025-06-05 19:24:54] HTTP Status: 200 (OK)
-[2025-06-05 19:24:55] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/talleres-r-e-ca-mitre-de-santiago-MPL185333747
-[2025-06-05 19:24:59] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) liczba goli'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago liczba goli'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:24:59] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra do zera'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra przynajmniej jedna połowę'
-[2025-06-05 19:25:00] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra do zera'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra przynajmniej jedna połowę'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'talleres (r.e) wygra obie połowy'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'ca mitre de santiago wygra obie połowy'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
-[2025-06-05 19:25:01] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
-[2025-06-05 19:25:01] [✔] Podmieniono/stworzono dane meczu TACA07061840 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:25:01] INFO: [TACA07061840] Talleres (R.E) - CA Mitre de Santiago | Piłka nożna | 2.Argentyna | 2025-06-07T18:40:00
-[2025-06-05 19:25:01]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:25:01]          • 10 @ 1.32
-[2025-06-05 19:25:01]          • 12 @ 1.42
-[2025-06-05 19:25:01]          • 02 @ 1.36
-[2025-06-05 19:25:01]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E) @ 2.37
-[2025-06-05 19:25:01]          • 0-0 @ 1.47
-[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 2.5
-[2025-06-05 19:25:01]     - SPOTKANIE BEZ REMISU → 2 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E) @ 1.77
-[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 1.9
-[2025-06-05 19:25:01]     - LICZBA GOLI → 14 selekcji:
-[2025-06-05 19:25:01]          • mniej 0.5 @ 4.0
-[2025-06-05 19:25:01]          • wiecej 0.5 @ 1.19
-[2025-06-05 19:25:01]          • mniej 1 @ 3.0
-[2025-06-05 19:25:01]          • wiecej 1 @ 1.32
-[2025-06-05 19:25:01]          • mniej 1.5 @ 1.82
-[2025-06-05 19:25:01]          • wiecej 1.5 @ 1.85
-[2025-06-05 19:25:01]          • mniej 2 @ 1.37
-[2025-06-05 19:25:01]          • wiecej 2 @ 2.75
-[2025-06-05 19:25:01]          • mniej 2.5 @ 1.23
-[2025-06-05 19:25:01]          • wiecej 2.5 @ 3.6
-[2025-06-05 19:25:01]          • mniej 3 @ 1.07
-[2025-06-05 19:25:01]          • wiecej 3 @ 6.4
-[2025-06-05 19:25:01]          • mniej 3.5 @ 1.06
-[2025-06-05 19:25:01]          • wiecej 3.5 @ 7.0
-[2025-06-05 19:25:01]     - TALLERES (R.E) LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:01]          • Mniej 0.5 @ 2.11
-[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.62
-[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.2
-[2025-06-05 19:25:01]          • Wiecej 1.5 @ 3.9
-[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.03
-[2025-06-05 19:25:01]          • Wiecej 2.5 @ 8.6
-[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:01]          • Mniej 0.5 @ 2.03
-[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.67
-[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.18
-[2025-06-05 19:25:01]          • Wiecej 1.5 @ 4.1
-[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.02
-[2025-06-05 19:25:01]          • Wiecej 2.5 @ 9.2
-[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:25:01]          • Tak @ 2.65
-[2025-06-05 19:25:01]          • Nie @ 1.38
-[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
-[2025-06-05 19:25:01]          • Tak/- 2.5 @ 5.0
-[2025-06-05 19:25:01]          • Nie/- 2.5 @ 1.38
-[2025-06-05 19:25:01]          • Tak/+ 2.5 @ 3.85
-[2025-06-05 19:25:01]          • Nie/+ 2.5 @ 15.0
-[2025-06-05 19:25:01]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E)/- 1.5 @ 4.9
-[2025-06-05 19:25:01]          • 0/- 1.5 @ 3.9
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 1.5 @ 5.2
-[2025-06-05 19:25:01]          • Talleres (R.E)/+ 1.5 @ 4.4
-[2025-06-05 19:25:01]          • 0/+ 1.5 @ 4.6
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 1.5 @ 4.9
-[2025-06-05 19:25:01]          • Talleres (R.E)/- 2.5 @ 3.45
-[2025-06-05 19:25:01]          • 0/- 2.5 @ 2.36
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 2.5 @ 3.7
-[2025-06-05 19:25:01]          • Talleres (R.E)/+ 2.5 @ 6.8
-[2025-06-05 19:25:01]          • 0/+ 2.5 @ 27.0
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 2.5 @ 7.6
-[2025-06-05 19:25:01]          • Talleres (R.E)/- 3.5 @ 2.6
-[2025-06-05 19:25:01]          • 0/- 3.5 @ 2.32
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/- 3.5 @ 2.8
-[2025-06-05 19:25:01]          • Talleres (R.E)/+ 3.5 @ 21.0
-[2025-06-05 19:25:01]          • 0/+ 3.5 @ 26.0
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/+ 3.5 @ 24.0
-[2025-06-05 19:25:01]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E) -0.5 @ 2.55
-[2025-06-05 19:25:01]          • CA Mitre de Santiago +0.5 @ 1.37
-[2025-06-05 19:25:01]     - 1.POŁOWA → 3 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E) @ 3.85
-[2025-06-05 19:25:01]          • Remis @ 1.65
-[2025-06-05 19:25:01]          • CA Mitre de Santiago @ 4.1
-[2025-06-05 19:25:01]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:25:01]          • 10 @ 1.19
-[2025-06-05 19:25:01]          • 12 @ 1.89
-[2025-06-05 19:25:01]          • 02 @ 1.21
-[2025-06-05 19:25:01]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:01]          • Mniej 0.5 @ 1.85
-[2025-06-05 19:25:01]          • Wiecej 0.5 @ 1.82
-[2025-06-05 19:25:01]          • Mniej 1.5 @ 1.14
-[2025-06-05 19:25:01]          • Wiecej 1.5 @ 4.6
-[2025-06-05 19:25:01]          • Mniej 2.5 @ 1.01
-[2025-06-05 19:25:01]          • Wiecej 2.5 @ 9.6
-[2025-06-05 19:25:01]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:25:01]          • Tak @ 5.8
-[2025-06-05 19:25:01]          • Nie @ 1.05
-[2025-06-05 19:25:01]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 19:25:01]          • 1/1 @ 4.4
-[2025-06-05 19:25:01]          • 0/0 @ 2.8
-[2025-06-05 19:25:01]          • 2/2 @ 4.7
-[2025-06-05 19:25:01]          • 1/0 @ 16.0
-[2025-06-05 19:25:01]          • 1/2 @ 50.0
-[2025-06-05 19:25:01]          • 2/0 @ 16.0
-[2025-06-05 19:25:01]          • 0/1 @ 5.0
-[2025-06-05 19:25:01]          • 2/1 @ 50.0
-[2025-06-05 19:25:01]          • 0/2 @ 5.4
-[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:25:01]          • Tak @ 3.4
-[2025-06-05 19:25:01]          • Nie @ 1.26
-[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:25:01]          • tak @ 2.06
-[2025-06-05 19:25:01]          • nie @ 1.65
-[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:25:01]          • Tak @ 3.65
-[2025-06-05 19:25:01]          • Nie @ 1.23
-[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:25:01]          • tak @ 2.17
-[2025-06-05 19:25:01]          • nie @ 1.59
-[2025-06-05 19:25:01]     - TALLERES (R.E) WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:25:01]          • Tak @ 8.4
-[2025-06-05 19:25:01]          • Nie @ 1.03
-[2025-06-05 19:25:01]     - CA MITRE DE SANTIAGO WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:25:01]          • tak @ 8.8
-[2025-06-05 19:25:01]          • nie @ 1.02
-[2025-06-05 19:25:01]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:25:01]          • Talleres (R.E)/Tak @ 9.0
-[2025-06-05 19:25:01]          • 0/Tak @ 4.6
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/Tak @ 9.6
-[2025-06-05 19:25:01]          • Talleres (R.E)/Nie @ 3.2
-[2025-06-05 19:25:01]          • 0/Nie @ 3.85
-[2025-06-05 19:25:01]          • CA Mitre de Santiago/Nie @ 3.4
-[2025-06-05 19:25:01]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 19:25:01]          • Nie/Tak @ 5.6
-[2025-06-05 19:25:01]          • Tak/Nie @ 8.0
-[2025-06-05 19:25:01]          • Tak/Tak @ 50.0
-[2025-06-05 19:25:01]          • Nie/Nie @ 1.17
-[2025-06-05 19:25:01]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 19:25:01]          • 1-2 @ 1.53
-[2025-06-05 19:25:01]          • 1-3 @ 1.29
-[2025-06-05 19:25:01]          • 1-4 @ 1.21
-[2025-06-05 19:25:01]          • 1-5 @ 1.19
-[2025-06-05 19:25:01]          • 1-6 @ 1.18
-[2025-06-05 19:25:01]          • 2-3 @ 2.02
-[2025-06-05 19:25:01]          • 2-4 @ 1.8
-[2025-06-05 19:25:01]          • 2-5 @ 1.74
-[2025-06-05 19:25:01]          • 2-6 @ 1.72
-[2025-06-05 19:25:01]          • 3-4 @ 3.75
-[2025-06-05 19:25:01]          • 3-5 @ 3.45
-[2025-06-05 19:25:01]          • 3-6 @ 3.4
-[2025-06-05 19:25:01]          • 4-5 @ 9.0
-[2025-06-05 19:25:01]          • 4-6 @ 8.4
-[2025-06-05 19:25:01]          • 5-6 @ 25.0
-[2025-06-05 19:25:01]          • 7+ @ 25.0
-[2025-06-05 19:25:01]          • Brak goli @ 3.8
-[2025-06-05 19:25:13] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
-[2025-06-05 19:25:13] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
-[2025-06-05 19:25:13] Proxy: brak
-[2025-06-05 19:25:13] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
-[2025-06-05 19:25:14] HTTP Status: 200 (OK)
-[2025-06-05 19:25:15] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/deportivo-moron-colon-de-santa-fe-MPL185296257
-[2025-06-05 19:25:18] PLAYWRIGHT: Znaleziono 24 kontenerów rynków.
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron liczba goli'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe liczba goli'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
-[2025-06-05 19:25:18] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra do zera'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra przynajmniej jedna połowę'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra do zera'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra przynajmniej jedna połowę'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'deportivo moron wygra obie połowy'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'colon de santa fe wygra obie połowy'
-[2025-06-05 19:25:19] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:25:20] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
-[2025-06-05 19:25:20] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
-[2025-06-05 19:25:20] [✔] Podmieniono/stworzono dane meczu DECO08060010 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:25:20] INFO: [DECO08060010] Deportivo Moron - Colon de Santa Fe | Piłka nożna | 2.Argentyna | 2025-06-08T00:10:00
-[2025-06-05 19:25:20]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:25:20]          • 10 @ 1.22
-[2025-06-05 19:25:20]          • 12 @ 1.35
-[2025-06-05 19:25:20]          • 02 @ 1.56
-[2025-06-05 19:25:20]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron @ 1.87
-[2025-06-05 19:25:20]          • 0-0 @ 1.57
-[2025-06-05 19:25:20]          • Colon de Santa Fe @ 3.0
-[2025-06-05 19:25:20]     - SPOTKANIE BEZ REMISU → 2 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron @ 1.44
-[2025-06-05 19:25:20]          • Colon de Santa Fe @ 2.5
-[2025-06-05 19:25:20]     - LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:20]          • mniej 0.5 @ 4.9
-[2025-06-05 19:25:20]          • wiecej 0.5 @ 1.13
-[2025-06-05 19:25:20]          • mniej 1.5 @ 2.14
-[2025-06-05 19:25:20]          • wiecej 1.5 @ 1.61
-[2025-06-05 19:25:20]          • mniej 2.5 @ 1.35
-[2025-06-05 19:25:20]          • wiecej 2.5 @ 2.85
-[2025-06-05 19:25:20]     - DEPORTIVO MORON LICZBA GOLI → 2 selekcji:
-[2025-06-05 19:25:20]          • Mniej 1.5 @ 1.39
-[2025-06-05 19:25:20]          • Wiecej 1.5 @ 2.7
-[2025-06-05 19:25:20]     - COLON DE SANTA FE LICZBA GOLI → 2 selekcji:
-[2025-06-05 19:25:20]          • Mniej 0.5 @ 1.98
-[2025-06-05 19:25:20]          • Wiecej 0.5 @ 1.71
-[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:25:20]          • Tak @ 2.33
-[2025-06-05 19:25:20]          • Nie @ 1.49
-[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 4 selekcji:
-[2025-06-05 19:25:20]          • Tak/- 2.5 @ 5.2
-[2025-06-05 19:25:20]          • Nie/- 2.5 @ 1.54
-[2025-06-05 19:25:20]          • Tak/+ 2.5 @ 3.15
-[2025-06-05 19:25:20]          • Nie/+ 2.5 @ 11.0
-[2025-06-05 19:25:20]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron/- 1.5 @ 4.7
-[2025-06-05 19:25:20]          • 0/- 1.5 @ 5.0
-[2025-06-05 19:25:20]          • Colon de Santa Fe/- 1.5 @ 7.0
-[2025-06-05 19:25:20]          • Deportivo Moron/+ 1.5 @ 2.85
-[2025-06-05 19:25:20]          • 0/+ 1.5 @ 4.5
-[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 1.5 @ 5.8
-[2025-06-05 19:25:20]          • Deportivo Moron/- 2.5 @ 3.05
-[2025-06-05 19:25:20]          • 0/- 2.5 @ 2.75
-[2025-06-05 19:25:20]          • Colon de Santa Fe/- 2.5 @ 5.0
-[2025-06-05 19:25:20]          • Deportivo Moron/+ 2.5 @ 4.2
-[2025-06-05 19:25:20]          • 0/+ 2.5 @ 21.0
-[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 2.5 @ 8.4
-[2025-06-05 19:25:20]          • Deportivo Moron/- 3.5 @ 2.18
-[2025-06-05 19:25:20]          • 0/- 3.5 @ 2.7
-[2025-06-05 19:25:20]          • Colon de Santa Fe/- 3.5 @ 3.6
-[2025-06-05 19:25:20]          • Deportivo Moron/+ 3.5 @ 10.0
-[2025-06-05 19:25:20]          • 0/+ 3.5 @ 20.0
-[2025-06-05 19:25:20]          • Colon de Santa Fe/+ 3.5 @ 25.0
-[2025-06-05 19:25:20]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron -0.5 @ 2.0
-[2025-06-05 19:25:20]          • Colon de Santa Fe +0.5 @ 1.61
-[2025-06-05 19:25:20]     - 1.POŁOWA → 3 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron @ 2.9
-[2025-06-05 19:25:20]          • Remis @ 1.81
-[2025-06-05 19:25:20]          • Colon de Santa Fe @ 4.8
-[2025-06-05 19:25:20]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:25:20]          • 10 @ 1.16
-[2025-06-05 19:25:20]          • 12 @ 1.74
-[2025-06-05 19:25:20]          • 02 @ 1.31
-[2025-06-05 19:25:20]     - 1.POŁOWA LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:20]          • Mniej 0.5 @ 2.09
-[2025-06-05 19:25:20]          • Wiecej 0.5 @ 1.63
-[2025-06-05 19:25:20]          • Mniej 1.5 @ 1.21
-[2025-06-05 19:25:20]          • Wiecej 1.5 @ 3.85
-[2025-06-05 19:25:20]          • Mniej 2.5 @ 1.03
-[2025-06-05 19:25:20]          • Wiecej 2.5 @ 8.6
-[2025-06-05 19:25:20]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:25:20]          • Tak @ 5.2
-[2025-06-05 19:25:20]          • Nie @ 1.07
-[2025-06-05 19:25:20]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
-[2025-06-05 19:25:20]          • 1/1 @ 3.1
-[2025-06-05 19:25:20]          • 0/0 @ 3.3
-[2025-06-05 19:25:20]          • 2/2 @ 6.2
-[2025-06-05 19:25:20]          • 1/0 @ 14.0
-[2025-06-05 19:25:20]          • 1/2 @ 50.0
-[2025-06-05 19:25:20]          • 2/0 @ 15.0
-[2025-06-05 19:25:20]          • 0/1 @ 4.3
-[2025-06-05 19:25:20]          • 2/1 @ 35.0
-[2025-06-05 19:25:20]          • 0/2 @ 6.8
-[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:25:20]          • Tak @ 2.8
-[2025-06-05 19:25:20]          • Nie @ 1.36
-[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:25:20]          • tak @ 1.67
-[2025-06-05 19:25:20]          • nie @ 2.03
-[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA DO ZERA → 2 selekcji:
-[2025-06-05 19:25:20]          • Tak @ 4.7
-[2025-06-05 19:25:20]          • Nie @ 1.14
-[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
-[2025-06-05 19:25:20]          • tak @ 2.44
-[2025-06-05 19:25:20]          • nie @ 1.47
-[2025-06-05 19:25:20]     - DEPORTIVO MORON WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:25:20]          • Tak @ 6.4
-[2025-06-05 19:25:20]          • Nie @ 1.07
-[2025-06-05 19:25:20]     - COLON DE SANTA FE WYGRA OBIE POŁOWY → 2 selekcji:
-[2025-06-05 19:25:20]          • tak @ 9.8
-[2025-06-05 19:25:20]          • nie @ 1.01
-[2025-06-05 19:25:20]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:25:20]          • Deportivo Moron/Tak @ 5.8
-[2025-06-05 19:25:20]          • 0/Tak @ 4.4
-[2025-06-05 19:25:20]          • Colon de Santa Fe/Tak @ 9.8
-[2025-06-05 19:25:20]          • Deportivo Moron/Nie @ 2.6
-[2025-06-05 19:25:20]          • 0/Nie @ 5.0
-[2025-06-05 19:25:20]          • Colon de Santa Fe/Nie @ 4.7
-[2025-06-05 19:25:20]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
-[2025-06-05 19:25:20]          • Tak/Nie @ 7.0
-[2025-06-05 19:25:20]          • Nie/Tak @ 5.0
-[2025-06-05 19:25:20]          • Tak/Tak @ 40.0
-[2025-06-05 19:25:20]          • Nie/Nie @ 1.23
-[2025-06-05 19:25:20]     - MULTIGOLE → 17 selekcji:
-[2025-06-05 19:25:20]          • 1-2 @ 1.58
-[2025-06-05 19:25:20]          • 1-3 @ 1.28
-[2025-06-05 19:25:20]          • 1-4 @ 1.17
-[2025-06-05 19:25:20]          • 1-5 @ 1.14
-[2025-06-05 19:25:20]          • 1-6 @ 1.13
-[2025-06-05 19:25:20]          • 2-3 @ 1.86
-[2025-06-05 19:25:20]          • 2-4 @ 1.61
-[2025-06-05 19:25:20]          • 2-5 @ 1.53
-[2025-06-05 19:25:20]          • 2-6 @ 1.51
-[2025-06-05 19:25:20]          • 3-4 @ 3.0
-[2025-06-05 19:25:20]          • 3-5 @ 2.7
-[2025-06-05 19:25:20]          • 3-6 @ 2.6
-[2025-06-05 19:25:20]          • 4-5 @ 6.2
-[2025-06-05 19:25:20]          • 4-6 @ 5.6
-[2025-06-05 19:25:20]          • 5-6 @ 16.0
-[2025-06-05 19:25:20]          • 7+ @ 25.0
-[2025-06-05 19:25:20]          • Brak goli @ 4.8
-[2025-06-05 19:25:37] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
-[2025-06-05 19:25:37] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
-[2025-06-05 19:25:37] Proxy: brak
-[2025-06-05 19:25:37] User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15 (pl-PL)
-[2025-06-05 19:25:37] HTTP Status: 200 (OK)
-[2025-06-05 19:25:38] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/2-argentyna/san-telmo-gimnasia-mendoza-MPL185250256
-[2025-06-05 19:25:42] PLAYWRIGHT: Znaleziono 8 kontenerów rynków.
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
-[2025-06-05 19:25:42] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
-[2025-06-05 19:25:43] [✔] Podmieniono/stworzono dane meczu SAGI08062000 w pliku CSV: fortuna_data.csv
-[2025-06-05 19:25:43] INFO: [SAGI08062000] San Telmo - Gimnasia Mendoza | Piłka nożna | 2.Argentyna | 2025-06-08T20:00:00
-[2025-06-05 19:25:43]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
-[2025-06-05 19:25:43]          • 10 @ 1.51
-[2025-06-05 19:25:43]          • 12 @ 1.32
-[2025-06-05 19:25:43]          • 02 @ 1.25
-[2025-06-05 19:25:43]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
-[2025-06-05 19:25:43]          • San Telmo @ 2.8
-[2025-06-05 19:25:43]          • 0-0 @ 1.6
-[2025-06-05 19:25:43]          • Gimnasia Mendoza @ 1.95
-[2025-06-05 19:25:43]     - LICZBA GOLI → 6 selekcji:
-[2025-06-05 19:25:43]          • mniej 0.5 @ 5.4
-[2025-06-05 19:25:43]          • wiecej 0.5 @ 1.11
-[2025-06-05 19:25:43]          • mniej 1.5 @ 2.25
-[2025-06-05 19:25:43]          • wiecej 1.5 @ 1.55
-[2025-06-05 19:25:43]          • mniej 2.5 @ 1.4
-[2025-06-05 19:25:43]          • wiecej 2.5 @ 2.65
-[2025-06-05 19:25:43]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
-[2025-06-05 19:25:43]          • Tak @ 2.21
-[2025-06-05 19:25:43]          • Nie @ 1.55
-[2025-06-05 19:25:43]     - MECZ/LICZBA GOLI → 18 selekcji:
-[2025-06-05 19:25:43]          • San Telmo/- 1.5 @ 6.8
-[2025-06-05 19:25:43]          • 0/- 1.5 @ 5.6
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 1.5 @ 5.0
-[2025-06-05 19:25:43]          • San Telmo/+ 1.5 @ 4.9
-[2025-06-05 19:25:43]          • 0/+ 1.5 @ 4.4
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 1.5 @ 2.95
-[2025-06-05 19:25:43]          • San Telmo/- 2.5 @ 4.8
-[2025-06-05 19:25:43]          • 0/- 2.5 @ 2.9
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 2.5 @ 3.3
-[2025-06-05 19:25:43]          • San Telmo/+ 2.5 @ 7.0
-[2025-06-05 19:25:43]          • 0/+ 2.5 @ 19.0
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 2.5 @ 4.2
-[2025-06-05 19:25:43]          • San Telmo/- 3.5 @ 3.35
-[2025-06-05 19:25:43]          • 0/- 3.5 @ 2.85
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/- 3.5 @ 2.3
-[2025-06-05 19:25:43]          • San Telmo/+ 3.5 @ 19.0
-[2025-06-05 19:25:43]          • 0/+ 3.5 @ 18.0
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/+ 3.5 @ 9.8
-[2025-06-05 19:25:43]     - HANDICAP → 2 selekcji:
-[2025-06-05 19:25:43]          • San Telmo +0.5 @ 1.57
-[2025-06-05 19:25:43]          • Gimnasia Mendoza -0.5 @ 2.08
-[2025-06-05 19:25:43]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
-[2025-06-05 19:25:43]          • Tak @ 5.0
-[2025-06-05 19:25:43]          • Nie @ 1.09
-[2025-06-05 19:25:43]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
-[2025-06-05 19:25:43]          • San Telmo/Tak @ 8.2
-[2025-06-05 19:25:43]          • 0/Tak @ 4.3
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/Tak @ 5.6
-[2025-06-05 19:25:43]          • San Telmo/Nie @ 4.3
-[2025-06-05 19:25:43]          • 0/Nie @ 5.4
-[2025-06-05 19:25:43]          • Gimnasia Mendoza/Nie @ 2.8
+[2025-06-07 16:18:22]          • 02/- 6.5 @ 1.51
+[2025-06-07 16:18:22]          • 02/+ 6.5 @ 37.0
+[2025-06-07 16:18:22]          • 12/- 6.5 @ 1.29
+[2025-06-07 16:18:22]          • 12/+ 6.5 @ 21.0
+[2025-06-07 16:18:22]          • 10/- 7.5 @ 1.36
+[2025-06-07 16:18:22]          • 10/+ 7.5 @ 75.0
+[2025-06-07 16:18:22]          • 02/- 7.5 @ 1.47
+[2025-06-07 16:18:22]          • 02/+ 7.5 @ 85.0
+[2025-06-07 16:18:22]          • 12/- 7.5 @ 1.23
+[2025-06-07 16:18:22]          • 12/+ 7.5 @ 65.0
+[2025-06-07 16:18:22]     - DWÓJTYP/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-07 16:18:22]          • 10/Tak @ 1.83
+[2025-06-07 16:18:22]          • 10/Nie @ 4.7
+[2025-06-07 16:18:22]          • 02/Tak @ 1.94
+[2025-06-07 16:18:22]          • 02/Nie @ 5.3
+[2025-06-07 16:18:22]          • 12/Tak @ 1.87
+[2025-06-07 16:18:22]          • 12/Nie @ 3.2
+[2025-06-07 16:18:22]     - MECZ: LICZBA RZUTÓW ROŻNYCH HANDICAP → 2 selekcji:
+[2025-06-07 16:18:22]          • Niemcy -1.5 @ 2.37
+[2025-06-07 16:18:22]          • Francja +1.5 @ 1.52
+[2025-06-07 16:18:22]     - 1.POŁOWA: WIĘCEJ RZUTÓW ROŻNYCH → 3 selekcji:
+[2025-06-07 16:18:22]          • Niemcy @ 2.05
+[2025-06-07 16:18:22]          • Rowno @ 4.9
+[2025-06-07 16:18:22]          • Francja @ 2.39
+[2025-06-07 16:18:54] [DEBUG-PAGE] Próbuję sparsować link: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/liga-narodow-uefa/portugalia-hiszpania-MPL186545627
+[2025-06-07 16:18:54] Pobieram URL: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/liga-narodow-uefa/portugalia-hiszpania-MPL186545627
+[2025-06-07 16:18:54] Proxy: brak
+[2025-06-07 16:18:54] User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 (pl)
+[2025-06-07 16:18:54] HTTP Status: 200 (OK)
+[2025-06-07 16:18:55] PLAYWRIGHT: Ładowanie strony: https://www.efortuna.pl/zaklady-bukmacherskie/pilka-nozna/liga-narodow-uefa/portugalia-hiszpania-MPL186545627
+[2025-06-07 16:18:59] PLAYWRIGHT: Znaleziono 110 kontenerów rynków.
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'wynik meczu - dwójtyp'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'superoferta+: mecz : portugalia-hiszpania'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'drużyna wygra lub będzie prowadziła różnicą dwóch goli w meczu'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'podwójna szansa (1.poł. lub mecz)'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'zwycięzca finału'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie bez remisu'
+[2025-06-07 16:18:59] [DEBUG-MKT] surowa nazwa rynku: 'liczba goli'
+[2025-06-07 16:19:00] [DEBUG-MKT] surowa nazwa rynku: 'portugalia liczba goli'
+[2025-06-07 16:19:00] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania liczba goli'
+[2025-06-07 16:19:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola'
+[2025-06-07 16:19:00] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola/liczba goli'
+[2025-06-07 16:19:00] [DEBUG-MKT] surowa nazwa rynku: 'mecz/liczba goli'
+[2025-06-07 16:19:01] [DEBUG-MKT] surowa nazwa rynku: 'handicap'
+[2025-06-07 16:19:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa'
+[2025-06-07 16:19:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa - dwójtyp'
+[2025-06-07 16:19:01] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: 'portugalia 1.połowa liczba goli'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania 1.połowa liczba goli'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 1.połowie'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: '1.połowa: handicap'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: 'dokładny wynik'
+[2025-06-07 16:19:02] [DEBUG-MKT] surowa nazwa rynku: 'mecz: multiwynik'
+[2025-06-07 16:19:03] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/spotkanie'
+[2025-06-07 16:19:03] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/mecz'
+[2025-06-07 16:19:03] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/mecz i liczba goli'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: '1.gol/spotkanie'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą po 2 lub więcej goli'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'gol w obu połowach'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: '1i2 drużyna strzeli gola w obu połowach'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w tej samej połowie'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'sposób awansu'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'będzie przegrywać, ale..'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'portugalia wygra do zera'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania wygra do zera'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'portugalia wygra przynajmniej jedna połowę'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania wygra przynajmniej jedna połowę'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'portugalia wygra obie połowy'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania wygra obie połowy'
+[2025-06-07 16:19:04] [DEBUG-MKT] surowa nazwa rynku: 'portugalia strzeli gola w obu połowach'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania strzeli gola w obu połowach'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: 'mecz/obie drużyny strzelą gola'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: 'różnica zwycięstwa'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: 'mecz: która drużyna strzeli gola'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: 'spotkanie/1.połowa liczba goli'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '1.gol'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '1.gol-minuta'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '1.druzyna 1.gol-minuta'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '2.drużyna 1.gol-minuta'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa'
+[2025-06-07 16:19:05] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba goli/2.połowa liczba goli'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'dokładna liczba goli'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: '2.połowa'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'portugalia 2.połowa liczba goli'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania 2.połowa liczba goli'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola w 2.połowie'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: '2.połowa: handicap'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'będzie wynik w trakcie spotkania'
+[2025-06-07 16:19:06] [DEBUG-MKT] surowa nazwa rynku: 'nie będzie wyniku w trakcie spotkania'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: 'padnie gol-minuta'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: 'nie padnie gol-minuta'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: 'gol w minucie meczu (85:00 lub później)'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '1-15 minuta spotkania'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '1-30 minuta spotkania'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '1-60 minuta spotkania'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '1-75 minuta spotkania'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: 'rzut karny'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: 'liczba rzutów rożnych'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '1.druzyna liczba rzutów rożnych'
+[2025-06-07 16:19:07] [DEBUG-MKT] surowa nazwa rynku: '2.drużyna liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '1.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '1.druzyna 1.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '2.drużyna 1.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '2.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '1.druzyna 2.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '2.drużyna 2.połowa liczba rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: 'wiecej rzutów rożnych'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '1.rzut rożny w spotkaniu'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: '1.połowa-zmiana'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: 'padnie gol samobójczy'
+[2025-06-07 16:19:08] [DEBUG-MKT] surowa nazwa rynku: 'zawodnicy - strzały celne'
+[2025-06-07 16:19:09] [DEBUG-MKT] surowa nazwa rynku: 'mecz + strzelcy goli'
+[2025-06-07 16:19:09] [DEBUG-MKT] surowa nazwa rynku: 'mecz + strzały na bramkę'
+[2025-06-07 16:19:09] [DEBUG-MKT] surowa nazwa rynku: 'zawodnicy - asysty'
+[2025-06-07 16:19:09] [DEBUG-MKT] surowa nazwa rynku: 'otrzyma kartkę'
+[2025-06-07 16:19:10] [DEBUG-MKT] surowa nazwa rynku: 'otrzyma czerwoną kartkę'
+[2025-06-07 16:19:10] [DEBUG-MKT] surowa nazwa rynku: 'faule zawodnika'
+[2025-06-07 16:19:10] [DEBUG-MKT] surowa nazwa rynku: 'pozostałe zakłady łączone'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'będą serie rzutów karnych'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'zostanie zdobyty hattrick'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/2.połowa obie drużyny strzelą gola'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: '2.połowa: 1.gol'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'połowa z wiekszą liczbą goli'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'portugalia dokładna liczba goli'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania dokładna liczba goli'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: '1.połowa: dokładna liczba goli'
+[2025-06-07 16:19:11] [DEBUG-MKT] surowa nazwa rynku: 'multigole'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: 'portugalia multigole'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: 'hiszpania multigole'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: '1.połowa: multigole'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: '2.połowa: multigole'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: '2.połowa: dokładna liczba goli'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: '1.połowa: dokładny wynik'
+[2025-06-07 16:19:12] [DEBUG-MKT] surowa nazwa rynku: '2.połowa: dokładny wynik'
+[2025-06-07 16:19:13] [DEBUG-MKT] surowa nazwa rynku: 'obie drużyny strzelą gola lub liczba goli wyższa niż'
+[2025-06-07 16:19:13] [DEBUG-MKT] surowa nazwa rynku: '1.połowa/obie drużyny strzelą gola w 1.połowie'
+[2025-06-07 16:19:13] [DEBUG-MKT] surowa nazwa rynku: '2.połowa/obie drużyny strzelą gola w 2.połowie'
+[2025-06-07 16:19:13] [DEBUG-MKT] surowa nazwa rynku: 'dwójtyp/liczba goli'
+[2025-06-07 16:19:14] [DEBUG-MKT] surowa nazwa rynku: 'dwójtyp/obie drużyny strzelą gola'
+[2025-06-07 16:19:14] [DEBUG-MKT] surowa nazwa rynku: 'mecz: liczba rzutów rożnych handicap'
+[2025-06-07 16:19:14] [DEBUG-MKT] surowa nazwa rynku: '1.połowa: więcej rzutów rożnych'
+[2025-06-07 16:19:14] [✔] Podmieniono/stworzono dane meczu POHI08062100 w pliku CSV: fortuna_data.csv
+[2025-06-07 16:19:14] INFO: [POHI08062100] Portugalia - Hiszpania | Piłka nożna | Liga Narodów UEFA | 2025-06-08T21:00:00
+[2025-06-07 16:19:14]     - WYNIK MECZU - DWÓJTYP → 3 selekcji:
+[2025-06-07 16:19:14]          • 10 @ 1.87
+[2025-06-07 16:19:14]          • 12 @ 1.29
+[2025-06-07 16:19:14]          • 02 @ 1.28
+[2025-06-07 16:19:14]     - SUPEROFERTA+: MECZ : PORTUGALIA-HISZPANIA → 4 selekcji:
+[2025-06-07 16:19:14]          • faworyt @ 1.92
+[2025-06-07 16:19:14]          • F+4 @ 2.03
+[2025-06-07 16:19:14]          • F+7 @ 2.17
+[2025-06-07 16:19:14]          • F+11 @ 2.4
+[2025-06-07 16:19:14]     - DRUŻYNA WYGRA LUB BĘDZIE PROWADZIŁA RÓŻNICĄ DWÓCH GOLI W MECZU → 2 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 3.8
+[2025-06-07 16:19:14]          • Hiszpania @ 1.92
+[2025-06-07 16:19:14]     - PODWÓJNA SZANSA (1.POŁ. LUB MECZ) → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.86
+[2025-06-07 16:19:14]          • 0-0 @ 1.86
+[2025-06-07 16:19:14]          • Hiszpania @ 1.62
+[2025-06-07 16:19:14]     - ZWYCIĘZCA FINAŁU → 2 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.4
+[2025-06-07 16:19:14]          • Hiszpania @ 1.49
+[2025-06-07 16:19:14]     - SPOTKANIE BEZ REMISU → 2 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.81
+[2025-06-07 16:19:14]          • Hiszpania @ 1.43
+[2025-06-07 16:19:14]     - LICZBA GOLI → 26 selekcji:
+[2025-06-07 16:19:14]          • mniej 0.5 @ 14.0
+[2025-06-07 16:19:14]          • wiecej 0.5 @ 1.02
+[2025-06-07 16:19:14]          • mniej 1 @ 13.5
+[2025-06-07 16:19:14]          • wiecej 1 @ 1.03
+[2025-06-07 16:19:14]          • mniej 1.5 @ 4.8
+[2025-06-07 16:19:14]          • wiecej 1.5 @ 1.19
+[2025-06-07 16:19:14]          • mniej 2 @ 3.8
+[2025-06-07 16:19:14]          • wiecej 2 @ 1.27
+[2025-06-07 16:19:14]          • mniej 2.5 @ 2.28
+[2025-06-07 16:19:14]          • wiecej 2.5 @ 1.64
+[2025-06-07 16:19:14]          • mniej 3 @ 1.81
+[2025-06-07 16:19:14]          • wiecej 3 @ 2.02
+[2025-06-07 16:19:14]          • mniej 3.5 @ 1.52
+[2025-06-07 16:19:14]          • wiecej 3.5 @ 2.57
+[2025-06-07 16:19:14]          • mniej 4 @ 1.26
+[2025-06-07 16:19:14]          • wiecej 4 @ 3.95
+[2025-06-07 16:19:14]          • mniej 4.5 @ 1.19
+[2025-06-07 16:19:14]          • wiecej 4.5 @ 4.75
+[2025-06-07 16:19:14]          • mniej 5 @ 1.07
+[2025-06-07 16:19:14]          • wiecej 5 @ 8.6
+[2025-06-07 16:19:14]          • mniej 5.5 @ 1.06
+[2025-06-07 16:19:14]          • wiecej 5.5 @ 9.5
+[2025-06-07 16:19:14]          • mniej 6 @ 1.01
+[2025-06-07 16:19:14]          • wiecej 6 @ 19.0
+[2025-06-07 16:19:14]          • mniej 6.5 @ 1.01
+[2025-06-07 16:19:14]          • wiecej 6.5 @ 20.0
+[2025-06-07 16:19:14]     - PORTUGALIA LICZBA GOLI → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 3.15
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.32
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.44
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 2.64
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.08
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 6.8
+[2025-06-07 16:19:14]     - HISZPANIA LICZBA GOLI → 10 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 5.6
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.12
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 2.07
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 1.7
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.3
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 3.3
+[2025-06-07 16:19:14]          • Mniej 3.5 @ 1.07
+[2025-06-07 16:19:14]          • Wiecej 3.5 @ 7.4
+[2025-06-07 16:19:14]          • Mniej 4.5 @ 1.01
+[2025-06-07 16:19:14]          • Wiecej 4.5 @ 20.0
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ GOLA → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 1.53
+[2025-06-07 16:19:14]          • Nie @ 2.4
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ GOLA/LICZBA GOLI → 20 selekcji:
+[2025-06-07 16:19:14]          • Tak/- 1.5 @ -1.0
+[2025-06-07 16:19:14]          • Nie/- 1.5 @ 4.85
+[2025-06-07 16:19:14]          • Tak/+ 1.5 @ 1.56
+[2025-06-07 16:19:14]          • Nie/+ 1.5 @ 4.75
+[2025-06-07 16:19:14]          • Tak/- 2.5 @ 7.5
+[2025-06-07 16:19:14]          • Nie/- 2.5 @ 3.2
+[2025-06-07 16:19:14]          • Tak/+ 2.5 @ 1.92
+[2025-06-07 16:19:14]          • Nie/+ 2.5 @ 9.7
+[2025-06-07 16:19:14]          • Tak/- 3.5 @ 3.3
+[2025-06-07 16:19:14]          • Nie/- 3.5 @ 2.71
+[2025-06-07 16:19:14]          • Tak/+ 3.5 @ 2.83
+[2025-06-07 16:19:14]          • Nie/+ 3.5 @ 21.0
+[2025-06-07 16:19:14]          • Tak/- 4.5 @ 2.2
+[2025-06-07 16:19:14]          • Nie/- 4.5 @ 2.55
+[2025-06-07 16:19:14]          • Tak/+ 4.5 @ 5.0
+[2025-06-07 16:19:14]          • Nie/+ 4.5 @ 49.0
+[2025-06-07 16:19:14]          • Tak/- 5.5 @ 1.81
+[2025-06-07 16:19:14]          • Nie/- 5.5 @ 2.5
+[2025-06-07 16:19:14]          • Tak/+ 5.5 @ 9.9
+[2025-06-07 16:19:14]          • Nie/+ 5.5 @ 95.0
+[2025-06-07 16:19:14]     - MECZ/LICZBA GOLI → 42 selekcji:
+[2025-06-07 16:19:14]          • Portugalia/- 1.5 @ 13.5
+[2025-06-07 16:19:14]          • 0/- 1.5 @ 14.0
+[2025-06-07 16:19:14]          • Hiszpania/- 1.5 @ 9.2
+[2025-06-07 16:19:14]          • Portugalia/+ 1.5 @ 4.85
+[2025-06-07 16:19:14]          • 0/+ 1.5 @ 4.3
+[2025-06-07 16:19:14]          • Hiszpania/+ 1.5 @ 2.21
+[2025-06-07 16:19:14]          • Portugalia/- 2.5 @ 9.4
+[2025-06-07 16:19:14]          • 0/- 2.5 @ 5.1
+[2025-06-07 16:19:14]          • Hiszpania/- 2.5 @ 5.4
+[2025-06-07 16:19:14]          • Portugalia/+ 2.5 @ 5.7
+[2025-06-07 16:19:14]          • 0/+ 2.5 @ 8.9
+[2025-06-07 16:19:14]          • Hiszpania/+ 2.5 @ 2.66
+[2025-06-07 16:19:14]          • Portugalia/- 3.5 @ 5.5
+[2025-06-07 16:19:14]          • 0/- 3.5 @ 5.1
+[2025-06-07 16:19:14]          • Hiszpania/- 3.5 @ 3.0
+[2025-06-07 16:19:14]          • Portugalia/+ 3.5 @ 10.0
+[2025-06-07 16:19:14]          • 0/+ 3.5 @ 8.9
+[2025-06-07 16:19:14]          • Hiszpania/+ 3.5 @ 4.4
+[2025-06-07 16:19:14]          • Portugalia/- 4.5 @ 4.75
+[2025-06-07 16:19:14]          • 0/- 4.5 @ 3.75
+[2025-06-07 16:19:14]          • Hiszpania/- 4.5 @ 2.42
+[2025-06-07 16:19:14]          • Portugalia/+ 4.5 @ 14.5
+[2025-06-07 16:19:14]          • 0/+ 4.5 @ 36.0
+[2025-06-07 16:19:14]          • Hiszpania/+ 4.5 @ 6.7
+[2025-06-07 16:19:14]          • Portugalia/- 5.5 @ 4.1
+[2025-06-07 16:19:14]          • 0/- 5.5 @ 3.75
+[2025-06-07 16:19:14]          • Hiszpania/- 5.5 @ 2.06
+[2025-06-07 16:19:14]          • Portugalia/+ 5.5 @ 38.0
+[2025-06-07 16:19:14]          • 0/+ 5.5 @ 36.0
+[2025-06-07 16:19:14]          • Hiszpania/+ 5.5 @ 13.5
+[2025-06-07 16:19:14]          • Portugalia/- 6.5 @ 4.0
+[2025-06-07 16:19:14]          • 0/- 6.5 @ 3.55
+[2025-06-07 16:19:14]          • Hiszpania/- 6.5 @ 1.94
+[2025-06-07 16:19:14]          • Portugalia/+ 6.5 @ 55.0
+[2025-06-07 16:19:14]          • 0/+ 6.5 @ 100.0
+[2025-06-07 16:19:14]          • Hiszpania/+ 6.5 @ 29.0
+[2025-06-07 16:19:14]          • Portugalia/- 7.5 @ 3.9
+[2025-06-07 16:19:14]          • 0/- 7.5 @ 3.55
+[2025-06-07 16:19:14]          • Hiszpania/- 7.5 @ 1.88
+[2025-06-07 16:19:14]          • Portugalia/+ 7.5 @ -1.0
+[2025-06-07 16:19:14]          • 0/+ 7.5 @ 100.0
+[2025-06-07 16:19:14]          • Hiszpania/+ 7.5 @ 55.0
+[2025-06-07 16:19:14]     - HANDICAP → 16 selekcji:
+[2025-06-07 16:19:14]          • Portugalia -1.5 @ 8.7
+[2025-06-07 16:19:14]          • Hiszpania +1.5 @ 1.05
+[2025-06-07 16:19:14]          • Portugalia -1 @ 7.7
+[2025-06-07 16:19:14]          • Hiszpania +1 @ 1.06
+[2025-06-07 16:19:14]          • Portugalia +1 @ 1.47
+[2025-06-07 16:19:14]          • Hiszpania -1 @ 2.57
+[2025-06-07 16:19:14]          • Portugalia +1.5 @ 1.31
+[2025-06-07 16:19:14]          • Hiszpania -1.5 @ 3.3
+[2025-06-07 16:19:14]          • Portugalia +2 @ 1.11
+[2025-06-07 16:19:14]          • Hiszpania -2 @ 5.9
+[2025-06-07 16:19:14]          • Portugalia +2.5 @ 1.08
+[2025-06-07 16:19:14]          • Hiszpania -2.5 @ 6.7
+[2025-06-07 16:19:14]          • Portugalia +3 @ 1.01
+[2025-06-07 16:19:14]          • Hiszpania -3 @ 15.0
+[2025-06-07 16:19:14]          • Portugalia +3.5 @ 1.01
+[2025-06-07 16:19:14]          • Hiszpania -3.5 @ 16.0
+[2025-06-07 16:19:14]     - 1.POŁOWA → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 4.1
+[2025-06-07 16:19:14]          • Remis @ 2.38
+[2025-06-07 16:19:14]          • Hiszpania @ 2.39
+[2025-06-07 16:19:14]     - 1.POŁOWA - DWÓJTYP → 3 selekcji:
+[2025-06-07 16:19:14]          • 10 @ 1.51
+[2025-06-07 16:19:14]          • 12 @ 1.51
+[2025-06-07 16:19:14]          • 02 @ 1.19
+[2025-06-07 16:19:14]     - 1.POŁOWA LICZBA GOLI → 10 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 3.2
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.27
+[2025-06-07 16:19:14]          • Mniej 1 @ 2.23
+[2025-06-07 16:19:14]          • Wiecej 1 @ 1.53
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.53
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 2.24
+[2025-06-07 16:19:14]          • Mniej 2 @ 1.19
+[2025-06-07 16:19:14]          • Wiecej 2 @ 3.8
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.13
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 4.6
+[2025-06-07 16:19:14]     - PORTUGALIA 1.POŁOWA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 1.64
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 2.27
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.07
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 8.6
+[2025-06-07 16:19:14]     - HISZPANIA 1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 2.16
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.7
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.2
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 4.65
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.01
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 15.5
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 3.8
+[2025-06-07 16:19:14]          • Nie @ 1.25
+[2025-06-07 16:19:14]     - 1.POŁOWA: HANDICAP → 4 selekcji:
+[2025-06-07 16:19:14]          • Portugalia -1.5 @ 14.5
+[2025-06-07 16:19:14]          • Hiszpania +1.5 @ 1.01
+[2025-06-07 16:19:14]          • Portugalia +1.5 @ 1.09
+[2025-06-07 16:19:14]          • Hiszpania -1.5 @ 6.2
+[2025-06-07 16:19:14]     - DOKŁADNY WYNIK → 29 selekcji:
+[2025-06-07 16:19:14]          • 1:0 @ 13.5
+[2025-06-07 16:19:14]          • 0:0 @ 14.0
+[2025-06-07 16:19:14]          • 0:1 @ 9.3
+[2025-06-07 16:19:14]          • 2:0 @ 24.0
+[2025-06-07 16:19:14]          • 1:1 @ 7.1
+[2025-06-07 16:19:14]          • 0:2 @ 10.5
+[2025-06-07 16:19:14]          • 3:0 @ 47.0
+[2025-06-07 16:19:14]          • 2:2 @ 11.0
+[2025-06-07 16:19:14]          • 0:3 @ 16.0
+[2025-06-07 16:19:14]          • 4:0 @ 90.0
+[2025-06-07 16:19:14]          • 3:3 @ 38.0
+[2025-06-07 16:19:14]          • 0:4 @ 36.0
+[2025-06-07 16:19:14]          • 5:0 @ 180.0
+[2025-06-07 16:19:14]          • 0:5 @ 60.0
+[2025-06-07 16:19:14]          • 6:0 @ 250.0
+[2025-06-07 16:19:14]          • 0:6 @ 110.0
+[2025-06-07 16:19:14]          • 2:1 @ 12.0
+[2025-06-07 16:19:14]          • 1:2 @ 8.1
+[2025-06-07 16:19:14]          • 3:1 @ 30.0
+[2025-06-07 16:19:14]          • 1:3 @ 12.5
+[2025-06-07 16:19:14]          • 4:1 @ 60.0
+[2025-06-07 16:19:14]          • 1:4 @ 28.0
+[2025-06-07 16:19:14]          • 5:1 @ 130.0
+[2025-06-07 16:19:14]          • 1:5 @ 55.0
+[2025-06-07 16:19:14]          • 3:2 @ 29.0
+[2025-06-07 16:19:14]          • 2:3 @ 18.5
+[2025-06-07 16:19:14]          • 4:2 @ 60.0
+[2025-06-07 16:19:14]          • inny @ 20.0
+[2025-06-07 16:19:14]          • 2:4 @ 39.0
+[2025-06-07 16:19:14]     - MECZ: MULTIWYNIK → 11 selekcji:
+[2025-06-07 16:19:14]          • 1:0 2:0 3:0 @ 8.0
+[2025-06-07 16:19:14]          • 2:1 3:1 4:1 @ 8.4
+[2025-06-07 16:19:14]          • 3:2 4:2 4:3 5:1 @ 21.0
+[2025-06-07 16:19:14]          • 4:0 5:0 6:0 @ 101.0
+[2025-06-07 16:19:14]          • Remis @ 3.4
+[2025-06-07 16:19:14]          • 0:1 0:2 0:3 @ 4.1
+[2025-06-07 16:19:14]          • 1:2 1:3 1:4 @ 4.7
+[2025-06-07 16:19:14]          • 2:3 2:4 3:4 1:5 @ 12.0
+[2025-06-07 16:19:14]          • 0:4 0:5 0:6 @ 25.0
+[2025-06-07 16:19:14]          • Portugalia wygra dowolnym innym wynikiem @ 101.0
+[2025-06-07 16:19:14]          • Hiszpania wygra dowolnym innym wynikiem @ 45.0
+[2025-06-07 16:19:14]     - 1.POŁOWA/SPOTKANIE → 9 selekcji:
+[2025-06-07 16:19:14]          • 1/1 @ 6.6
+[2025-06-07 16:19:14]          • 0/0 @ 6.0
+[2025-06-07 16:19:14]          • 2/2 @ 2.96
+[2025-06-07 16:19:14]          • 1/0 @ 13.0
+[2025-06-07 16:19:14]          • 1/2 @ 22.0
+[2025-06-07 16:19:14]          • 2/0 @ 12.5
+[2025-06-07 16:19:14]          • 0/1 @ 9.2
+[2025-06-07 16:19:14]          • 2/1 @ 36.0
+[2025-06-07 16:19:14]          • 0/2 @ 5.4
+[2025-06-07 16:19:14]     - 1.POŁOWA/MECZ → 27 selekcji:
+[2025-06-07 16:19:14]          • 10/1 @ 4.2
+[2025-06-07 16:19:14]          • 10/0 @ 4.45
+[2025-06-07 16:19:14]          • 10/2 @ 4.55
+[2025-06-07 16:19:14]          • 02/1 @ 7.8
+[2025-06-07 16:19:14]          • 02/0 @ 4.4
+[2025-06-07 16:19:14]          • 02/2 @ 1.98
+[2025-06-07 16:19:14]          • 12/1 @ 5.9
+[2025-06-07 16:19:14]          • 12/0 @ 7.2
+[2025-06-07 16:19:14]          • 12/2 @ 2.69
+[2025-06-07 16:19:14]          • 1/10 @ 4.8
+[2025-06-07 16:19:14]          • 1/02 @ 9.0
+[2025-06-07 16:19:14]          • 1/12 @ 5.4
+[2025-06-07 16:19:14]          • 0/10 @ 3.95
+[2025-06-07 16:19:14]          • 0/02 @ 3.0
+[2025-06-07 16:19:14]          • 0/12 @ 3.65
+[2025-06-07 16:19:14]          • 2/10 @ 10.0
+[2025-06-07 16:19:14]          • 2/02 @ 2.51
+[2025-06-07 16:19:14]          • 2/12 @ 2.79
+[2025-06-07 16:19:14]          • 10/10 @ 2.26
+[2025-06-07 16:19:14]          • 10/02 @ 2.36
+[2025-06-07 16:19:14]          • 10/12 @ 2.28
+[2025-06-07 16:19:14]          • 02/10 @ 2.99
+[2025-06-07 16:19:14]          • 02/02 @ 1.41
+[2025-06-07 16:19:14]          • 02/12 @ 1.63
+[2025-06-07 16:19:14]          • 12/10 @ 3.45
+[2025-06-07 16:19:14]          • 12/02 @ 2.04
+[2025-06-07 16:19:14]          • 12/12 @ 1.92
+[2025-06-07 16:19:14]     - 1.POŁOWA/MECZ I LICZBA GOLI → 36 selekcji:
+[2025-06-07 16:19:14]          • 1/1 i - 1.5 @ 32.0
+[2025-06-07 16:19:14]          • 0/0 i - 1.5 @ 15.5
+[2025-06-07 16:19:14]          • 2/2 i - 1.5 @ 19.5
+[2025-06-07 16:19:14]          • 1/1 i + 1.5 @ 8.3
+[2025-06-07 16:19:14]          • 0/0 i + 1.5 @ 9.4
+[2025-06-07 16:19:14]          • 2/2 i + 1.5 @ 3.4
+[2025-06-07 16:19:14]          • 1/0 i - 1.5 @ -1.0
+[2025-06-07 16:19:14]          • 0/1 i - 1.5 @ 23.0
+[2025-06-07 16:19:14]          • 2/0 i - 1.5 @ -1.0
+[2025-06-07 16:19:14]          • 1/0 i + 1.5 @ 14.0
+[2025-06-07 16:19:14]          • 0/1 i + 1.5 @ 14.0
+[2025-06-07 16:19:14]          • 2/0 i + 1.5 @ 13.5
+[2025-06-07 16:19:14]          • 1/2 i - 1.5 @ -1.0
+[2025-06-07 16:19:14]          • 0/2 i - 1.5 @ 16.0
+[2025-06-07 16:19:14]          • 2/1 i - 1.5 @ -1.0
+[2025-06-07 16:19:14]          • 1/2 i + 1.5 @ 22.0
+[2025-06-07 16:19:14]          • 0/2 i + 1.5 @ 7.7
+[2025-06-07 16:19:14]          • 2/1 i + 1.5 @ 36.0
+[2025-06-07 16:19:14]          • 1/1 i - 2.5 @ 17.5
+[2025-06-07 16:19:14]          • 0/0 i - 2.5 @ 7.9
+[2025-06-07 16:19:14]          • 2/2 i - 2.5 @ 9.7
+[2025-06-07 16:19:14]          • 1/1 i + 2.5 @ 10.0
+[2025-06-07 16:19:14]          • 0/0 i + 2.5 @ 23.0
+[2025-06-07 16:19:14]          • 2/2 i + 2.5 @ 4.15
+[2025-06-07 16:19:14]          • 1/0 i - 2.5 @ 25.0
+[2025-06-07 16:19:14]          • 0/1 i - 2.5 @ 18.5
+[2025-06-07 16:19:14]          • 2/0 i - 2.5 @ 24.0
+[2025-06-07 16:19:14]          • 1/0 i + 2.5 @ 26.0
+[2025-06-07 16:19:14]          • 0/1 i + 2.5 @ 16.5
+[2025-06-07 16:19:14]          • 2/0 i + 2.5 @ 25.0
+[2025-06-07 16:19:14]          • 1/2 i - 2.5 @ -1.0
+[2025-06-07 16:19:14]          • 0/2 i - 2.5 @ 11.5
+[2025-06-07 16:19:14]          • 2/1 i - 2.5 @ -1.0
+[2025-06-07 16:19:14]          • 1/2 i + 2.5 @ 22.0
+[2025-06-07 16:19:14]          • 0/2 i + 2.5 @ 9.4
+[2025-06-07 16:19:14]          • 2/1 i + 2.5 @ 36.0
+[2025-06-07 16:19:14]     - 1.GOL/SPOTKANIE → 7 selekcji:
+[2025-06-07 16:19:14]          • 1/1 @ 4.7
+[2025-06-07 16:19:14]          • 1/0 @ 8.0
+[2025-06-07 16:19:14]          • 1/2 @ 9.6
+[2025-06-07 16:19:14]          • 2/1 @ 16.0
+[2025-06-07 16:19:14]          • 2/0 @ 7.9
+[2025-06-07 16:19:14]          • 2/2 @ 2.21
+[2025-06-07 16:19:14]          • Brak goli @ 14.0
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ PO 2 LUB WIĘCEJ GOLI → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 4.25
+[2025-06-07 16:19:14]          • Nie @ 1.2
+[2025-06-07 16:19:14]     - GOL W OBU POŁOWACH → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 1.56
+[2025-06-07 16:19:14]          • Nie @ 2.39
+[2025-06-07 16:19:14]     - 1I2 DRUŻYNA STRZELI GOLA W OBU POŁOWACH → 1 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 10.5
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ GOLA W TEJ SAMEJ POŁOWIE → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 1.91
+[2025-06-07 16:19:14]          • Nie @ 1.83
+[2025-06-07 16:19:14]     - SPOSÓB AWANSU → 6 selekcji:
+[2025-06-07 16:19:14]          • Portugalia/regulaminowy czas gry @ 3.6
+[2025-06-07 16:19:14]          • Portugalia/dogrywka @ 17.0
+[2025-06-07 16:19:14]          • Portugalia/serie rz.karnych @ 15.0
+[2025-06-07 16:19:14]          • Hiszpania/regulaminowy czas gry @ 1.86
+[2025-06-07 16:19:14]          • Hiszpania/dogrywka @ 10.0
+[2025-06-07 16:19:14]          • Hiszpania/serie rz.karnych @ 15.0
+[2025-06-07 16:19:14]     - BĘDZIE PRZEGRYWAĆ, ALE.. → 4 selekcji:
+[2025-06-07 16:19:14]          • 1.drużyna będzie przegrywać, ale wygra @ 14.5
+[2025-06-07 16:19:14]          • 1.drużyna będzie przegrywać, ale nie przegra @ 4.2
+[2025-06-07 16:19:14]          • 2.drużyna będzie przegrywać, ale wygra @ 7.9
+[2025-06-07 16:19:14]          • 2.drużyna będzie przegrywać, ale nie przegra @ 3.4
+[2025-06-07 16:19:14]     - PORTUGALIA WYGRA DO ZERA → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 8.2
+[2025-06-07 16:19:14]          • Nie @ 1.06
+[2025-06-07 16:19:14]     - HISZPANIA WYGRA DO ZERA → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 3.85
+[2025-06-07 16:19:14]          • Nie @ 1.24
+[2025-06-07 16:19:14]     - PORTUGALIA WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-07 16:19:14]          • tak @ 2.29
+[2025-06-07 16:19:14]          • nie @ 1.6
+[2025-06-07 16:19:14]     - HISZPANIA WYGRA PRZYNAJMNIEJ JEDNA POŁOWĘ → 2 selekcji:
+[2025-06-07 16:19:14]          • tak @ 1.45
+[2025-06-07 16:19:14]          • nie @ 2.7
+[2025-06-07 16:19:14]     - PORTUGALIA WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 16.0
+[2025-06-07 16:19:14]          • Nie @ 1.01
+[2025-06-07 16:19:14]     - HISZPANIA WYGRA OBIE POŁOWY → 2 selekcji:
+[2025-06-07 16:19:14]          • tak @ 5.6
+[2025-06-07 16:19:14]          • nie @ 1.13
+[2025-06-07 16:19:14]     - PORTUGALIA STRZELI GOLA W OBU POŁOWACH → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 4.35
+[2025-06-07 16:19:14]          • Nie @ 1.2
+[2025-06-07 16:19:14]     - HISZPANIA STRZELI GOLA W OBU POŁOWACH → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 2.63
+[2025-06-07 16:19:14]          • Nie @ 1.47
+[2025-06-07 16:19:14]     - MECZ/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-07 16:19:14]          • Portugalia/Tak @ 6.3
+[2025-06-07 16:19:14]          • 0/Tak @ 4.3
+[2025-06-07 16:19:14]          • Hiszpania/Tak @ 3.3
+[2025-06-07 16:19:14]          • Portugalia/Nie @ 8.2
+[2025-06-07 16:19:14]          • 0/Nie @ 14.0
+[2025-06-07 16:19:14]          • Hiszpania/Nie @ 3.85
+[2025-06-07 16:19:14]     - RÓŻNICA ZWYCIĘSTWA → 7 selekcji:
+[2025-06-07 16:19:14]          • Portugalia o 1 @ 5.8
+[2025-06-07 16:19:14]          • Portugalia o 2 @ 12.0
+[2025-06-07 16:19:14]          • Portugalia o 3+ @ 25.0
+[2025-06-07 16:19:14]          • Remis @ 3.45
+[2025-06-07 16:19:14]          • Hiszpania o 1 @ 3.9
+[2025-06-07 16:19:14]          • Hiszpania o 2 @ 5.6
+[2025-06-07 16:19:14]          • Hiszpania o 3+ @ 6.4
+[2025-06-07 16:19:14]     - MECZ: KTÓRA DRUŻYNA STRZELI GOLA → 4 selekcji:
+[2025-06-07 16:19:14]          • Żadna @ 14.0
+[2025-06-07 16:19:14]          • Tylko Portugalia @ 7.3
+[2025-06-07 16:19:14]          • Tylko Hiszpania @ 3.35
+[2025-06-07 16:19:14]          • Obie @ 1.53
+[2025-06-07 16:19:14]     - SPOTKANIE/1.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-07 16:19:14]          • Portugalia/-1.5 @ 5.9
+[2025-06-07 16:19:14]          • 0/-1.5 @ 4.9
+[2025-06-07 16:19:14]          • Hiszpania/-1.5 @ 3.15
+[2025-06-07 16:19:14]          • Portugalia/+1.5 @ 8.6
+[2025-06-07 16:19:14]          • 0/+1.5 @ 9.4
+[2025-06-07 16:19:14]          • Hiszpania/+1.5 @ 4.0
+[2025-06-07 16:19:14]     - 1.GOL → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.51
+[2025-06-07 16:19:14]          • Nikt @ 14.0
+[2025-06-07 16:19:14]          • Hiszpania @ 1.66
+[2025-06-07 16:19:14]     - 1.GOL-MINUTA → 6 selekcji:
+[2025-06-07 16:19:14]          • 1.pol. @ 1.24
+[2025-06-07 16:19:14]          • 1-27 @ 1.67
+[2025-06-07 16:19:14]          • 28+ @ 2.09
+[2025-06-07 16:19:14]          • 2.pol. @ 3.75
+[2025-06-07 16:19:14]          • 1-72 @ 1.04
+[2025-06-07 16:19:14]          • 73+ @ 12.5
+[2025-06-07 16:19:14]     - 1.DRUZYNA 1.GOL-MINUTA → 6 selekcji:
+[2025-06-07 16:19:14]          • 1.pol. @ 2.11
+[2025-06-07 16:19:14]          • 1-27 @ 3.1
+[2025-06-07 16:19:14]          • 28+ @ 1.93
+[2025-06-07 16:19:14]          • 2.pol. @ 2.74
+[2025-06-07 16:19:14]          • 1-72 @ 1.53
+[2025-06-07 16:19:14]          • 73+ @ 5.5
+[2025-06-07 16:19:14]     - 2.DRUŻYNA 1.GOL-MINUTA → 6 selekcji:
+[2025-06-07 16:19:14]          • 1.pol. @ 1.6
+[2025-06-07 16:19:14]          • 1-27 @ 2.31
+[2025-06-07 16:19:14]          • 28+ @ 1.84
+[2025-06-07 16:19:14]          • 2.pol. @ 2.83
+[2025-06-07 16:19:14]          • 1-72 @ 1.23
+[2025-06-07 16:19:14]          • 73+ @ 6.5
+[2025-06-07 16:19:14]     - 1.POŁOWA/2.POŁOWA → 9 selekcji:
+[2025-06-07 16:19:14]          • Portugalia/Portugalia @ 16.0
+[2025-06-07 16:19:14]          • 0/0 @ 6.0
+[2025-06-07 16:19:14]          • Hiszpania/Hiszpania @ 5.6
+[2025-06-07 16:19:14]          • Portugalia/0 @ 11.0
+[2025-06-07 16:19:14]          • Portugalia/Hiszpania @ 7.9
+[2025-06-07 16:19:14]          • Hiszpania/0 @ 6.5
+[2025-06-07 16:19:14]          • 0/Portugalia @ 9.2
+[2025-06-07 16:19:14]          • Hiszpania/Portugalia @ 7.9
+[2025-06-07 16:19:14]          • 0/Hiszpania @ 5.4
+[2025-06-07 16:19:14]     - 1.POŁOWA LICZBA GOLI/2.POŁOWA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:14]          • -0,5/-1,5 @ 6.1
+[2025-06-07 16:19:14]          • +0,5/+1,5 @ 2.39
+[2025-06-07 16:19:14]          • -0,5/+1,5 @ 6.0
+[2025-06-07 16:19:14]          • +0,5/-1,5 @ 2.5
+[2025-06-07 16:19:14]     - DOKŁADNA LICZBA GOLI → 7 selekcji:
+[2025-06-07 16:19:14]          • 0 @ 14.0
+[2025-06-07 16:19:14]          • 1 @ 6.3
+[2025-06-07 16:19:14]          • 2 @ 4.05
+[2025-06-07 16:19:14]          • 3 @ 4.1
+[2025-06-07 16:19:14]          • 4 @ 5.1
+[2025-06-07 16:19:14]          • 5 @ 8.0
+[2025-06-07 16:19:14]          • 6+ @ 9.5
+[2025-06-07 16:19:14]     - 2.POŁOWA → 6 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 3.7
+[2025-06-07 16:19:14]          • Remis @ 2.65
+[2025-06-07 16:19:14]          • Hiszpania @ 2.18
+[2025-06-07 16:19:14]          • 10 @ 1.54
+[2025-06-07 16:19:14]          • 12 @ 1.37
+[2025-06-07 16:19:14]          • 02 @ 1.2
+[2025-06-07 16:19:14]     - PORTUGALIA 2.POŁOWA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 1.86
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.88
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.14
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 5.2
+[2025-06-07 16:19:14]     - HISZPANIA 2.POŁOWA LICZBA GOLI → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 0.5 @ 2.47
+[2025-06-07 16:19:14]          • Wiecej 0.5 @ 1.5
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 1.3
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 3.3
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.06
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 8.0
+[2025-06-07 16:19:14]     - OBIE DRUŻYNY STRZELĄ GOLA W 2.POŁOWIE → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 2.8
+[2025-06-07 16:19:14]          • Nie @ 1.42
+[2025-06-07 16:19:14]     - 2.POŁOWA: HANDICAP → 4 selekcji:
+[2025-06-07 16:19:14]          • Portugalia -1.5 @ 11.5
+[2025-06-07 16:19:14]          • Hiszpania +1.5 @ 1.01
+[2025-06-07 16:19:14]          • Portugalia +1.5 @ 1.12
+[2025-06-07 16:19:14]          • Hiszpania -1.5 @ 5.0
+[2025-06-07 16:19:14]     - BĘDZIE WYNIK W TRAKCIE SPOTKANIA → 24 selekcji:
+[2025-06-07 16:19:14]          • 1:0 @ 2.46
+[2025-06-07 16:19:14]          • 2:0 @ 6.9
+[2025-06-07 16:19:14]          • 2:1 @ 5.0
+[2025-06-07 16:19:14]          • 3:0 @ 22.0
+[2025-06-07 16:19:14]          • 3:1 @ 14.0
+[2025-06-07 16:19:14]          • 3:2 @ 15.5
+[2025-06-07 16:19:14]          • 0:1 @ 1.64
+[2025-06-07 16:19:14]          • 0:2 @ 3.2
+[2025-06-07 16:19:14]          • 1:2 @ 3.4
+[2025-06-07 16:19:14]          • 0:3 @ 6.8
+[2025-06-07 16:19:14]          • 1:3 @ 6.5
+[2025-06-07 16:19:14]          • 2:3 @ 10.0
+[2025-06-07 16:19:14]          • 1:1 @ 2.26
+[2025-06-07 16:19:14]          • 2:2 @ 6.0
+[2025-06-07 16:19:14]          • 3:3 @ 25.0
+[2025-06-07 16:19:14]          • 4:4 @ 85.0
+[2025-06-07 16:19:14]          • 4:0 @ 60.0
+[2025-06-07 16:19:14]          • 0:4 @ 17.0
+[2025-06-07 16:19:14]          • 4:1 @ 45.0
+[2025-06-07 16:19:14]          • 4:2 @ 47.0
+[2025-06-07 16:19:14]          • 4:3 @ 60.0
+[2025-06-07 16:19:14]          • 3:4 @ 47.0
+[2025-06-07 16:19:14]          • 2:4 @ 25.0
+[2025-06-07 16:19:14]          • 1:4 @ 15.0
+[2025-06-07 16:19:14]     - NIE BĘDZIE WYNIKU W TRAKCIE SPOTKANIA → 18 selekcji:
+[2025-06-07 16:19:14]          • 1:0 @ 1.51
+[2025-06-07 16:19:14]          • 2:0 @ 1.08
+[2025-06-07 16:19:14]          • 2:1 @ 1.15
+[2025-06-07 16:19:14]          • 3:0 @ 1.01
+[2025-06-07 16:19:14]          • 3:1 @ 1.01
+[2025-06-07 16:19:14]          • 3:2 @ 1.01
+[2025-06-07 16:19:14]          • 0:1 @ 2.18
+[2025-06-07 16:19:14]          • 0:2 @ 1.32
+[2025-06-07 16:19:14]          • 1:2 @ 1.29
+[2025-06-07 16:19:14]          • 0:3 @ 1.08
+[2025-06-07 16:19:14]          • 1:3 @ 1.09
+[2025-06-07 16:19:14]          • 2:3 @ 1.03
+[2025-06-07 16:19:14]          • 1:1 @ 1.59
+[2025-06-07 16:19:14]          • 2:2 @ 1.11
+[2025-06-07 16:19:14]          • 3:3 @ 1.01
+[2025-06-07 16:19:14]          • 4:4 @ -1.0
+[2025-06-07 16:19:14]          • 4:0 @ -1.0
+[2025-06-07 16:19:14]          • 0:4 @ 1.01
+[2025-06-07 16:19:14]     - PADNIE GOL-MINUTA → 6 selekcji:
+[2025-06-07 16:19:14]          • 1-15 @ 2.58
+[2025-06-07 16:19:14]          • 16-30 @ 2.49
+[2025-06-07 16:19:14]          • 31-45 @ 2.29
+[2025-06-07 16:19:14]          • 46-60 @ 2.32
+[2025-06-07 16:19:14]          • 61-75 @ 2.25
+[2025-06-07 16:19:14]          • 76+ @ 1.92
+[2025-06-07 16:19:14]     - NIE PADNIE GOL-MINUTA → 6 selekcji:
+[2025-06-07 16:19:14]          • 1-15 @ 1.42
+[2025-06-07 16:19:14]          • 16-30 @ 1.45
+[2025-06-07 16:19:14]          • 31-45 @ 1.53
+[2025-06-07 16:19:14]          • 46-60 @ 1.52
+[2025-06-07 16:19:14]          • 61-75 @ 1.55
+[2025-06-07 16:19:14]          • 76+ @ 1.75
+[2025-06-07 16:19:14]     - GOL W MINUCIE MECZU (85:00 LUB PÓŹNIEJ) → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 3.6
+[2025-06-07 16:19:14]          • Nie @ 1.26
+[2025-06-07 16:19:14]     - 1-15 MINUTA SPOTKANIA → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 7.0
+[2025-06-07 16:19:14]          • Remis @ 1.38
+[2025-06-07 16:19:14]          • Hiszpania @ 4.6
+[2025-06-07 16:19:14]     - 1-30 MINUTA SPOTKANIA → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 4.85
+[2025-06-07 16:19:14]          • Remis @ 1.86
+[2025-06-07 16:19:14]          • Hiszpania @ 2.97
+[2025-06-07 16:19:14]     - 1-60 MINUTA SPOTKANIA → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 3.95
+[2025-06-07 16:19:14]          • Remis @ 2.77
+[2025-06-07 16:19:14]          • Hiszpania @ 2.15
+[2025-06-07 16:19:14]     - 1-75 MINUTA SPOTKANIA → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 3.85
+[2025-06-07 16:19:14]          • Remis @ 3.15
+[2025-06-07 16:19:14]          • Hiszpania @ 1.99
+[2025-06-07 16:19:14]     - RZUT KARNY → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 3.1
+[2025-06-07 16:19:14]          • Nie @ 1.31
+[2025-06-07 16:19:14]     - LICZBA RZUTÓW ROŻNYCH → 12 selekcji:
+[2025-06-07 16:19:14]          • Mniej 7.5 @ 3.6
+[2025-06-07 16:19:14]          • Wiecej 7.5 @ 1.25
+[2025-06-07 16:19:14]          • Mniej 8.5 @ 2.56
+[2025-06-07 16:19:14]          • Wiecej 8.5 @ 1.45
+[2025-06-07 16:19:14]          • Mniej 9.5 @ 1.94
+[2025-06-07 16:19:14]          • Wiecej 9.5 @ 1.77
+[2025-06-07 16:19:14]          • Mniej 10.5 @ 1.57
+[2025-06-07 16:19:14]          • Wiecej 10.5 @ 2.25
+[2025-06-07 16:19:14]          • Mniej 11.5 @ 1.34
+[2025-06-07 16:19:14]          • Wiecej 11.5 @ 2.99
+[2025-06-07 16:19:14]          • Mniej 12.5 @ 1.19
+[2025-06-07 16:19:14]          • Wiecej 12.5 @ 4.1
+[2025-06-07 16:19:14]     - 1.DRUZYNA LICZBA RZUTÓW ROŻNYCH → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 3.5 @ 2.54
+[2025-06-07 16:19:14]          • Wiecej 3.5 @ 1.46
+[2025-06-07 16:19:14]          • Mniej 4.5 @ 1.7
+[2025-06-07 16:19:14]          • Wiecej 4.5 @ 2.03
+[2025-06-07 16:19:14]          • Mniej 5.5 @ 1.31
+[2025-06-07 16:19:14]          • Wiecej 5.5 @ 3.15
+[2025-06-07 16:19:14]     - 2.DRUŻYNA LICZBA RZUTÓW ROŻNYCH → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 4.5 @ 2.37
+[2025-06-07 16:19:14]          • Wiecej 4.5 @ 1.52
+[2025-06-07 16:19:14]          • Mniej 5.5 @ 1.67
+[2025-06-07 16:19:14]          • Wiecej 5.5 @ 2.08
+[2025-06-07 16:19:14]          • Mniej 6.5 @ 1.32
+[2025-06-07 16:19:14]          • Wiecej 6.5 @ 3.1
+[2025-06-07 16:19:14]     - 1.POŁOWA LICZBA RZUTÓW ROŻNYCH → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 3.5 @ 2.77
+[2025-06-07 16:19:14]          • Wiecej 3.5 @ 1.39
+[2025-06-07 16:19:14]          • Mniej 4.5 @ 1.84
+[2025-06-07 16:19:14]          • Wiecej 4.5 @ 1.86
+[2025-06-07 16:19:14]          • Mniej 5.5 @ 1.41
+[2025-06-07 16:19:14]          • Wiecej 5.5 @ 2.71
+[2025-06-07 16:19:14]     - 1.DRUZYNA 1.POŁOWA LICZBA RZUTÓW ROŻNYCH → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 2.28
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 1.53
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.4
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 2.66
+[2025-06-07 16:19:14]     - 2.DRUŻYNA 1.POŁOWA LICZBA RZUTÓW ROŻNYCH → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 3.25
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 1.28
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.77
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 1.91
+[2025-06-07 16:19:14]     - 2.POŁOWA LICZBA RZUTÓW ROŻNYCH → 6 selekcji:
+[2025-06-07 16:19:14]          • Mniej 4.5 @ 2.21
+[2025-06-07 16:19:14]          • Wiecej 4.5 @ 1.59
+[2025-06-07 16:19:14]          • Mniej 5.5 @ 1.61
+[2025-06-07 16:19:14]          • Wiecej 5.5 @ 2.18
+[2025-06-07 16:19:14]          • Mniej 6.5 @ 1.3
+[2025-06-07 16:19:14]          • Wiecej 6.5 @ 3.2
+[2025-06-07 16:19:14]     - 1.DRUZYNA 2.POŁOWA LICZBA RZUTÓW ROŻNYCH → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 1.5 @ 2.82
+[2025-06-07 16:19:14]          • Wiecej 1.5 @ 1.36
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.61
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 2.13
+[2025-06-07 16:19:14]     - 2.DRUŻYNA 2.POŁOWA LICZBA RZUTÓW ROŻNYCH → 4 selekcji:
+[2025-06-07 16:19:14]          • Mniej 2.5 @ 1.89
+[2025-06-07 16:19:14]          • Wiecej 2.5 @ 1.78
+[2025-06-07 16:19:14]          • Mniej 3.5 @ 1.33
+[2025-06-07 16:19:14]          • Wiecej 3.5 @ 2.97
+[2025-06-07 16:19:14]     - WIECEJ RZUTÓW ROŻNYCH → 6 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.51
+[2025-06-07 16:19:14]          • Rowno @ 8.1
+[2025-06-07 16:19:14]          • Hiszpania @ 1.73
+[2025-06-07 16:19:14]          • 1.pol. @ 2.45
+[2025-06-07 16:19:14]          • Rowno @ 6.8
+[2025-06-07 16:19:14]          • 2.pol. @ 1.87
+[2025-06-07 16:19:14]     - 1.RZUT ROŻNY W SPOTKANIU → 3 selekcji:
+[2025-06-07 16:19:14]          • Portugalia @ 2.07
+[2025-06-07 16:19:14]          • Nikt @ 101.0
+[2025-06-07 16:19:14]          • Hiszpania @ 1.68
+[2025-06-07 16:19:14]     - 1.POŁOWA-ZMIANA → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 4.0
+[2025-06-07 16:19:14]          • Nie @ 1.18
+[2025-06-07 16:19:14]     - PADNIE GOL SAMOBÓJCZY → 2 selekcji:
+[2025-06-07 16:19:14]          • Tak @ 9.0
+[2025-06-07 16:19:14]          • Nie @ 1.03
+[2025-06-07 16:19:15]     - ZAWODNICY - STRZAŁY CELNE → 16 selekcji:
+[2025-06-07 16:19:15]          • Bernardo Silva 1+ strzały w światło bramki @ 3.3
+[2025-06-07 16:19:15]          • Bruno Fernandes 1+ strzały w światło bramki @ 1.86
+[2025-06-07 16:19:15]          • Pedro Neto 1+ strzały w światło bramki @ 2.5
+[2025-06-07 16:19:15]          • Francisco Trincao 1+ strzały w światło bramki @ 2.63
+[2025-06-07 16:19:15]          • Cristiano Ronaldo 1+ strzały w światło bramki @ 1.32
+[2025-06-07 16:19:15]          • Cristiano Ronaldo 2+ strzały w światło bramki @ 2.4
+[2025-06-07 16:19:15]          • Pedro Neto 2+ strzały w światło bramki @ 9.5
+[2025-06-07 16:19:15]          • Bruno Fernandes 2+ strzały w światło bramki @ 5.25
+[2025-06-07 16:19:15]          • Nico Williams 1+ strzały w światło bramki @ 1.5
+[2025-06-07 16:19:15]          • Pedri 1+ strzały w światło bramki @ 2.63
+[2025-06-07 16:19:15]          • Lamine Yamal 1+ strzały w światło bramki @ 1.15
+[2025-06-07 16:19:15]          • Mikel Oyarzabal 1+ strzały w światło bramki @ 1.57
+[2025-06-07 16:19:15]          • Mikel Merino 1+ strzały w światło bramki @ 2.4
+[2025-06-07 16:19:15]          • Mikel Oyarzabal 2+ strzały w światło bramki @ 3.8
+[2025-06-07 16:19:15]          • Nico Williams 2+ strzały w światło bramki @ 3.5
+[2025-06-07 16:19:15]          • Lamine Yamal 2+ strzały w światło bramki @ 1.8
+[2025-06-07 16:19:15]     - MECZ + STRZELCY GOLI → 12 selekcji:
+[2025-06-07 16:19:15]          • Portugalia wygra, Cristiano Ronaldo strzeli gola @ 5.5
+[2025-06-07 16:19:15]          • Portugalia wygra, Bruno Fernandes strzeli gola @ 8.5
+[2025-06-07 16:19:15]          • Portugalia wygra, Francisco Trincao strzeli gola @ 9.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Ruben Neves strzeli gola @ 17.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Pedro Neto strzeli gola @ 9.5
+[2025-06-07 16:19:15]          • Portugalia wygra, Bernardo Silva strzeli gola @ 13.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Mikel Oyarzabal strzeli gola @ 3.8
+[2025-06-07 16:19:15]          • Hiszpania wygra, Lamine Yamal strzeli gola @ 3.6
+[2025-06-07 16:19:15]          • Hiszpania wygra, Nico Williams strzeli gola @ 4.33
+[2025-06-07 16:19:15]          • Hiszpania wygra, Pedri strzeli gola @ 7.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Mikel Merino strzeli gola @ 6.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Martin Zubimendi strzeli gola @ 9.5
+[2025-06-07 16:19:15]     - MECZ + STRZAŁY NA BRAMKĘ → 16 selekcji:
+[2025-06-07 16:19:15]          • Portugalia wygra, Francisco Trincao 1+ strzały w światło bramki @ 7.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Bernardo Silva 1+ strzały w światło bramki @ 9.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Bruno Fernandes 1+ strzały w światło bramki @ 5.5
+[2025-06-07 16:19:15]          • Portugalia wygra, Pedro Neto 1+ strzały w światło bramki @ 7.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Cristiano Ronaldo 1+ strzały w światło bramki @ 4.2
+[2025-06-07 16:19:15]          • Portugalia wygra, Cristiano Ronaldo 2+ strzały w światło bramki @ 6.25
+[2025-06-07 16:19:15]          • Portugalia wygra, Pedro Neto 2+ strzały w światło bramki @ 21.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Bruno Fernandes 2+ strzały w światło bramki @ 11.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Lamine Yamal 1+ strzały w światło bramki @ 2.15
+[2025-06-07 16:19:15]          • Hiszpania wygra, Mikel Oyarzabal 1+ strzały w światło bramki @ 2.63
+[2025-06-07 16:19:15]          • Hiszpania wygra, Nico Williams 1+ strzały w światło bramki @ 2.63
+[2025-06-07 16:19:15]          • Hiszpania wygra, Pedri 1+ strzały w światło bramki @ 4.33
+[2025-06-07 16:19:15]          • Hiszpania wygra, Mikel Merino 1+ strzały w światło bramki @ 4.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Mikel Oyarzabal 2+ strzały w światło bramki @ 5.75
+[2025-06-07 16:19:15]          • Hiszpania wygra, Lamine Yamal 2+ strzały w światło bramki @ 3.1
+[2025-06-07 16:19:15]          • Hiszpania wygra, Nico Williams 2+ strzały w światło bramki @ 5.5
+[2025-06-07 16:19:15]     - ZAWODNICY - ASYSTY → 8 selekcji:
+[2025-06-07 16:19:15]          • Francisco Trincao 1+ asysty @ 7.0
+[2025-06-07 16:19:15]          • Pedro Neto 1+ asysty @ 6.75
+[2025-06-07 16:19:15]          • Bruno Fernandes 1+ asysty @ 4.5
+[2025-06-07 16:19:15]          • Bruno Fernandes 2+ asysty @ 34.0
+[2025-06-07 16:19:15]          • Lamine Yamal 1+ asysty @ 3.9
+[2025-06-07 16:19:15]          • Pedro Porro 1+ asysty @ 4.1
+[2025-06-07 16:19:15]          • Nico Williams 1+ asysty @ 5.25
+[2025-06-07 16:19:15]          • Lamine Yamal 2+ asysty @ 21.0
+[2025-06-07 16:19:15]     - OTRZYMA KARTKĘ → 16 selekcji:
+[2025-06-07 16:19:15]          • Pedro Neto otrzyma kartkę @ 3.1
+[2025-06-07 16:19:15]          • Ruben Neves otrzyma kartkę @ 2.63
+[2025-06-07 16:19:15]          • Bruno Fernandes otrzyma kartkę @ 3.1
+[2025-06-07 16:19:15]          • João Neves otrzyma kartkę @ 3.8
+[2025-06-07 16:19:15]          • Nuno Mendes otrzyma kartkę @ 3.6
+[2025-06-07 16:19:15]          • Ruben Dias otrzyma kartkę @ 3.1
+[2025-06-07 16:19:15]          • Gonçalo Inacio otrzyma kartkę @ 3.6
+[2025-06-07 16:19:15]          • Bernardo Silva otrzyma kartkę @ 3.2
+[2025-06-07 16:19:15]          • Robin Le Normand otrzyma kartkę @ 3.3
+[2025-06-07 16:19:15]          • Martin Zubimendi otrzyma kartkę @ 3.6
+[2025-06-07 16:19:15]          • Pedro Porro otrzyma kartkę @ 3.2
+[2025-06-07 16:19:15]          • Lamine Yamal otrzyma kartkę @ 4.75
+[2025-06-07 16:19:15]          • Mikel Merino otrzyma kartkę @ 3.2
+[2025-06-07 16:19:15]          • Dean Huijsen otrzyma kartkę @ 3.4
+[2025-06-07 16:19:15]          • Marc Cucurella otrzyma kartkę @ 3.4
+[2025-06-07 16:19:15]          • Nico Williams otrzyma kartkę @ 4.0
+[2025-06-07 16:19:15]     - OTRZYMA CZERWONĄ KARTKĘ → 16 selekcji:
+[2025-06-07 16:19:15]          • João Neves wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Ruben Neves wyrzucony z boiska @ 19.0
+[2025-06-07 16:19:15]          • Bruno Fernandes wyrzucony z boiska @ 23.0
+[2025-06-07 16:19:15]          • Pedro Neto wyrzucony z boiska @ 23.0
+[2025-06-07 16:19:15]          • Ruben Dias wyrzucony z boiska @ 23.0
+[2025-06-07 16:19:15]          • Nuno Mendes wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Bernardo Silva wyrzucony z boiska @ 26.0
+[2025-06-07 16:19:15]          • Gonçalo Inacio wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Robin Le Normand wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Martin Zubimendi wyrzucony z boiska @ 34.0
+[2025-06-07 16:19:15]          • Marc Cucurella wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Nico Williams wyrzucony z boiska @ 41.0
+[2025-06-07 16:19:15]          • Mikel Merino wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Lamine Yamal wyrzucony z boiska @ 51.0
+[2025-06-07 16:19:15]          • Pedro Porro wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]          • Dean Huijsen wyrzucony z boiska @ 29.0
+[2025-06-07 16:19:15]     - FAULE ZAWODNIKA → 15 selekcji:
+[2025-06-07 16:19:15]          • 1+ faule Gonçalo Inacio @ 1.3
+[2025-06-07 16:19:15]          • 1+ faule Bruno Fernandes @ 1.18
+[2025-06-07 16:19:15]          • 1+ faule Nuno Mendes @ 1.11
+[2025-06-07 16:19:15]          • 1+ faule Ruben Neves @ 1.11
+[2025-06-07 16:19:15]          • 1+ faule Bernardo Silva @ 1.25
+[2025-06-07 16:19:15]          • 1+ faule João Neves @ 1.1
+[2025-06-07 16:19:15]          • 1+ faule Pedro Neto @ 1.24
+[2025-06-07 16:19:15]          • 1+ faule Ruben Dias @ 1.25
+[2025-06-07 16:19:15]          • 1+ faule Marc Cucurella @ 1.21
+[2025-06-07 16:19:15]          • 1+ faule Mikel Merino @ 1.15
+[2025-06-07 16:19:15]          • 1+ faule Martin Zubimendi @ 1.25
+[2025-06-07 16:19:15]          • 1+ faule Lamine Yamal @ 1.33
+[2025-06-07 16:19:15]          • 1+ faule Dean Huijsen @ 1.13
+[2025-06-07 16:19:15]          • 1+ faule Robin Le Normand @ 1.14
+[2025-06-07 16:19:15]          • 1+ faule Pedro Porro @ 1.14
+[2025-06-07 16:19:15]     - POZOSTAŁE ZAKŁADY ŁĄCZONE → 47 selekcji:
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Cristiano Ronaldo strzeli gola @ 2.8
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Francisco Trincao strzeli gola @ 5.0
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Bruno Fernandes strzeli gola @ 4.75
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Pedro Neto strzeli gola @ 5.5
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Ruben Neves strzeli gola @ 10.0
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Bernardo Silva strzeli gola @ 8.0
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Nico Williams strzeli gola @ 4.0
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Lamine Yamal strzeli gola @ 3.3
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Mikel Oyarzabal strzeli gola @ 3.5
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Mikel Merino strzeli gola @ 5.5
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Pedri strzeli gola @ 6.5
+[2025-06-07 16:19:15]          • Obie drużyny strzelą gola, Martin Zubimendi strzeli gola @ 9.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Powyżej 3.5 goli, Powyżej 9.5 rzuty rożne @ 13.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Powyżej 3.5 goli, Powyżej 4.5 Portugalia rzuty rożne @ 15.0
+[2025-06-07 16:19:15]          • Portugalia wygra, obie drużyny strzelą gola, każda drużyna powyżej 4.5 rzuty rożne @ 17.0
+[2025-06-07 16:19:15]          • Remis, obie drużyny strzelą gola, Powyżej 9.5 rzuty rożne @ 7.0
+[2025-06-07 16:19:15]          • Remis, obie drużyny strzelą gola, Poniżej 9.5 rzuty rożne @ 7.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Powyżej 3.5 goli, Powyżej 9.5 rzuty rożne @ 7.5
+[2025-06-07 16:19:15]          • Hiszpania wygra, Powyżej 3.5 goli, Powyżej 5.5 Hiszpania rzuty rożne @ 8.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, obie drużyny strzelą gola, każda drużyna powyżej 4.5 rzuty rożne @ 10.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Nuno Mendes 1+ odbiory @ 3.8
+[2025-06-07 16:19:15]          • Portugalia wygra, Bruno Fernandes 1+ odbiory @ 3.8
+[2025-06-07 16:19:15]          • Portugalia wygra, Nuno Mendes 2+ odbiory @ 4.6
+[2025-06-07 16:19:15]          • Hiszpania wygra, Marc Cucurella 1+ odbiory @ 2.05
+[2025-06-07 16:19:15]          • Hiszpania wygra, Pedro Porro 1+ odbiory @ 2.1
+[2025-06-07 16:19:15]          • Hiszpania wygra, Marc Cucurella 2+ odbiory @ 2.5
+[2025-06-07 16:19:15]          • Portugalia wygra, Powyżej 3.5 goli, Cristiano Ronaldo strzeli gola @ 11.0
+[2025-06-07 16:19:15]          • Portugalia wygra, Powyżej 3.5 goli, Bruno Fernandes strzeli gola @ 15.0
+[2025-06-07 16:19:15]          • Remis, obie drużyny strzelą gola, Cristiano Ronaldo strzeli gola @ 8.0
+[2025-06-07 16:19:15]          • Remis, obie drużyny strzelą gola, Lamine Yamal strzeli gola @ 10.0
+[2025-06-07 16:19:15]          • Remis, Cristiano Ronaldo strzeli gola @ 8.0
+[2025-06-07 16:19:15]          • Remis, Cristiano Ronaldo strzeli gola, Lamine Yamal strzeli gola @ 15.0
+[2025-06-07 16:19:15]          • Remis, Bruno Fernandes strzeli gola @ 12.0
+[2025-06-07 16:19:15]          • Remis, Mikel Oyarzabal strzeli gola @ 11.0
+[2025-06-07 16:19:15]          • Remis, Lamine Yamal strzeli gola @ 10.0
+[2025-06-07 16:19:15]          • Hiszpania wygra, Powyżej 3.5 goli, Lamine Yamal strzeli gola @ 6.5
+[2025-06-07 16:19:15]          • Hiszpania wygra, Powyżej 3.5 goli, Mikel Oyarzabal strzeli gola @ 6.75
+[2025-06-07 16:19:15]          • Cristiano Ronaldo strzeli gola, Pedro Neto 1+ asysty, Powyżej 4.5 Portugalia rzuty rożne @ 21.0
+[2025-06-07 16:19:15]          • Bruno Fernandes strzeli gola, Pedro Neto 1+ asysty, Powyżej 4.5 Portugalia rzuty rożne @ 34.0
+[2025-06-07 16:19:15]          • Cristiano Ronaldo strzeli gola, Bruno Fernandes 1+ asysty, Powyżej 4.5 Portugalia rzuty rożne @ 13.0
+[2025-06-07 16:19:15]          • Bruno Fernandes strzeli gola, Bruno Fernandes 1+ asysty, Powyżej 4.5 Portugalia rzuty rożne @ 26.0
+[2025-06-07 16:19:15]          • Mikel Oyarzabal strzeli gola, Pedro Porro 1+ asysty, Powyżej 5.5 Hiszpania rzuty rożne @ 15.0
+[2025-06-07 16:19:15]          • Mikel Oyarzabal strzeli gola, Lamine Yamal 1+ asysty, Powyżej 5.5 Hiszpania rzuty rożne @ 13.0
+[2025-06-07 16:19:15]          • Lamine Yamal strzeli gola, Lamine Yamal 1+ asysty, Powyżej 5.5 Hiszpania rzuty rożne @ 17.0
+[2025-06-07 16:19:15]          • Lamine Yamal strzeli gola, Pedro Porro 1+ asysty, Powyżej 5.5 Hiszpania rzuty rożne @ 11.0
+[2025-06-07 16:19:15]          • Cristiano Ronaldo 1+ strzały w światło bramki, Powyżej 1.5 Portugalia goli, Powyżej 4.5 Portugalia rzuty rożne @ 5.75
+[2025-06-07 16:19:15]          • Lamine Yamal 1+ strzały w światło bramki, Powyżej 1.5 Hiszpania goli, Powyżej 5.5 Hiszpania rzuty rożne @ 4.1
+[2025-06-07 16:19:15]     - BĘDĄ SERIE RZUTÓW KARNYCH → 2 selekcji:
+[2025-06-07 16:19:15]          • Tak @ 5.4
+[2025-06-07 16:19:15]          • Nie @ 1.08
+[2025-06-07 16:19:15]     - ZOSTANIE ZDOBYTY HATTRICK → 2 selekcji:
+[2025-06-07 16:19:15]          • Tak @ 13.0
+[2025-06-07 16:19:15]          • Nie @ 1.01
+[2025-06-07 16:19:15]     - 1.POŁOWA/2.POŁOWA OBIE DRUŻYNY STRZELĄ GOLA → 4 selekcji:
+[2025-06-07 16:19:15]          • Nie/Tak @ 3.7
+[2025-06-07 16:19:15]          • Tak/Nie @ 5.4
+[2025-06-07 16:19:15]          • Tak/Tak @ 12.0
+[2025-06-07 16:19:15]          • Nie/Nie @ 1.76
+[2025-06-07 16:19:15]     - 2.POŁOWA: 1.GOL → 3 selekcji:
+[2025-06-07 16:19:15]          • Portugalia @ 2.89
+[2025-06-07 16:19:15]          • Nikt @ 4.95
+[2025-06-07 16:19:15]          • Hiszpania @ 1.92
+[2025-06-07 16:19:15]     - POŁOWA Z WIEKSZĄ LICZBĄ GOLI → 3 selekcji:
+[2025-06-07 16:19:15]          • Pierwszy @ 3.1
+[2025-06-07 16:19:15]          • Równo @ 3.75
+[2025-06-07 16:19:15]          • Drugi @ 2.09
+[2025-06-07 16:19:15]     - PORTUGALIA DOKŁADNA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:15]          • 0 @ 3.15
+[2025-06-07 16:19:15]          • 1 @ 2.26
+[2025-06-07 16:19:15]          • 2 @ 3.4
+[2025-06-07 16:19:15]          • 3+ @ 6.8
+[2025-06-07 16:19:15]     - HISZPANIA DOKŁADNA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:15]          • 0 @ 5.6
+[2025-06-07 16:19:15]          • 1 @ 2.7
+[2025-06-07 16:19:15]          • 2 @ 2.87
+[2025-06-07 16:19:15]          • 3+ @ 3.3
+[2025-06-07 16:19:15]     - 1.POŁOWA: DOKŁADNA LICZBA GOLI → 4 selekcji:
+[2025-06-07 16:19:15]          • 0 @ 3.4
+[2025-06-07 16:19:15]          • 1 @ 2.63
+[2025-06-07 16:19:15]          • 2 @ 3.7
+[2025-06-07 16:19:15]          • 3+ @ 5.4
+[2025-06-07 16:19:15]     - MULTIGOLE → 17 selekcji:
+[2025-06-07 16:19:15]          • 1-2 @ 2.57
+[2025-06-07 16:19:15]          • 1-3 @ 1.63
+[2025-06-07 16:19:15]          • 1-4 @ 1.27
+[2025-06-07 16:19:15]          • 1-5 @ 1.12
+[2025-06-07 16:19:15]          • 1-6 @ 1.05
+[2025-06-07 16:19:15]          • 2-3 @ 2.12
+[2025-06-07 16:19:15]          • 2-4 @ 1.54
+[2025-06-07 16:19:15]          • 2-5 @ 1.32
+[2025-06-07 16:19:15]          • 2-6 @ 1.23
+[2025-06-07 16:19:15]          • 3-4 @ 2.37
+[2025-06-07 16:19:15]          • 3-5 @ 1.89
+[2025-06-07 16:19:15]          • 3-6 @ 1.72
+[2025-06-07 16:19:15]          • 4-5 @ 3.3
+[2025-06-07 16:19:15]          • 4-6 @ 2.79
+[2025-06-07 16:19:15]          • 5-6 @ 5.5
+[2025-06-07 16:19:15]          • 7+ @ 20.0
+[2025-06-07 16:19:15]          • Brak goli @ 14.0
+[2025-06-07 16:19:15]     - PORTUGALIA MULTIGOLE → 5 selekcji:
+[2025-06-07 16:19:15]          • 1-2 @ 1.51
+[2025-06-07 16:19:15]          • 1-3 @ 1.33
+[2025-06-07 16:19:15]          • 2-3 @ 2.67
+[2025-06-07 16:19:15]          • 4+ @ 22.0
+[2025-06-07 16:19:15]          • Brak goli @ 3.15
+[2025-06-07 16:19:15]     - HISZPANIA MULTIGOLE → 5 selekcji:
+[2025-06-07 16:19:15]          • 1-2 @ 1.55
+[2025-06-07 16:19:15]          • 1-3 @ 1.23
+[2025-06-07 16:19:15]          • 2-3 @ 1.97
+[2025-06-07 16:19:15]          • 4+ @ 6.6
+[2025-06-07 16:19:15]          • Brak goli @ 5.6
+[2025-06-07 16:19:15]     - 1.POŁOWA: MULTIGOLE → 5 selekcji:
+[2025-06-07 16:19:15]          • 1-2 @ 1.53
+[2025-06-07 16:19:15]          • 1-3 @ 1.32
+[2025-06-07 16:19:15]          • 2-3 @ 2.46
+[2025-06-07 16:19:15]          • 4+ @ 15.0
+[2025-06-07 16:19:15]          • Brak goli @ 3.1
+[2025-06-07 16:19:15]     - 2.POŁOWA: MULTIGOLE → 5 selekcji:
+[2025-06-07 16:19:15]          • 1-2 @ 1.56
+[2025-06-07 16:19:15]          • 1-3 @ 1.26
+[2025-06-07 16:19:15]          • 2-3 @ 2.08
+[2025-06-07 16:19:15]          • 4+ @ 7.7
+[2025-06-07 16:19:15]          • Brak goli @ 4.15
+[2025-06-07 16:19:15]     - 2.POŁOWA: DOKŁADNA LICZBA GOLI → 3 selekcji:
+[2025-06-07 16:19:15]          • 0 @ 4.15
+[2025-06-07 16:19:15]          • 1 @ 2.7
+[2025-06-07 16:19:15]          • 2+ @ 1.74
+[2025-06-07 16:19:15]     - 1.POŁOWA: DOKŁADNY WYNIK → 10 selekcji:
+[2025-06-07 16:19:15]          • 1:0 @ 6.2
+[2025-06-07 16:19:15]          • 2:0 @ 20.0
+[2025-06-07 16:19:15]          • 2:1 @ 23.0
+[2025-06-07 16:19:15]          • 0:0 @ 3.45
+[2025-06-07 16:19:15]          • 1:1 @ 6.9
+[2025-06-07 16:19:15]          • 2:2 @ 44.0
+[2025-06-07 16:19:15]          • 1:2 @ 15.0
+[2025-06-07 16:19:15]          • 0:2 @ 9.1
+[2025-06-07 16:19:15]          • 0:1 @ 4.2
+[2025-06-07 16:19:15]          • inny @ 11.5
+[2025-06-07 16:19:15]     - 2.POŁOWA: DOKŁADNY WYNIK → 10 selekcji:
+[2025-06-07 16:19:15]          • 1:0 @ 6.8
+[2025-06-07 16:19:15]          • 2:0 @ 18.0
+[2025-06-07 16:19:15]          • 2:1 @ 16.0
+[2025-06-07 16:19:15]          • 0:0 @ 4.85
+[2025-06-07 16:19:15]          • 1:1 @ 6.3
+[2025-06-07 16:19:15]          • 2:2 @ 30.0
+[2025-06-07 16:19:15]          • 1:2 @ 11.0
+[2025-06-07 16:19:15]          • 0:2 @ 8.8
+[2025-06-07 16:19:15]          • 0:1 @ 4.75
+[2025-06-07 16:19:15]          • inny @ 7.8
+[2025-06-07 16:19:15]     - OBIE DRUŻYNY STRZELĄ GOLA LUB LICZBA GOLI WYŻSZA NIŻ → 6 selekcji:
+[2025-06-07 16:19:15]          • Tak 0.5 @ 1.01
+[2025-06-07 16:19:15]          • Tak 1.5 @ 1.17
+[2025-06-07 16:19:15]          • Tak 2.5 @ 1.34
+[2025-06-07 16:19:15]          • Tak 3.5 @ 1.45
+[2025-06-07 16:19:15]          • Tak 4.5 @ 1.5
+[2025-06-07 16:19:15]          • Tak 5.5 @ 1.52
+[2025-06-07 16:19:15]     - 1.POŁOWA/OBIE DRUŻYNY STRZELĄ GOLA W 1.POŁOWIE → 6 selekcji:
+[2025-06-07 16:19:15]          • Portugalia/Tak @ 21.0
+[2025-06-07 16:19:15]          • 0/Tak @ 7.0
+[2025-06-07 16:19:15]          • Hiszpania/Tak @ 13.0
+[2025-06-07 16:19:15]          • Portugalia/Nie @ 4.9
+[2025-06-07 16:19:15]          • 0/Nie @ 3.45
+[2025-06-07 16:19:15]          • Hiszpania/Nie @ 2.8
+[2025-06-07 16:19:15]     - 2.POŁOWA/OBIE DRUŻYNY STRZELĄ GOLA W 2.POŁOWIE → 6 selekcji:
+[2025-06-07 16:19:15]          • Portugalia/Tak @ 14.0
+[2025-06-07 16:19:15]          • 0/Tak @ 6.0
+[2025-06-07 16:19:15]          • Hiszpania/Tak @ 8.8
+[2025-06-07 16:19:15]          • Portugalia/Nie @ 4.8
+[2025-06-07 16:19:15]          • 0/Nie @ 4.9
+[2025-06-07 16:19:15]          • Hiszpania/Nie @ 2.85
+[2025-06-07 16:19:15]     - DWÓJTYP/LICZBA GOLI → 36 selekcji:
+[2025-06-07 16:19:15]          • 10/- 1.5 @ 9.3
+[2025-06-07 16:19:15]          • 10/+ 1.5 @ 2.08
+[2025-06-07 16:19:15]          • 02/- 1.5 @ 6.9
+[2025-06-07 16:19:15]          • 02/+ 1.5 @ 1.37
+[2025-06-07 16:19:15]          • 12/- 1.5 @ 6.8
+[2025-06-07 16:19:15]          • 12/+ 1.5 @ 1.43
+[2025-06-07 16:19:15]          • 10/- 2.5 @ 3.4
+[2025-06-07 16:19:15]          • 10/+ 2.5 @ 3.25
+[2025-06-07 16:19:15]          • 02/- 2.5 @ 2.67
+[2025-06-07 16:19:15]          • 02/+ 2.5 @ 1.97
+[2025-06-07 16:19:15]          • 12/- 2.5 @ 3.55
+[2025-06-07 16:19:15]          • 12/+ 2.5 @ 1.75
+[2025-06-07 16:19:15]          • 10/- 3.5 @ 2.48
+[2025-06-07 16:19:15]          • 10/+ 3.5 @ 5.0
+[2025-06-07 16:19:15]          • 02/- 3.5 @ 1.81
+[2025-06-07 16:19:15]          • 02/+ 3.5 @ 3.05
+[2025-06-07 16:19:15]          • 12/- 3.5 @ 1.86
+[2025-06-07 16:19:15]          • 12/+ 3.5 @ 3.2
+[2025-06-07 16:19:15]          • 10/- 4.5 @ 1.97
+[2025-06-07 16:19:15]          • 10/+ 4.5 @ 14.0
+[2025-06-07 16:19:15]          • 02/- 4.5 @ 1.41
+[2025-06-07 16:19:15]          • 02/+ 4.5 @ 6.6
+[2025-06-07 16:19:15]          • 12/- 4.5 @ 1.52
+[2025-06-07 16:19:15]          • 12/+ 4.5 @ 5.2
+[2025-06-07 16:19:15]          • 10/- 5.5 @ 1.85
+[2025-06-07 16:19:15]          • 10/+ 5.5 @ 26.0
+[2025-06-07 16:19:15]          • 02/- 5.5 @ 1.28
+[2025-06-07 16:19:15]          • 02/+ 5.5 @ 13.5
+[2025-06-07 16:19:15]          • 12/- 5.5 @ 1.31
+[2025-06-07 16:19:15]          • 12/+ 5.5 @ 13.5
+[2025-06-07 16:19:15]          • 10/- 6.5 @ 1.78
+[2025-06-07 16:19:15]          • 10/+ 6.5 @ 85.0
+[2025-06-07 16:19:15]          • 02/- 6.5 @ 1.21
+[2025-06-07 16:19:15]          • 02/+ 6.5 @ 36.0
+[2025-06-07 16:19:15]          • 12/- 6.5 @ 1.26
+[2025-06-07 16:19:15]          • 12/+ 6.5 @ 30.0
+[2025-06-07 16:19:15]     - DWÓJTYP/OBIE DRUŻYNY STRZELĄ GOLA → 6 selekcji:
+[2025-06-07 16:19:15]          • 10/Tak @ 2.42
+[2025-06-07 16:19:15]          • 10/Nie @ 5.5
+[2025-06-07 16:19:15]          • 02/Tak @ 1.81
+[2025-06-07 16:19:15]          • 02/Nie @ 3.1
+[2025-06-07 16:19:15]          • 12/Tak @ 2.08
+[2025-06-07 16:19:15]          • 12/Nie @ 2.68
+[2025-06-07 16:19:15]     - MECZ: LICZBA RZUTÓW ROŻNYCH HANDICAP → 4 selekcji:
+[2025-06-07 16:19:15]          • Portugalia +1.5 @ 1.7
+[2025-06-07 16:19:15]          • Hiszpania -1.5 @ 1.91
+[2025-06-07 16:19:15]          • Portugalia +2.5 @ 1.44
+[2025-06-07 16:19:15]          • Hiszpania -2.5 @ 2.4
+[2025-06-07 16:19:15]     - 1.POŁOWA: WIĘCEJ RZUTÓW ROŻNYCH → 3 selekcji:
+[2025-06-07 16:19:15]          • Portugalia @ 2.7
+[2025-06-07 16:19:15]          • Rowno @ 5.0
+[2025-06-07 16:19:15]          • Hiszpania @ 1.85

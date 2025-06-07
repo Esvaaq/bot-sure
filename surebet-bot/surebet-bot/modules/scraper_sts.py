@@ -34,7 +34,8 @@ OUT_CSV_FILE               = "sts_data.csv"
 # Teraz definiujemy listę lig do skanowania:
 LEAGUES_TO_SCAN = [
     #"https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/brazylia/1-liga/184/30863/86452",
-    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/2-liga/184/31033/88200"
+    #"https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/argentyna/2-liga/184/31033/88200",
+    "https://www.sts.pl/zaklady-bukmacherskie/pilka-nozna/miedzynarodowe/liga-narodow-uefa/184/30851/86422",
 ]
 
 # ————————————
@@ -622,3 +623,76 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Dodaj poniższą funkcję do pliku surebet-bot/modules/scraper_sts.py
+
+def main_scrape(bot):
+    print("[scraper_sts] ► START sts_main_scrape()", flush=True)
+    """
+    Jednorazowy przebieg skanowania lig z LEAGUES_TO_SCAN:
+    - pobieranie linków do meczów z każdej ligi
+    - dla każdego linku parsowanie strony meczu
+    - zapisywanie wyników do CSV (append_match_to_csv)
+    - pauzy między żądaniami i okresowa pauza po SCAN_LIMIT_BEFORE_PAUSE skanach
+    - po zakończeniu pętli lig oczyszczanie stale trzymanych match_id, by móc je pobrać ponownie po MATCH_SKIP_TIME
+    """
+    scan_count = 0
+
+    log("START BOTA STS (jednorazowe skanowanie + zapisywanie do CSV)")
+
+    for league_url in LEAGUES_TO_SCAN:
+        log(f"INFO: Pobieram listę meczów z ligi: {league_url}")
+        match_links = get_match_links(league_url)
+        if not match_links:
+            # jeśli nie udało się pobrać żadnych linków, odczekaj chwilę i idź dalej
+            time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+            continue
+
+        for link in match_links:
+            details = parse_match_page(link)
+            if not details or not details.get("match_id"):
+                log(f"[DEBUG] Brak danych z parse_match_page dla: {link}")
+                time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+                continue
+
+            # Log podstawowych informacji o meczu
+            log_msg = (
+                f"INFO: [{details['match_id']}] {details['match_name']} | "
+                f"{details['sport']} | {details['competition']}"
+            )
+            if details["datetime"]:
+                log_msg += f" | {details['datetime'].strftime('%d.%m.%Y %H:%M')}"
+            else:
+                log_msg += " | data/godzina nieznana"
+            log(log_msg)
+
+            # Jeśli są jakieś rynki/ kursy, pokaż je w logu
+            if details.get("markets"):
+                for m in details["markets"]:
+                    log(f"    - {m['market']} / {m['selection']} @ {m['odds']}")
+            else:
+                log("    Brak rynków / kursów na stronie meczu")
+
+            # Zapisz dane meczu do pliku CSV (podmiana starszych wierszy, usunięcie wpisów starszych niż 24h)
+            append_match_to_csv(details, OUT_CSV_FILE)
+
+            # Odnotuj, że ten match_id był zeskanowany w tej iteracji
+            scanned_matches[details["match_id"]] = datetime.now()
+            scan_count += 1
+
+            # Po pewnej liczbie skanów zrób dłuższą pauzę
+            if scan_count >= SCAN_LIMIT_BEFORE_PAUSE:
+                pause = random.randint(*PAUSE_TIME_RANGE)
+                log(f"PAUSE: Pauza na {pause}s po {SCAN_LIMIT_BEFORE_PAUSE} skanach")
+                time.sleep(pause)
+                scan_count = 0
+
+            # Krótka pauza między kolejnymi meczami
+            time.sleep(random.randint(*SLEEP_BETWEEN_REQUESTS))
+
+        # Po zakończeniu przetwarzania jednej ligi, usuń z scanned_matches te match_id,
+        # które były zeskanowane ponad MATCH_SKIP_TIME sekund temu,
+        # aby w przyszłości mogły być pobrane ponownie
+        now = datetime.now()
+        for key, ts in list(scanned_matches.items()):
+            if (now - ts).seconds > MATCH_SKIP_TIME:
+                del scanned_matches[key]
